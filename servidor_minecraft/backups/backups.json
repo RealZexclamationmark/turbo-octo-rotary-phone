@@ -1,0 +1,17 @@
+{
+  "backups": [
+    {
+      "worldName": "world",
+      "createTime": 1743456600041,
+      "backupLocation": "/workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-3-31_21-30-0.zip",
+      "size": 946562,
+      "ratio": 0.26779866,
+      "sha1": "3c749ce6b6f362297fd1f5db88cb0ee03b96a9e0",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    }
+  ]
+}

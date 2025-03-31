@@ -1,0 +1,9 @@
+[22:48:23] [INFO ] Loaded script startup_scripts:worldgen.js in 0.55 s
+[22:48:23] [INFO ] Loaded script startup_scripts:forgevent.js in 0.033 s
+[22:48:23] [INFO ] Loaded script startup_scripts:block.modification.js in 0.017 s
+[22:48:23] [INFO ] Loaded script startup_scripts:sbd.js in 0.08 s
+[22:48:23] [INFO ] Loaded script startup_scripts:registry.js in 0.031 s
+[22:48:23] [INFO ] Loaded script startup_scripts:sdrp.js in 0.091 s
+[22:48:23] [INFO ] Loaded script startup_scripts:global.js in 0.016 s
+[22:48:23] [INFO ] Loaded script startup_scripts:event_commands.js in 0.018 s
+[22:48:23] [INFO ] Loaded 8/8 KubeJS startup scripts in 2.765 s

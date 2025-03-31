@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "f1f8f6db5d463b59aeada34997a0cdc6"
+	name: "CagdasWFX"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

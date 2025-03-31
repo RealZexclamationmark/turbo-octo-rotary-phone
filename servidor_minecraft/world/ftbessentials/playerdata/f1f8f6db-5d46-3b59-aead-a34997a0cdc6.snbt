@@ -1,0 +1,11 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	name: "CagdasWFX"
+	last_seen: { dim: "minecraft:overworld", x: 3, y: 5, z: 27, time: 1743456293989L, xRot: -10.0f, yRot: -180.0f }
+	recording: 0
+	teleport_history: [ ]
+	homes: { }
+}
