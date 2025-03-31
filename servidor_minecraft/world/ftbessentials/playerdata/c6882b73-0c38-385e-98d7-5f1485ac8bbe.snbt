@@ -1,0 +1,11 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	name: "RealZSs"
+	last_seen: { dim: "minecraft:overworld", x: 3, y: 5, z: 27, time: 1743461832977L, xRot: -10.0f, yRot: -180.0f }
+	recording: 0
+	teleport_history: [ ]
+	homes: { }
+}

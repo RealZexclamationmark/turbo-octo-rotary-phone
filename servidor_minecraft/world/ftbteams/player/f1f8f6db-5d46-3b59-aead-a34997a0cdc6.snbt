@@ -2,9 +2,7 @@
 	id: "f1f8f6db-5d46-3b59-aead-a34997a0cdc6"
 	type: "player"
 	player_name: "CagdasWFX"
-	ranks: {
-		f1f8f6db-5d46-3b59-aead-a34997a0cdc6: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "CagdasWFX"
 		"ftbteams:description": ""
