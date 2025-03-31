@@ -3191,3 +3191,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Mar2025 23:06:58.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <--[HERE]
 [31Mar2025 23:06:58.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
 [31Mar2025 23:06:58.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <--[HERE]
+[31Mar2025 23:09:09.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Creative Mode]
+[31Mar2025 23:09:15.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[31Mar2025 23:09:36.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Stone Age]
+[31Mar2025 23:10:55.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Stone Age]
+[31Mar2025 23:17:02.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Getting an Upgrade]
