@@ -9,6 +9,8 @@
 	teleport_history: [
 		{ dim: "minecraft:overworld", x: -5, y: 4, z: 13, time: 1743462060790L, xRot: 1.9756769f, yRot: -111.206985f }
 		{ dim: "minecraft:overworld", x: 7, y: 5, z: 28, time: 1743462305232L, xRot: 16.127443f, yRot: 135.4132f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -53, y: -1, z: 2, time: 1743463191280L, xRot: 26.767992f, yRot: -95.491455f }
+		{ dim: "minecraft:overworld", x: 4, y: 6, z: 0, time: 1743463201517L, xRot: 14.423402f, yRot: 45.31305f }
 	]
 	homes: { }
 }

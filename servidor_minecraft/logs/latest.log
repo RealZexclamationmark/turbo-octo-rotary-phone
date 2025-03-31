@@ -3196,3 +3196,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Mar2025 23:09:36.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Stone Age]
 [31Mar2025 23:10:55.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Stone Age]
 [31Mar2025 23:17:02.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Getting an Upgrade]
+[31Mar2025 23:19:30.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Monster Hunter]
+[31Mar2025 23:19:35.279] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2378831a
+[31Mar2025 23:19:35.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MustafaT80[/127.255.49.174:54235] logged in with entity id 2573 at (3.5, 29.0, 27.5)
+[31Mar2025 23:19:35.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 joined the game
+[31Mar2025 23:19:35.406] [Server thread/INFO] [Waila/]: Syncing config to MustafaT80 (4f190f29-003b-3343-a33c-0b5ec23cd4c3)
+[31Mar2025 23:19:35.710] [Thread-54/INFO] [chancecubes/]: No custom rewards detected for the current user!
+[31Mar2025 23:19:51.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX was blown up by Creeper
+[31Mar2025 23:20:01.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported CagdasWFX to RealZSs]
+[31Mar2025 23:20:14.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported MustafaT80 to RealZSs]
+[31Mar2025 23:20:20.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Suit Up]
+[31Mar2025 23:22:23.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Personal Shrinking Device]
+[31Mar2025 23:26:31.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 has made the advancement [Stone Age]
+[31Mar2025 23:27:40.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 has made the advancement [Personal Shrinking Device]
