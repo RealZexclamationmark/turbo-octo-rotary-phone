@@ -3209,3 +3209,53 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Mar2025 23:22:23.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Personal Shrinking Device]
 [31Mar2025 23:26:31.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 has made the advancement [Stone Age]
 [31Mar2025 23:27:40.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 has made the advancement [Personal Shrinking Device]
+[31Mar2025 23:28:36.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Monster Hunter]
+[31Mar2025 23:28:38.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Getting an Upgrade]
+[31Mar2025 23:29:21.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 has made the advancement [Getting an Upgrade]
+[31Mar2025 23:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[31Mar2025 23:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Found world folder at /workspaces/turbo-octo-rotary-phone/servidor_minecraft/./world/.
+[31Mar2025 23:30:00.033] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Last backup size: 1022.4KB Current world size: 13.4MB Current Available space: 19.1GB ExpectedSize 3.6MB
+[31Mar2025 23:30:00.034] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to true
+[31Mar2025 23:30:00.034] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to true
+[31Mar2025 23:30:00.034] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to true
+[31Mar2025 23:30:00.034] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world bloodmagic:dungeon save state to true
+[31Mar2025 23:30:00.034] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to true
+[31Mar2025 23:30:00.034] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world compactmachines:compact_world save state to true
+[31Mar2025 23:30:00.034] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ftbsbc:team/meltons-abridger-smeared save state to true
+[31Mar2025 23:30:00.034] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/backups.json
+[31Mar2025 23:30:00.036] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Waiting for world save to complete.
+[31Mar2025 23:30:00.298] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Detected MC Version 1.18.2, Data version 2975
+[31Mar2025 23:30:00.298] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Save Name: world
+[31Mar2025 23:30:00.303] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ae2:spatial_storage
+[31Mar2025 23:30:00.303] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder bloodmagic:dungeon
+[31Mar2025 23:30:00.303] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder compactmachines:compact_world
+[31Mar2025 23:30:00.303] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ftbsbc:team
+[31Mar2025 23:30:00.303] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/turbo-octo-rotary-phone/servidor_minecraft/./world/./DIM-1
+[31Mar2025 23:30:00.303] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/turbo-octo-rotary-phone/servidor_minecraft/./world/./DIM1
+[31Mar2025 23:30:01.162] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup preview created, Scan took 133ms, Capture took 841ms
+[31Mar2025 23:30:01.514] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to false
+[31Mar2025 23:30:01.514] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to false
+[31Mar2025 23:30:01.514] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to false
+[31Mar2025 23:30:01.515] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world bloodmagic:dungeon save state to false
+[31Mar2025 23:30:01.515] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to false
+[31Mar2025 23:30:01.515] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world compactmachines:compact_world save state to false
+[31Mar2025 23:30:01.515] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ftbsbc:team/meltons-abridger-smeared save state to false
+[31Mar2025 23:30:01.522] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup size 3.4MB World Size 13.4MB
+[31Mar2025 23:30:01.523] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/backups.json
+[31Mar2025 23:30:01.523] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: New backup created at /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-3-31_23-30-0.zip size: 3.4MB Took: 0m, 1s, 480ms Sha1: 2d3f0f6a19e3a0e162d3802964523d2cc1f9ad3f
+[31Mar2025 23:30:42.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs was slain by MustafaT80
+[31Mar2025 23:30:43.838] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@30fdfb08 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[31Mar2025 23:30:43.838] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@14432133 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[31Mar2025 23:30:43.838] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@5d491e8f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[31Mar2025 23:30:43.838] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6b20299f (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[31Mar2025 23:30:43.838] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@79538abd (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[31Mar2025 23:30:43.838] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@52c3f626 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[31Mar2025 23:30:47.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Banned MustafaT80: Banned by an operator.]
+[31Mar2025 23:30:47.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MustafaT80 lost connection: You are banned from this server
+[31Mar2025 23:30:47.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 left the game
+[31Mar2025 23:30:47.394] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Mar2025 23:32:20.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX was slain by RealZSs
+[31Mar2025 23:32:27.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported CagdasWFX to RealZSs]
+[31Mar2025 23:34:28.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Acquire Hardware]
+[31Mar2025 23:35:16.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CagdasWFX lost connection: Disconnected
+[31Mar2025 23:35:16.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX left the game

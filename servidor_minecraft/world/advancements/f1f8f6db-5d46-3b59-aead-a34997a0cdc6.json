@@ -401,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-03-31 23:28:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-31 23:25:41 +0000"
@@ -446,6 +452,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-03-31 23:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-31 23:28:00 +0000"
     },
     "done": true
   },
@@ -617,6 +629,12 @@
       "has_bamboo": "2025-03-31 23:05:34 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-03-31 23:28:36 +0000"
+    },
+    "done": false
   },
   "mcwfences:recipes/quartz": {
     "criteria": {
@@ -1075,6 +1093,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-03-31 23:28:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-03-31 23:16:51 +0000"
@@ -1211,6 +1235,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-03-31 23:16:51 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-03-31 23:28:00 +0000"
     },
     "done": true
   },

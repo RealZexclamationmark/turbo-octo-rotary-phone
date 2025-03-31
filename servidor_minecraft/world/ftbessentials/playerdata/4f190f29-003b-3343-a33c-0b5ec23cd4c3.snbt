@@ -4,7 +4,7 @@
 	god: false
 	nick: ""
 	name: "MustafaT80"
-	last_seen: { dim: "minecraft:overworld", x: 3, y: 5, z: 27, time: 1743463175406L, xRot: -10.0f, yRot: -180.0f }
+	last_seen: { dim: "ftbsbc:team/meltons-abridger-smeared", x: -19, y: -1, z: 1, time: 1743463847377L, xRot: 0.77851075f, yRot: -90.092224f }
 	recording: 0
 	teleport_history: [{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -8, y: -1, z: -3, time: 1743463214585L, xRot: -6.099952f, yRot: -151.34726f }]
 	homes: { }

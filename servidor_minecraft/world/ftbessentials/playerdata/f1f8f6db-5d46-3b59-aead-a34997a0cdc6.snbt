@@ -4,13 +4,15 @@
 	god: false
 	nick: ""
 	name: "CagdasWFX"
-	last_seen: { dim: "minecraft:overworld", x: 3, y: 5, z: 27, time: 1743461973283L, xRot: -10.0f, yRot: -180.0f }
+	last_seen: { dim: "ftbsbc:team/meltons-abridger-smeared", x: 1, y: -1, z: 0, time: 1743464116377L, xRot: 6.272674f, yRot: 21.977905f }
 	recording: 0
 	teleport_history: [
 		{ dim: "minecraft:overworld", x: -5, y: 4, z: 13, time: 1743462060790L, xRot: 1.9756769f, yRot: -111.206985f }
 		{ dim: "minecraft:overworld", x: 7, y: 5, z: 28, time: 1743462305232L, xRot: 16.127443f, yRot: 135.4132f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -53, y: -1, z: 2, time: 1743463191280L, xRot: 26.767992f, yRot: -95.491455f }
 		{ dim: "minecraft:overworld", x: 4, y: 6, z: 0, time: 1743463201517L, xRot: 14.423402f, yRot: 45.31305f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -12, y: -1, z: 2, time: 1743463940554L, xRot: 25.156664f, yRot: -29.711426f }
+		{ dim: "minecraft:overworld", x: 0, y: 5, z: 17, time: 1743463947381L, xRot: 6.571125f, yRot: 169.04881f }
 	]
 	homes: { }
 }
