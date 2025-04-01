@@ -3491,3 +3491,42 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Apr2025 04:39:12.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported RealZSs to CagdasWFX]
 [01Apr2025 04:40:33.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [All that Matters.]
 [01Apr2025 04:44:31.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Instrumental Mobs]
+[01Apr2025 04:50:09.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> ben cıktı
+[01Apr2025 04:50:11.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> bbbbb
+[01Apr2025 04:50:45.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CagdasWFX lost connection: Disconnected
+[01Apr2025 04:50:45.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX left the game
+[01Apr2025 04:50:58.925] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3afedb1b[id=<null>,name=CagdasWFX,properties={},legacy=false] (/127.106.254.50:40401) lost connection: Disconnected
+[01Apr2025 04:51:08.743] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@22e2c333
+[01Apr2025 04:51:08.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CagdasWFX[/127.106.254.50:58503] logged in with entity id 47820 at (-705.8617085251346, -42.0, 16.549647884118865)
+[01Apr2025 04:51:08.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX joined the game
+[01Apr2025 04:51:08.900] [Server thread/INFO] [Waila/]: Syncing config to CagdasWFX (f1f8f6db-5d46-3b59-aead-a34997a0cdc6)
+[01Apr2025 04:51:09.217] [Thread-145/INFO] [chancecubes/]: No custom rewards detected for the current user!
+[01Apr2025 04:51:26.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CagdasWFX lost connection: Disconnected
+[01Apr2025 04:51:26.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX left the game
+[01Apr2025 04:54:02.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RealZSs lost connection: Disconnected
+[01Apr2025 04:54:02.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs left the game
+[01Apr2025 04:54:17.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[01Apr2025 04:54:17.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[01Apr2025 04:54:20.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[01Apr2025 04:54:20.722] [Server thread/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Shutdown Complete
+[01Apr2025 04:54:20.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Apr2025 04:54:20.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Apr2025 04:54:20.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Apr2025 04:54:21.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Apr2025 04:54:21.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/compactmachines:compact_world
+[01Apr2025 04:54:21.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloodmagic:dungeon
+[01Apr2025 04:54:21.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Apr2025 04:54:21.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Apr2025 04:54:21.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ftbsbc:team/meltons-abridger-smeared
+[01Apr2025 04:54:21.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[01Apr2025 04:54:22.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Apr2025 04:54:22.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[01Apr2025 04:54:22.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[01Apr2025 04:54:22.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Apr2025 04:54:22.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Apr2025 04:54:22.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (meltons-abridger-smeared): All chunks are saved
+[01Apr2025 04:54:22.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[01Apr2025 04:54:22.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Apr2025 04:54:22.042] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
+[01Apr2025 04:54:22.045] [Server thread/INFO] [configured/]: Unloading server configs...
+[01Apr2025 04:54:22.045] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml

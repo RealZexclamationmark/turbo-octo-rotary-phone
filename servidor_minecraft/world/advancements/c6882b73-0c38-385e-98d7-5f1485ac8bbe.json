@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-01 04:46:17 +0000"
+    },
+    "done": true
+  },
   "buddingcrystals:recipes/buddingcrystals/budding_diamond": {
     "criteria": {
       "has_diamond": "2025-03-31 23:49:12 +0000"
@@ -128,6 +134,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 04:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-04-01 04:44:18 +0000"
     },
     "done": true
   },
@@ -305,6 +317,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/justhammers.justhammers_tab/iron_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-03-31 23:41:58 +0000"
@@ -326,6 +344,12 @@
   "chiselsandbits:recipes/chiselsandbits/chisel_iron": {
     "criteria": {
       "has_rod": "2025-03-31 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-01 04:46:17 +0000"
     },
     "done": true
   },
@@ -624,6 +648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-01 04:51:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2025-03-31 23:39:17 +0000"
@@ -720,6 +750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-01 04:48:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-03-31 23:16:30 +0000"
@@ -807,6 +843,12 @@
   "justhammers:recipes/justhammers.justhammers_tab/stone_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-03-31 23:09:10 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-04-01 04:44:18 +0000"
     },
     "done": true
   },
@@ -942,6 +984,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/medium_covalence_dust": {
     "criteria": {
       "has_redstone": "2025-03-31 23:50:26 +0000"
@@ -1068,6 +1116,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-01 04:44:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-03-31 23:16:30 +0000"
@@ -1089,6 +1143,12 @@
   "create:recipes/create.base/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-03-31 23:50:25 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-01 04:44:18 +0000"
     },
     "done": true
   },
@@ -1155,6 +1215,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-04-01 03:36:02 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-04-01 04:44:18 +0000"
     },
     "done": true
   },
@@ -1389,9 +1455,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/spruce_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-04-01 04:44:18 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/netcable_blue": {
     "criteria": {
       "nugget": "2025-04-01 04:36:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
     },
     "done": true
   },
@@ -1440,6 +1518,12 @@
   "projecte:recipes/projecte/red_matter": {
     "criteria": {
       "has_matter": "2025-04-01 04:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-01 04:51:56 +0000"
     },
     "done": true
   },
@@ -1605,6 +1689,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_spruce_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-01 04:44:18 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/granite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-04-01 03:46:53 +0000"
@@ -1662,6 +1752,12 @@
   "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 23:15:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
     },
     "done": true
   },
@@ -1740,6 +1836,12 @@
   "farmersdelight:recipes/farmersdelight/skillet": {
     "criteria": {
       "has_brick": "2025-04-01 04:27:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
     },
     "done": true
   },
@@ -1951,6 +2053,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-31 23:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-01 04:51:56 +0000"
     },
     "done": true
   },
@@ -2179,6 +2287,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-03-31 23:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-01 04:46:17 +0000"
     },
     "done": true
   },
@@ -2431,6 +2545,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-03-31 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-04-01 04:44:18 +0000"
     },
     "done": true
   },
@@ -2855,6 +2975,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-01 04:46:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2025-03-31 23:39:17 +0000"
@@ -2942,6 +3068,12 @@
   "rftoolsbuilder:recipes/rftoolsbuilder/green_shield_template_block": {
     "criteria": {
       "glass": "2025-03-31 23:58:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
     },
     "done": true
   },
@@ -3071,6 +3203,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/spruce_planks": {
+    "criteria": {
+      "has_planks": "2025-04-01 04:44:18 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_upgrade": {
     "criteria": {
       "pearl": "2025-04-01 03:42:45 +0000"
@@ -3158,6 +3296,12 @@
   "projecte:recipes/projecte/dm_hoe": {
     "criteria": {
       "has_matter": "2025-04-01 04:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-01 04:44:18 +0000"
     },
     "done": true
   },
@@ -3372,6 +3516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-04-01 04:44:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-01 04:37:14 +0000"
@@ -3423,6 +3573,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-31 23:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-01 04:44:18 +0000"
     },
     "done": true
   },
@@ -3507,6 +3663,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-31 23:09:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_minecraft/spruce": {
+    "criteria": {
+      "has_plank": "2025-04-01 04:44:18 +0000"
     },
     "done": true
   },
@@ -3669,6 +3831,12 @@
   "create:recipes/create.base/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-04-01 03:53:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
     },
     "done": true
   },
@@ -3961,6 +4129,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2025-03-31 23:16:41 +0000"
@@ -4218,6 +4392,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-03-31 23:16:22 +0000"
@@ -4275,6 +4455,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/manual": {
     "criteria": {
       "has_book": "2025-04-01 03:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-01 04:48:44 +0000"
     },
     "done": true
   },
@@ -4443,6 +4629,12 @@
   "botania:recipes/botania/brewery": {
     "criteria": {
       "has_alt_item": "2025-04-01 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
     },
     "done": true
   },
@@ -4626,6 +4818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-01 04:48:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-01 04:37:14 +0000"
@@ -4641,6 +4839,12 @@
   "botania:recipes/botania/pump": {
     "criteria": {
       "has_item": "2025-04-01 03:53:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-01 04:44:18 +0000"
     },
     "done": true
   },
@@ -4803,6 +5007,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-03-31 23:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-01 04:46:17 +0000"
     },
     "done": true
   },
@@ -5046,6 +5256,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_boots": {
     "criteria": {
       "has_item": "2025-04-01 03:53:42 +0000"
@@ -5142,6 +5358,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/empty_shell": {
     "criteria": {
       "has_coppper_ingot": "2025-04-01 03:53:42 +0000"
@@ -5157,6 +5379,18 @@
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-04-01 03:41:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
     },
     "done": true
   },
@@ -5276,6 +5510,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
+    },
+    "done": true
+  },
   "rftoolsstorage:recipes/rftoolsstorage/dump_module": {
     "criteria": {
       "ingot": "2025-03-31 23:34:28 +0000"
@@ -5345,6 +5585,12 @@
   "buddingcrystals:recipes/buddingcrystals/budding_redstone": {
     "criteria": {
       "has_redstone": "2025-03-31 23:50:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
     },
     "done": true
   },
@@ -5534,9 +5780,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/combat/tools/nether_quartz_sword": {
     "criteria": {
       "has_nether_quartz": "2025-04-01 02:38:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
     },
     "done": true
   },
@@ -5573,6 +5831,12 @@
   "mcwbridges:recipes/asian_red_bridge_pier": {
     "criteria": {
       "has_planks": "2025-03-31 23:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-01 04:46:17 +0000"
     },
     "done": true
   },
@@ -5846,6 +6110,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-04-01 04:44:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-01 04:37:14 +0000"
@@ -5918,6 +6188,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-01 04:44:18 +0000"
+    },
+    "done": true
+  },
   "buddingcrystals:recipes/buddingcrystals/budding_lapis_lazuli": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-31 23:49:12 +0000"
@@ -5933,6 +6209,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-03-31 23:58:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
     },
     "done": true
   },
@@ -6250,6 +6532,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_minecraft/spruce": {
+    "criteria": {
+      "has_plank": "2025-04-01 04:44:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-04-01 03:00:01 +0000"
@@ -6259,6 +6547,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-04-01 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-04-01 04:44:18 +0000"
     },
     "done": true
   },
@@ -6664,6 +6958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-04-01 04:42:08 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/chiselsandbits/chisel_gold": {
     "criteria": {
       "has_rod": "2025-03-31 23:16:41 +0000"
@@ -6733,6 +7033,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2025-04-01 03:53:42 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2025-04-01 04:46:17 +0000"
     },
     "done": true
   },
