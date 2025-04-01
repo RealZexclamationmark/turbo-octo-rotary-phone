@@ -204,6 +204,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/pocket_computer_advanced": {
+    "criteria": {
+      "has_apple": "2025-04-01 03:28:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-03-31 23:16:41 +0000"
@@ -213,6 +219,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-03-31 23:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-01 03:20:04 +0000"
     },
     "done": true
   },
@@ -877,6 +889,7 @@
       "minecraft:skeleton": "2025-04-01 02:27:57 +0000",
       "minecraft:spider": "2025-04-01 02:29:43 +0000",
       "minecraft:creeper": "2025-04-01 02:29:18 +0000",
+      "minecraft:enderman": "2025-04-01 03:30:30 +0000",
       "minecraft:zombie": "2025-03-31 23:19:30 +0000",
       "minecraft:zombie_villager": "2025-04-01 02:29:19 +0000"
     },
@@ -1224,6 +1237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-04-01 03:21:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-03-31 23:12:35 +0000"
@@ -1467,6 +1486,12 @@
   "rftoolsutility:recipes/rftoolsutility/crafter2": {
     "criteria": {
       "crafter1": "2025-03-31 23:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-01 03:27:58 +0000"
     },
     "done": true
   },
@@ -2426,6 +2451,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-03-31 23:22:01 +0000",
+      "bread": "2025-04-01 03:21:26 +0000",
       "glow_berries": "2025-03-31 23:06:02 +0000"
     },
     "done": false
@@ -3220,7 +3246,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "glow_berries": "2025-03-31 23:10:43 +0000"
+      "glow_berries": "2025-03-31 23:10:43 +0000",
+      "potato": "2025-04-01 03:24:42 +0000"
     },
     "done": false
   },
@@ -3308,6 +3335,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/pocket_computer_normal": {
+    "criteria": {
+      "has_apple": "2025-04-01 03:28:24 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/misc/tiny_tnt": {
     "criteria": {
       "has_dusts/quartz": "2025-03-31 23:50:26 +0000"
@@ -3371,6 +3404,12 @@
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-31 23:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-01 03:21:40 +0000"
     },
     "done": true
   },
@@ -3527,6 +3566,12 @@
   "tconstruct:recipes/misc/common/slime/earth/crystal_smelting": {
     "criteria": {
       "has_crystal": "2025-04-01 03:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-01 03:21:40 +0000"
     },
     "done": true
   },
@@ -3809,6 +3854,12 @@
   "create:recipes/create.palettes/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-03-31 23:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-01 03:25:06 +0000"
     },
     "done": true
   },
