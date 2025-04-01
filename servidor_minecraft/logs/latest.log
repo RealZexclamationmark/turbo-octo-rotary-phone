@@ -3413,3 +3413,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Apr2025 04:00:01.561] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: New backup created at /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-1_4-0-0.zip size: 6.9MB Took: 0m, 1s, 524ms Sha1: 297398114c93f55d0a4f8f813e64dccd6edd8735
 [01Apr2025 04:00:52.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has reached the goal [Postmortal]
 [01Apr2025 04:01:56.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Suit Up]
+[01Apr2025 04:05:06.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Pocket storage!]
+[01Apr2025 04:09:15.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Crops of the Wild]

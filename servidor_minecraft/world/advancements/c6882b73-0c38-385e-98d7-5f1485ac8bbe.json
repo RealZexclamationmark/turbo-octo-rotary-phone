@@ -409,6 +409,7 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
+      "sky": "2025-04-01 04:02:25 +0000",
       "earth": "2025-04-01 03:36:02 +0000"
     },
     "done": false
@@ -452,6 +453,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-31 23:09:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-04-01 04:02:25 +0000"
     },
     "done": true
   },
@@ -2158,6 +2165,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-04-01 04:01:50 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/stone_bricks": {
     "criteria": {
       "has_planks": "2025-03-31 23:09:10 +0000"
@@ -2527,6 +2540,12 @@
   "rftoolsbuilder:recipes/rftoolsbuilder/green_shield_template_block": {
     "criteria": {
       "glass": "2025-03-31 23:58:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-04-01 04:02:25 +0000"
     },
     "done": true
   },
@@ -3209,6 +3228,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/redstone_slab": {
+    "criteria": {
+      "has_wood": "2025-04-01 04:01:50 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_fence_gate": {
     "criteria": {
       "has_bamboo": "2025-03-31 23:04:56 +0000",
@@ -3603,6 +3628,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/red_string_interceptor": {
+    "criteria": {
+      "has_base_block": "2025-04-01 04:01:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-01 03:46:53 +0000"
@@ -3720,6 +3751,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/rs_engineering": {
     "criteria": {
       "has_redstone": "2025-03-31 23:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-01 04:01:51 +0000"
     },
     "done": true
   },
@@ -3912,6 +3949,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-04-01 02:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-04-01 04:01:50 +0000"
     },
     "done": true
   },
@@ -4398,6 +4441,12 @@
   "xnet:recipes/xnet/connector_red_dye": {
     "criteria": {
       "chest": "2025-04-01 03:32:47 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lamps_ceilings": {
+    "criteria": {
+      "has_wood": "2025-04-01 04:01:50 +0000"
     },
     "done": true
   },
@@ -5068,6 +5117,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/sky": {
+    "criteria": {
+      "has_item": "2025-04-01 04:02:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-03-31 23:58:10 +0000"
@@ -5589,6 +5644,12 @@
   "botania:recipes/botania/quartz_lavender": {
     "criteria": {
       "has_item": "2025-04-01 02:38:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-04-01 04:02:25 +0000"
     },
     "done": true
   },
