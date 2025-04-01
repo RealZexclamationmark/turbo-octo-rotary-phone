@@ -218,6 +218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-04-01 02:14:39 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2025-03-31 23:16:25 +0000"
@@ -540,6 +546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-04-01 02:14:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-03-31 23:16:51 +0000"
@@ -555,6 +567,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-31 23:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-04-01 02:14:39 +0000"
     },
     "done": true
   },
@@ -754,6 +772,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-03-31 23:17:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-01 02:14:39 +0000"
     },
     "done": true
   },
@@ -1312,6 +1336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-04-01 02:14:39 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_slab": {
     "criteria": {
       "has_bundle": "2025-03-31 23:05:34 +0000"
@@ -1357,6 +1387,12 @@
   "darkerdepths:recipes/darkerdepths/silver_ingot": {
     "criteria": {
       "has_the_recipe": "2025-03-31 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-01 02:14:39 +0000"
     },
     "done": true
   },
