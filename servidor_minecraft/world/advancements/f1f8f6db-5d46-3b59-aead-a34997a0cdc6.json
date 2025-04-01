@@ -1383,6 +1383,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/terrasteel_helmet": {
+    "criteria": {
+      "has_prev_tier": "2025-04-01 04:27:53 +0000"
+    },
+    "done": true
+  },
   "compactcrafting:recipes/compactcrafting/match_proxy": {
     "criteria": {
       "got_redstone": "2025-03-31 23:05:34 +0000"

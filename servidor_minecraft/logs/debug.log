@@ -20712,3 +20712,81 @@ java.lang.Throwable: null
 [01Apr2025 04:24:30.026] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@6e749e1e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
 [01Apr2025 04:24:30.026] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@5aa28b94 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
 [01Apr2025 04:24:31.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported RealZSs to CagdasWFX]
+[01Apr2025 04:24:38.220] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 04:25:07.126] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 04:25:36.255] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 04:26:03.181] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 04:26:25.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 04:26:25.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 04:26:28.017] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 04:26:51.110] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 04:27:14.641] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 04:27:39.006] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 04:28:06.646] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 04:28:35.413] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 04:29:05.075] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 04:29:29.790] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 04:29:55.763] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 1 triggers
+[01Apr2025 04:30:00.000] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.simpl.SimpleJobFactory/]: Producing instance of Job 'DEFAULT.ftbbackups2', class=net.creeperhost.ftbbackups.FTBBackups$BackupJob
+[01Apr2025 04:30:00.000] [ftbbackups2_Worker-1/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.JobRunShell/]: Calling execute on job DEFAULT.ftbbackups2
+[01Apr2025 04:30:00.000] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[01Apr2025 04:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Found world folder at /workspaces/turbo-octo-rotary-phone/servidor_minecraft/./world/.
+[01Apr2025 04:30:00.024] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Last backup size: 6.9MB Current world size: 28.5MB Current Available space: 19.0GB ExpectedSize 7.4MB
+[01Apr2025 04:30:00.024] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to true
+[01Apr2025 04:30:00.024] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world compactmachines:compact_world save state to true
+[01Apr2025 04:30:00.024] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world bloodmagic:dungeon save state to true
+[01Apr2025 04:30:00.024] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to true
+[01Apr2025 04:30:00.024] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to true
+[01Apr2025 04:30:00.024] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ftbsbc:team/meltons-abridger-smeared save state to true
+[01Apr2025 04:30:00.024] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to true
+[01Apr2025 04:30:00.025] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/backups.json
+[01Apr2025 04:30:00.025] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 04:30:00.025] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Waiting for world save to complete.
+[01Apr2025 04:30:00.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 04:30:00.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 04:30:00.249] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Detected MC Version 1.18.2, Data version 2975
+[01Apr2025 04:30:00.249] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Save Name: world
+[01Apr2025 04:30:00.255] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ae2:spatial_storage
+[01Apr2025 04:30:00.255] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder bloodmagic:dungeon
+[01Apr2025 04:30:00.255] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder compactmachines:compact_world
+[01Apr2025 04:30:00.256] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ftbsbc:team
+[01Apr2025 04:30:00.256] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/turbo-octo-rotary-phone/servidor_minecraft/./world/./DIM-1
+[01Apr2025 04:30:00.256] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/turbo-octo-rotary-phone/servidor_minecraft/./world/./DIM1
+[01Apr2025 04:30:00.947] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup preview created, Scan took 91ms, Capture took 678ms
+[01Apr2025 04:30:01.552] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to false
+[01Apr2025 04:30:01.552] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world compactmachines:compact_world save state to false
+[01Apr2025 04:30:01.552] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world bloodmagic:dungeon save state to false
+[01Apr2025 04:30:01.552] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to false
+[01Apr2025 04:30:01.553] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to false
+[01Apr2025 04:30:01.553] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ftbsbc:team/meltons-abridger-smeared save state to false
+[01Apr2025 04:30:01.553] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to false
+[01Apr2025 04:30:01.564] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup size 7.4MB World Size 28.5MB
+[01Apr2025 04:30:01.565] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/backups.json
+[01Apr2025 04:30:01.565] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: New backup created at /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-1_4-30-0.zip size: 7.4MB Took: 0m, 1s, 528ms Sha1: 1321a21154e7d5c752621edc0188a74c42c4b2da
+[01Apr2025 04:30:17.247] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: More backups than 10 found, Removing oldest backup
+[01Apr2025 04:30:17.248] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Removed old backup 2025-3-31_21-30-0.zip
+[01Apr2025 04:30:17.248] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-3-31_21-30-0.zip
+[01Apr2025 04:30:17.248] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: File missing, removing from backups /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-3-31_21-30-0.zip
+[01Apr2025 04:30:17.248] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-3-31_23-0-0.zip
+[01Apr2025 04:30:17.248] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-3-31_23-30-0.zip
+[01Apr2025 04:30:17.248] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-1_0-0-0.zip
+[01Apr2025 04:30:17.248] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-1_1-30-0.zip
+[01Apr2025 04:30:17.248] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-1_2-0-0.zip
+[01Apr2025 04:30:17.248] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-1_2-30-0.zip
+[01Apr2025 04:30:17.248] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-1_3-0-0.zip
+[01Apr2025 04:30:17.248] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-1_3-30-0.zip
+[01Apr2025 04:30:17.248] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-1_4-0-0.zip
+[01Apr2025 04:30:17.248] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-1_4-30-0.zip
+[01Apr2025 04:30:17.249] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/backups.json
+[01Apr2025 04:30:27.517] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 04:30:55.544] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 04:31:20.764] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 04:31:25.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 04:31:25.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 04:31:45.927] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[01Apr2025 04:31:50.328] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 04:32:18.842] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 04:32:47.934] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 04:33:16.074] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 04:33:45.242] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 04:34:14.872] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
