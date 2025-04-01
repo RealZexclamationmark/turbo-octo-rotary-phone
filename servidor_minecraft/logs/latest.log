@@ -3415,3 +3415,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Apr2025 04:01:56.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Suit Up]
 [01Apr2025 04:05:06.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Pocket storage!]
 [01Apr2025 04:09:15.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Crops of the Wild]
+[01Apr2025 04:16:41.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported CagdasWFX to RealZSs]
+[01Apr2025 04:17:37.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported CagdasWFX to RealZSs]
+[01Apr2025 04:17:42.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported CagdasWFX to RealZSs]
+[01Apr2025 04:17:49.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Pocket storage!]
+[01Apr2025 04:23:56.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> efe cek amk
+[01Apr2025 04:23:57.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> hadi
+[01Apr2025 04:23:58.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported CagdasWFX to RealZSs]
+[01Apr2025 04:24:28.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs was burnt to a crisp whilst fighting Zombie
+[01Apr2025 04:24:30.025] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@2769248 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[01Apr2025 04:24:30.025] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7932c5a2 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[01Apr2025 04:24:30.025] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@4b25e15d (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[01Apr2025 04:24:30.025] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@4cce67c (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[01Apr2025 04:24:30.026] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@6e749e1e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[01Apr2025 04:24:30.026] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@5aa28b94 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[01Apr2025 04:24:31.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported RealZSs to CagdasWFX]
