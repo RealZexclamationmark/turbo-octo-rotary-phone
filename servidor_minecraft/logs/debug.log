@@ -20489,3 +20489,48 @@ java.lang.Throwable: null
 [01Apr2025 03:33:05.897] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
 [01Apr2025 03:33:29.623] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
 [01Apr2025 03:33:54.330] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:34:21.295] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:34:47.533] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:34:57.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Ol' Betsy]
+[01Apr2025 03:34:57.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Take Aim]
+[01Apr2025 03:35:13.495] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:35:28.531] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
+[01Apr2025 03:35:38.479] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:36:06.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Inner Arts]
+[01Apr2025 03:36:06.187] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:36:25.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 03:36:25.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 03:36:34.159] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:36:43.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has completed the challenge [Champion Hunter]
+[01Apr2025 03:36:58.962] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:37:23.640] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:37:49.237] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:38:12.440] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:38:39.454] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:38:51.325] [Worker-Main-93/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [136 absolute-0 below top]
+[01Apr2025 03:38:52.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RealZSs moved wrongly!
+[01Apr2025 03:39:06.998] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:39:25.383] [Server thread/DEBUG] [mixin/]: Mixing item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[01Apr2025 03:39:31.316] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:39:57.887] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:40:27.097] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:40:51.414] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:41:04.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> erken kalk dedi
+[01Apr2025 03:41:05.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> adam
+[01Apr2025 03:41:07.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> uyumadım
+[01Apr2025 03:41:12.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> nası açıklicaz
+[01Apr2025 03:41:13.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> sg
+[01Apr2025 03:41:14.696] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:41:15.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> der
+[01Apr2025 03:41:18.434] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
+[01Apr2025 03:41:25.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 03:41:25.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 03:41:41.558] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:42:07.728] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
+[01Apr2025 03:42:09.484] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:42:39.278] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:43:03.818] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:43:29.385] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:43:58.230] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[01Apr2025 03:44:02.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX was burnt to a crisp whilst fighting Zombie
+[01Apr2025 03:44:04.063] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data

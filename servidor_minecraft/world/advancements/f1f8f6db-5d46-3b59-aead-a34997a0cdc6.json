@@ -324,6 +324,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blastbrick": {
+    "criteria": {
+      "has_item": "2025-04-01 03:34:43 +0000"
+    },
+    "done": true
+  },
   "charginggadgets:recipes/charginggadgets/charging_station": {
     "criteria": {
       "has_diamonds": "2025-04-01 03:00:22 +0000"
@@ -381,6 +387,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/fluid_pipe": {
     "criteria": {
       "has_iron_plate": "2025-04-01 02:30:43 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/mobius_fuel_block": {
+    "criteria": {
+      "has_mobius_fuel": "2025-04-01 03:37:51 +0000"
     },
     "done": true
   },
@@ -447,6 +459,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-04-01 02:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-01 03:32:07 +0000"
     },
     "done": true
   },
@@ -637,6 +655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-01 03:33:18 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_trapdoor": {
     "criteria": {
       "has_bundle": "2025-03-31 23:05:34 +0000"
@@ -714,6 +738,12 @@
       "has_raw_copper": "2025-04-01 02:44:17 +0000"
     },
     "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-04-01 03:39:12 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
@@ -824,6 +854,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/common/slime/earth/congealed": {
+    "criteria": {
+      "has_item": "2025-04-01 03:39:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-04-01 02:27:33 +0000"
@@ -838,10 +874,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-01 03:34:54 +0000",
       "minecraft:skeleton": "2025-03-31 23:28:36 +0000",
       "minecraft:spider": "2025-04-01 03:04:44 +0000",
       "minecraft:creeper": "2025-04-01 02:37:39 +0000",
-      "minecraft:zombie": "2025-04-01 02:35:39 +0000"
+      "minecraft:silverfish": "2025-04-01 03:36:19 +0000",
+      "minecraft:zombie": "2025-04-01 02:35:39 +0000",
+      "minecraft:drowned": "2025-04-01 03:32:44 +0000"
     },
     "done": false
   },
@@ -1127,6 +1166,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-01 03:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-01 03:39:12 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/button_module": {
     "criteria": {
       "ingot": "2025-04-01 02:30:33 +0000"
@@ -1166,6 +1217,12 @@
   "bambooeverything:recipes/dry_bamboo_slab": {
     "criteria": {
       "has_dry_bundle": "2025-03-31 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "minicoal:recipes/misc/mini_charcoal": {
+    "criteria": {
+      "has_charcoal": "2025-04-01 03:40:48 +0000"
     },
     "done": true
   },
@@ -1541,6 +1598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-01 03:39:12 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2025-03-31 23:05:34 +0000"
@@ -1659,6 +1722,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-04-01 02:30:33 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alloybrick": {
+    "criteria": {
+      "has_brick": "2025-04-01 03:34:43 +0000"
     },
     "done": true
   },
@@ -1804,6 +1873,12 @@
   "rftoolsbase:recipes/rftoolsbase/machine_base": {
     "criteria": {
       "gold": "2025-04-01 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-04-01 03:34:43 +0000"
     },
     "done": true
   },
@@ -1967,6 +2042,12 @@
   "create:recipes/create.base/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2025-04-01 02:27:55 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-01 03:39:12 +0000"
     },
     "done": true
   },
@@ -2374,6 +2455,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/skillet": {
+    "criteria": {
+      "has_brick": "2025-04-01 03:34:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-04-01 03:17:11 +0000"
@@ -2415,6 +2502,7 @@
       "apple": "2025-03-31 23:22:22 +0000",
       "cooked_cod": "2025-04-01 03:27:47 +0000",
       "bread": "2025-04-01 01:46:29 +0000",
+      "golden_apple": "2025-04-01 03:40:29 +0000",
       "glow_berries": "2025-03-31 23:06:27 +0000",
       "cooked_salmon": "2025-04-01 03:15:35 +0000"
     },
@@ -2459,6 +2547,12 @@
   "create:recipes/create.palettes/andesite_bars_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-04-01 02:27:55 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-01 03:39:12 +0000"
     },
     "done": true
   },
@@ -2538,6 +2632,12 @@
   "mcwwindows:recipes/crimson": {
     "criteria": {
       "has_the_recipe": "2025-03-31 23:16:25 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/earth": {
+    "criteria": {
+      "has_item": "2025-04-01 03:39:12 +0000"
     },
     "done": true
   },
@@ -3081,6 +3181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-01 03:37:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-04-01 02:14:39 +0000"
@@ -3236,6 +3342,12 @@
   "botania:recipes/botania/manasteel_pick": {
     "criteria": {
       "has_item": "2025-04-01 03:18:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-04-01 03:34:43 +0000"
     },
     "done": true
   },
@@ -3410,6 +3522,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-04-01 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-01 03:39:12 +0000"
     },
     "done": true
   },
@@ -3737,6 +3855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-01 03:37:51 +0000"
+    },
+    "done": true
+  },
   "buddingcrystals:recipes/buddingcrystals/crystal_catalyst": {
     "criteria": {
       "hasAmethyst": "2025-04-01 03:18:45 +0000"
@@ -3839,6 +3963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-04-01 03:32:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/windmill_bearing": {
     "criteria": {
       "has_item": "2025-04-01 02:27:55 +0000"
@@ -3866,6 +3996,12 @@
   "mcwroofs:recipes/andesite": {
     "criteria": {
       "has_planks": "2025-04-01 02:27:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terrasteel_leggings": {
+    "criteria": {
+      "has_prev_tier": "2025-04-01 03:39:04 +0000"
     },
     "done": true
   },
