@@ -3365,3 +3365,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Apr2025 03:41:18.434] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
 [01Apr2025 03:42:07.728] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
 [01Apr2025 03:44:02.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX was burnt to a crisp whilst fighting Zombie
+[01Apr2025 03:44:38.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported CagdasWFX to RealZSs]
+[01Apr2025 03:45:42.727] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
+[01Apr2025 03:45:52.684] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
+[01Apr2025 03:46:29.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has reached the goal [Postmortal]
+[01Apr2025 03:46:57.629] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
+[01Apr2025 03:48:29.380] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey

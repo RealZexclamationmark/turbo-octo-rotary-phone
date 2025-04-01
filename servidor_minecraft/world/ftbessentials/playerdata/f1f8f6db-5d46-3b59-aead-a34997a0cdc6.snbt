@@ -13,6 +13,8 @@
 		{ dim: "minecraft:overworld", x: 4, y: 6, z: 0, time: 1743463201517L, xRot: 14.423402f, yRot: 45.31305f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -12, y: -1, z: 2, time: 1743463940554L, xRot: 25.156664f, yRot: -29.711426f }
 		{ dim: "minecraft:overworld", x: 0, y: 5, z: 17, time: 1743463947381L, xRot: 6.571125f, yRot: 169.04881f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -429, y: -59, z: 36, time: 1743479042478L, xRot: 21.974518f, yRot: -47.618164f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -18, y: -1, z: 0, time: 1743479078719L, xRot: 47.775066f, yRot: -41.50583f }
 	]
 	homes: { }
 }
