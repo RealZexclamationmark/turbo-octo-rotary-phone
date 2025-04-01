@@ -1446,6 +1446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-01 03:00:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-31 23:14:38 +0000"
@@ -2713,6 +2719,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/common/slime/earth/crystal_block": {
+    "criteria": {
+      "has_item": "2025-04-01 03:00:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-03-31 23:10:55 +0000"
@@ -3422,6 +3434,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-04-01 03:00:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-31 23:58:10 +0000"
@@ -3503,6 +3521,12 @@
   "mcwwindows:recipes/shutters": {
     "criteria": {
       "has_wood": "2025-03-31 23:16:30 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/earth/crystal_smelting": {
+    "criteria": {
+      "has_crystal": "2025-04-01 03:00:48 +0000"
     },
     "done": true
   },

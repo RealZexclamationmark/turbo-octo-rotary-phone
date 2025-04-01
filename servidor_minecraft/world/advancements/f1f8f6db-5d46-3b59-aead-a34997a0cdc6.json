@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-01 02:57:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-04-01 02:33:25 +0000"
@@ -144,6 +150,12 @@
     },
     "done": true
   },
+  "buddingcrystals:recipes/buddingcrystals/budding_diamond": {
+    "criteria": {
+      "has_diamond": "2025-04-01 03:00:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-03-31 23:16:51 +0000"
@@ -171,6 +183,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-03-31 23:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-01 03:01:08 +0000"
     },
     "done": true
   },
@@ -243,6 +261,12 @@
   "mcwfences:recipes/jungle": {
     "criteria": {
       "has_jungle": "2025-03-31 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "charginggadgets:recipes/charginggadgets/charging_station": {
+    "criteria": {
+      "has_diamonds": "2025-04-01 03:00:22 +0000"
     },
     "done": true
   },
@@ -475,6 +499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-01 03:00:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-03-31 23:28:00 +0000"
@@ -647,6 +677,12 @@
   "bambooeverything:recipes/bamboo_ladder": {
     "criteria": {
       "has_bamboo": "2025-03-31 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-01 03:00:22 +0000"
     },
     "done": true
   },
@@ -871,6 +907,12 @@
   "framedblocks:recipes/framed_blocks/framed_cube": {
     "criteria": {
       "hasPlanks": "2025-03-31 23:16:51 +0000"
+    },
+    "done": true
+  },
+  "ftbsbc:recipes/ftbsbc/diamond_hammer": {
+    "criteria": {
+      "has_item": "2025-04-01 03:00:22 +0000"
     },
     "done": true
   },
@@ -1410,6 +1452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-04-01 03:00:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/cogwheel": {
     "criteria": {
       "has_item": "2025-04-01 02:27:55 +0000"
@@ -1438,6 +1486,12 @@
   "rftoolsbase:recipes/rftoolsbase/smartwrench": {
     "criteria": {
       "iron": "2025-04-01 02:30:33 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/justhammers.justhammers_tab/diamond_hammer": {
+    "criteria": {
+      "has_material": "2025-04-01 03:00:22 +0000"
     },
     "done": true
   },
@@ -1588,6 +1642,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/empty_shell": {
     "criteria": {
       "has_coppper_ingot": "2025-04-01 02:46:10 +0000"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/mininggadgets/upgrade_empty": {
+    "criteria": {
+      "has_diamonds": "2025-04-01 03:00:22 +0000"
     },
     "done": true
   },
@@ -1761,6 +1821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-01 03:00:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/weighted_ejector": {
     "criteria": {
       "has_item": "2025-04-01 02:32:31 +0000"
@@ -1794,6 +1860,12 @@
   "mcwlights:recipes/tiki_torches": {
     "criteria": {
       "has_the_recipe": "2025-03-31 23:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-04-01 03:00:22 +0000"
     },
     "done": true
   },
@@ -1886,6 +1958,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-03-31 23:16:54 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/high_covalence_dust": {
+    "criteria": {
+      "has_diamond": "2025-04-01 03:00:22 +0000"
     },
     "done": true
   },
@@ -2082,6 +2160,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-01 03:00:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2025-04-01 02:27:55 +0000"
@@ -2181,6 +2265,12 @@
   "mcwfences:recipes/nether": {
     "criteria": {
       "has_nether_brick": "2025-03-31 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2025-04-01 03:00:22 +0000"
     },
     "done": true
   },
@@ -2286,6 +2376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-04-01 03:00:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-04-01 02:25:25 +0000"
@@ -2301,6 +2397,12 @@
   "create:recipes/create.base/crafting/kinetics/piston_extension_pole": {
     "criteria": {
       "has_item": "2025-04-01 02:27:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-04-01 03:00:22 +0000"
     },
     "done": true
   },
@@ -2364,6 +2466,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-01 03:00:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-31 23:17:02 +0000"
@@ -2379,6 +2487,12 @@
   "tconstruct:recipes/tconstruct/general/common/iron_platform": {
     "criteria": {
       "has_bars": "2025-04-01 02:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-01 03:00:22 +0000"
     },
     "done": true
   },
@@ -2482,6 +2596,12 @@
   "create:recipes/create.base/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2025-04-01 02:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-04-01 03:00:22 +0000"
     },
     "done": true
   },
@@ -2686,6 +2806,12 @@
   "mcwbridges:recipes/rope_oak_bridge": {
     "criteria": {
       "has_planks": "2025-03-31 23:16:51 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2025-04-01 03:00:22 +0000"
     },
     "done": true
   },
@@ -2941,6 +3067,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-04-01 03:00:22 +0000"
+    },
+    "done": true
+  },
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-03-31 23:05:34 +0000"
@@ -2956,6 +3088,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/light_engineering": {
     "criteria": {
       "has_copper_ingot": "2025-04-01 02:46:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/diamond": {
+    "criteria": {
+      "has_item": "2025-04-01 03:00:22 +0000"
     },
     "done": true
   },
@@ -3100,6 +3238,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_roller": {
     "criteria": {
       "has_item": "2025-04-01 02:32:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-01 03:00:22 +0000"
     },
     "done": true
   },
