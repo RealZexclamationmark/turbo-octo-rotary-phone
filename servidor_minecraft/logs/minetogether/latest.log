@@ -1,7 +1,7 @@
-[22:48:21] [modloading-worker-0/INFO] [net.creeperhost.minetogether.MineTogether]: Initializing MineTogether!
-[22:48:22] [mt-packinfo-request/ERROR] [net.creeperhost.minetogether.util.ModPackInfo]: Detected invalid curseID: Insert curse project ID here
-[22:48:22] [modloading-worker-0/INFO] [net.creeperhost.minetogether.MineTogetherServer]: Initializing MineTogetherServer!
-[22:48:22] [modloading-worker-0/INFO] [net.creeperhost.minetogether.server.PregenHandler]: Attempting to load pregenData.json
-[22:48:22] [mt-packinfo-request/INFO] [net.creeperhost.minetogether.util.ModPackInfo]: Found auxilium id: 100 version: 100043
-[22:52:46] [Server thread/INFO] [net.creeperhost.minetogether.MineTogetherServer]: Current discoverability: unlisted
-[22:52:46] [Server thread/INFO] [net.creeperhost.minetogether.MineTogetherServer]: Server set to unlisted. Disabling server listing.
+[01:14:23] [modloading-worker-0/INFO] [net.creeperhost.minetogether.MineTogether]: Initializing MineTogether!
+[01:14:24] [modloading-worker-0/INFO] [net.creeperhost.minetogether.MineTogetherServer]: Initializing MineTogetherServer!
+[01:14:24] [mt-packinfo-request/ERROR] [net.creeperhost.minetogether.util.ModPackInfo]: Detected invalid curseID: Insert curse project ID here
+[01:14:24] [modloading-worker-0/INFO] [net.creeperhost.minetogether.server.PregenHandler]: Attempting to load pregenData.json
+[01:14:24] [mt-packinfo-request/INFO] [net.creeperhost.minetogether.util.ModPackInfo]: Found auxilium id: 100 version: 100043
+[01:16:25] [Server thread/INFO] [net.creeperhost.minetogether.MineTogetherServer]: Current discoverability: unlisted
+[01:16:25] [Server thread/INFO] [net.creeperhost.minetogether.MineTogetherServer]: Server set to unlisted. Disabling server listing.
