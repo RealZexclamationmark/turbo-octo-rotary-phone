@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-04-01 01:48:52 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_fence": {
     "criteria": {
       "has_dry_bundle": "2025-03-31 23:05:34 +0000",
@@ -287,6 +293,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-03-31 23:22:22 +0000",
+      "bread": "2025-04-01 01:46:29 +0000",
       "glow_berries": "2025-03-31 23:06:27 +0000"
     },
     "done": false
