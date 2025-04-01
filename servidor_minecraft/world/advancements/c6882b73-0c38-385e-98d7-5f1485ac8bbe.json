@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-01 02:28:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-03-31 23:17:07 +0000"
@@ -51,6 +57,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2025-03-31 23:41:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-01 02:28:36 +0000"
     },
     "done": true
   },
@@ -788,6 +800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-01 02:28:36 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_ladder": {
     "criteria": {
       "has_bamboo": "2025-03-31 23:04:56 +0000"
@@ -814,7 +832,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2025-03-31 23:19:30 +0000"
+      "minecraft:skeleton": "2025-04-01 02:27:57 +0000",
+      "minecraft:spider": "2025-04-01 02:29:43 +0000",
+      "minecraft:creeper": "2025-04-01 02:29:18 +0000",
+      "minecraft:zombie": "2025-03-31 23:19:30 +0000",
+      "minecraft:zombie_villager": "2025-04-01 02:29:19 +0000"
     },
     "done": false
   },
@@ -1328,6 +1350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-01 02:28:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-03-31 23:50:25 +0000"
@@ -1584,6 +1612,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-03-31 23:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-01 02:28:36 +0000"
     },
     "done": true
   },
@@ -1999,6 +2033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-01 02:28:36 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/cobblestone": {
     "criteria": {
       "has_wood": "2025-03-31 23:10:55 +0000"
@@ -2200,6 +2240,12 @@
   "tconstruct:recipes/tconstruct/general/common/slime/sky/crystal_smelting": {
     "criteria": {
       "has_crystal": "2025-03-31 23:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-01 02:28:37 +0000"
     },
     "done": true
   },
@@ -2439,9 +2485,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-01 02:28:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-31 23:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-01 02:28:37 +0000"
     },
     "done": true
   },
@@ -2989,6 +3047,12 @@
   "create:recipes/create.base/crafting/kinetics/goggles": {
     "criteria": {
       "has_item": "2025-03-31 23:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-01 02:28:36 +0000"
     },
     "done": true
   },
