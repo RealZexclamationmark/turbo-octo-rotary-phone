@@ -1551,6 +1551,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-04-04 21:36:53 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/shaped/stairs/smooth_sky_stone_block": {
     "criteria": {
       "has_smooth_sky_stone_block": "2025-04-04 20:53:50 +0000"
@@ -2452,6 +2458,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-04-04 21:36:53 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/inventoryplus_module": {
     "criteria": {
       "ingot": "2025-04-04 18:15:28 +0000"
@@ -2467,6 +2479,12 @@
   "create:recipes/create.palettes/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-04-04 17:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-04 21:37:14 +0000"
     },
     "done": true
   },
@@ -4124,6 +4142,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-04-04 21:37:13 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/computercraft/computer_advanced": {
     "criteria": {
       "has_components": "2025-04-04 19:44:40 +0000"
@@ -4542,6 +4566,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-04-04 21:40:32 +0000",
       "porkchop": "2025-04-04 19:05:17 +0000",
       "potato": "2025-04-04 20:04:21 +0000",
       "bread": "2025-04-04 18:22:51 +0000",

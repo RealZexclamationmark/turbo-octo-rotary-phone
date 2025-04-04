@@ -4468,3 +4468,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Apr2025 21:33:09.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> wrench
 [04Apr2025 21:36:27.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> large water wheel
 [04Apr2025 21:37:17.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> shaft
+[04Apr2025 21:40:46.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has reached the goal [Desperate Measures]
+[04Apr2025 21:47:19.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Shocking]
