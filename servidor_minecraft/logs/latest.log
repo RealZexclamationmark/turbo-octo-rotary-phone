@@ -3182,3 +3182,65 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Apr2025 18:20:49.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported MustafaT80 to RealZSs]
 [04Apr2025 18:20:50.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Teleported CagdasWFX to RealZSs]
 [04Apr2025 18:21:16.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Teleported CagdasWFX to RealZSs]
+[04Apr2025 18:27:27.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Into Fire]
+[04Apr2025 18:27:45.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 has made the advancement [Who is Cutting Onions?]
+[04Apr2025 18:30:00.007] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[04Apr2025 18:30:00.007] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Found world folder at /workspaces/turbo-octo-rotary-phone/servidor_minecraft/./world/.
+[04Apr2025 18:30:00.041] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Last backup size: 12.1MB Current world size: 49.8MB Current Available space: 18.7GB ExpectedSize 18.3MB
+[04Apr2025 18:30:00.042] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to true
+[04Apr2025 18:30:00.042] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world compactmachines:compact_world save state to true
+[04Apr2025 18:30:00.043] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ftbsbc:team/meltons-abridger-smeared save state to true
+[04Apr2025 18:30:00.043] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to true
+[04Apr2025 18:30:00.043] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to true
+[04Apr2025 18:30:00.043] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world bloodmagic:dungeon save state to true
+[04Apr2025 18:30:00.043] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to true
+[04Apr2025 18:30:00.044] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/backups.json
+[04Apr2025 18:30:00.046] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Waiting for world save to complete.
+[04Apr2025 18:30:00.334] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Detected MC Version 1.18.2, Data version 2975
+[04Apr2025 18:30:00.334] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Save Name: world
+[04Apr2025 18:30:00.351] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ae2:spatial_storage
+[04Apr2025 18:30:00.352] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder bloodmagic:dungeon
+[04Apr2025 18:30:00.352] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder compactmachines:compact_world
+[04Apr2025 18:30:00.352] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ftbsbc:team
+[04Apr2025 18:30:00.352] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/turbo-octo-rotary-phone/servidor_minecraft/./world/./DIM-1
+[04Apr2025 18:30:00.352] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/turbo-octo-rotary-phone/servidor_minecraft/./world/./DIM1
+[04Apr2025 18:30:01.433] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup preview created, Scan took 166ms, Capture took 1010ms
+[04Apr2025 18:30:02.996] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to false
+[04Apr2025 18:30:02.996] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world compactmachines:compact_world save state to false
+[04Apr2025 18:30:02.997] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ftbsbc:team/meltons-abridger-smeared save state to false
+[04Apr2025 18:30:02.997] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to false
+[04Apr2025 18:30:02.997] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to false
+[04Apr2025 18:30:02.997] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world bloodmagic:dungeon save state to false
+[04Apr2025 18:30:02.997] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to false
+[04Apr2025 18:30:03.024] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup size 21.0MB World Size 49.9MB
+[04Apr2025 18:30:03.025] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/backups.json
+[04Apr2025 18:30:03.025] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: New backup created at /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-4_18-30-0.zip size: 21.0MB Took: 0m, 2s, 954ms Sha1: c11b73bed29e76bcbf04d6ba0546ea00929d1564
+[04Apr2025 18:30:04.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Who is Cutting Onions?]
+[04Apr2025 18:30:06.800] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[04Apr2025 18:30:13.755] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: More backups than 10 found, Removing oldest backup
+[04Apr2025 18:30:13.756] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Removed old backup 2025-3-31_23-30-0.zip
+[04Apr2025 18:30:13.756] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: File missing, removing from backups /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-3-31_23-30-0.zip
+[04Apr2025 18:30:13.757] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/backups.json
+[04Apr2025 18:30:36.889] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[04Apr2025 18:30:45.692] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[04Apr2025 18:30:50.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was slain by Vex
+[04Apr2025 18:30:53.802] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
+[04Apr2025 18:31:09.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported MustafaT80 to CagdasWFX]
+[04Apr2025 18:31:40.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was slain by CagdasWFX
+[04Apr2025 18:31:52.739] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[04Apr2025 18:33:30.890] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[04Apr2025 18:33:37.489] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[04Apr2025 18:33:44.694] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
+[04Apr2025 18:33:47.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Spooky Scary Skeleton]
+[04Apr2025 18:33:53.694] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[04Apr2025 18:34:51.045] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:random_explosion
+[04Apr2025 18:35:05.988] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
+[04Apr2025 18:35:17.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported MustafaT80 to CagdasWFX]
+[04Apr2025 18:35:23.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has completed the challenge [Return to Sender]
+[04Apr2025 18:35:31.548] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
+[04Apr2025 18:35:55.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 has made the advancement [Not Today, Thank You]
+[04Apr2025 18:36:02.414] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[04Apr2025 18:36:29.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Into Fire]
+[04Apr2025 18:36:32.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Ice Bucket Challenge]
+[04Apr2025 18:36:33.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Voluntary Exile]
+[04Apr2025 18:36:37.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 has completed the challenge [Champion Hunter]

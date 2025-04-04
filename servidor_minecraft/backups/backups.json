@@ -2,19 +2,6 @@
   "backups": [
     {
       "worldName": "world",
-      "createTime": 1743463800034,
-      "backupLocation": "/workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-3-31_23-30-0.zip",
-      "size": 3580797,
-      "ratio": 0.25494847,
-      "sha1": "2d3f0f6a19e3a0e162d3802964523d2cc1f9ad3f",
-      "preview": "",
-      "snapshot": false,
-      "backupName": "automated",
-      "backupFormat": "ZIP",
-      "complete": true
-    },
-    {
-      "worldName": "world",
       "createTime": 1743465600028,
       "backupLocation": "/workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-1_0-0-0.zip",
       "size": 3626243,
@@ -124,6 +111,19 @@
       "size": 12696391,
       "ratio": 0.35046905,
       "sha1": "815a968b85ee21250aed1b677caf0e96b06cd6bd",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    },
+    {
+      "worldName": "world",
+      "createTime": 1743791400042,
+      "backupLocation": "/workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-4_18-30-0.zip",
+      "size": 22044501,
+      "ratio": 0.42151266,
+      "sha1": "c11b73bed29e76bcbf04d6ba0546ea00929d1564",
       "preview": "",
       "snapshot": false,
       "backupName": "automated",
