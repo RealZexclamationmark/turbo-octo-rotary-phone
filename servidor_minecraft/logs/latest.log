@@ -4357,3 +4357,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Apr2025 20:46:05.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Applied effect Fire Resistance to CagdasWFX]
 [04Apr2025 20:46:14.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Removed every effect from CagdasWFX]
 [04Apr2025 20:46:19.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported CagdasWFX to RealZSs]
+[04Apr2025 20:49:30.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Personal Shrinking Device]
+[04Apr2025 20:51:24.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 has made the advancement [The Brass Age]
