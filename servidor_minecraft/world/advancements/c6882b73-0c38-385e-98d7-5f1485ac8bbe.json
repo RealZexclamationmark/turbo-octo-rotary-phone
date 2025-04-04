@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "ae2:recipes/combat/tools/certus_quartz_sword": {
+    "criteria": {
+      "has_certus_quartz": "2025-04-04 20:32:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 23:34:28 +0000"
@@ -1028,6 +1034,12 @@
     },
     "done": true
   },
+  "buddingcrystals:recipes/buddingcrystals/budding_certus_quartz": {
+    "criteria": {
+      "has_certus_quartz": "2025-04-04 20:32:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-01 03:46:53 +0000"
@@ -1151,6 +1163,12 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-04-04 18:52:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/certus_quartz_axe": {
+    "criteria": {
+      "has_certus_quartz": "2025-04-04 20:32:12 +0000"
     },
     "done": true
   },
@@ -1608,6 +1626,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-03-31 23:10:55 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/quartz_crystal": {
+    "criteria": {
+      "certus": "2025-04-04 20:32:12 +0000"
     },
     "done": true
   },
@@ -2330,6 +2354,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-03-31 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "jags:jags": {
+    "criteria": {
+      "use_seed": "2025-04-04 20:34:30 +0000"
     },
     "done": true
   },
@@ -3980,6 +4010,12 @@
     },
     "done": true
   },
+  "ae2:recipes/tools/tools/certus_quartz_hoe": {
+    "criteria": {
+      "has_certus_quartz": "2025-04-04 20:32:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/materials/andesite_alloy_block": {
     "criteria": {
       "has_item": "2025-03-31 23:39:17 +0000"
@@ -4242,6 +4278,12 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-04-01 04:44:18 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/blocks/energy_energy_cell": {
+    "criteria": {
+      "has_crystals/certus": "2025-04-04 20:32:12 +0000"
     },
     "done": true
   },
@@ -5204,6 +5246,12 @@
     },
     "done": true
   },
+  "ae2:recipes/tools/tools/certus_quartz_spade": {
+    "criteria": {
+      "has_certus_quartz": "2025-04-04 20:32:12 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-03-31 23:10:55 +0000"
@@ -6057,6 +6105,12 @@
     },
     "done": true
   },
+  "ae2:recipes/tools/tools/certus_quartz_wrench": {
+    "criteria": {
+      "has_certus_quartz": "2025-04-04 20:32:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-03-31 23:16:30 +0000"
@@ -6537,6 +6591,12 @@
     },
     "done": true
   },
+  "ae2:recipes/tools/tools/certus_quartz_cutting_knife": {
+    "criteria": {
+      "has_certus_quartz": "2025-04-04 20:32:12 +0000"
+    },
+    "done": true
+  },
   "rftoolsstorage:recipes/rftoolsstorage/storage_control_module": {
     "criteria": {
       "ingot": "2025-03-31 23:34:28 +0000"
@@ -6979,6 +7039,12 @@
     },
     "done": true
   },
+  "ae2:recipes/tools/tools/certus_quartz_pickaxe": {
+    "criteria": {
+      "has_certus_quartz": "2025-04-04 20:32:12 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/prismarine": {
     "criteria": {
       "has_the_recipe": "2025-03-31 23:16:21 +0000"
@@ -7390,6 +7456,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-04-01 04:44:18 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/decorative/certus_quartz_block": {
+    "criteria": {
+      "has_certus_crystal": "2025-04-04 20:32:12 +0000"
     },
     "done": true
   },
@@ -7950,10 +8022,11 @@
   "ae2:main/presses": {
     "criteria": {
       "silicon": "2025-04-04 20:08:28 +0000",
+      "calc": "2025-04-04 20:32:28 +0000",
       "logic": "2025-04-04 20:08:40 +0000",
       "eng": "2025-04-04 20:08:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
