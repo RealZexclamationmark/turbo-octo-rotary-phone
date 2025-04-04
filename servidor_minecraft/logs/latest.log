@@ -4401,3 +4401,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Apr2025 21:05:43.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> energy
 [04Apr2025 21:05:44.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> cable
 [04Apr2025 21:05:46.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> energy cable
+[04Apr2025 21:07:23.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Set own game mode to Creative Mode]
+[04Apr2025 21:08:13.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Set own game mode to Survival Mode]
+[04Apr2025 21:08:59.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> tesla coil
+[04Apr2025 21:10:41.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> aqueous accumulator
+[04Apr2025 21:11:32.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> aqueous accumulator
+[04Apr2025 21:11:32.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> aqueous accumulatorw
+[04Apr2025 21:11:32.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> aqueous accumulatorw
+[04Apr2025 21:15:12.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Set own game mode to Spectator Mode]
+[04Apr2025 21:16:27.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MustafaT80 moved wrongly!
+[04Apr2025 21:16:39.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported RealZSs to CagdasWFX]
+[04Apr2025 21:16:43.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported RealZSs to CagdasWFX]
+[04Apr2025 21:17:02.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Spectator Mode]

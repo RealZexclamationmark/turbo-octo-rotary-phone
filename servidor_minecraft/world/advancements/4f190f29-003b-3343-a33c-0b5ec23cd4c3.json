@@ -1912,6 +1912,12 @@
     },
     "done": true
   },
+  "rftoolsbase:recipes/rftoolsbase/crafting_card": {
+    "criteria": {
+      "crafter": "2025-04-04 21:09:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-04-04 17:45:42 +0000"
@@ -2245,6 +2251,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/redstone_acid": {
     "criteria": {
       "has_redstone_dust": "2025-04-04 17:47:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-04-04 21:09:52 +0000"
     },
     "done": true
   },
@@ -4246,6 +4258,7 @@
       "potato": "2025-04-04 20:04:21 +0000",
       "bread": "2025-04-04 18:22:51 +0000",
       "golden_apple": "2025-04-04 19:02:05 +0000",
+      "cookie": "2025-04-04 21:13:57 +0000",
       "glow_berries": "2025-03-31 23:24:40 +0000",
       "carrot": "2025-03-31 23:28:09 +0000"
     },
@@ -4768,6 +4781,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2025-04-04 21:10:37 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/pliers": {
     "criteria": {
       "has_planks": "2025-04-04 18:15:28 +0000"
@@ -4951,6 +4970,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-03-31 23:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-04 21:09:52 +0000"
     },
     "done": true
   },
