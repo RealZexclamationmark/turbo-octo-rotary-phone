@@ -4012,3 +4012,49 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Apr2025 19:41:33.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> energy condenser
 [04Apr2025 19:42:28.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Let It Grow]
 [04Apr2025 19:44:06.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> diamond chest yap yusuuuf
+[04Apr2025 19:57:34.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CagdasWFX lost connection: Disconnected
+[04Apr2025 19:57:34.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX left the game
+[04Apr2025 19:58:26.935] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:spawn_cluckington
+[04Apr2025 19:58:57.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MustafaT80> kamış vAARMI
+[04Apr2025 20:00:00.000] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[04Apr2025 20:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Found world folder at /workspaces/turbo-octo-rotary-phone/servidor_minecraft/./world/.
+[04Apr2025 20:00:00.026] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Last backup size: 24.1MB Current world size: 58.1MB Current Available space: 18.7GB ExpectedSize 25.6MB
+[04Apr2025 20:00:00.026] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to true
+[04Apr2025 20:00:00.026] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world compactmachines:compact_world save state to true
+[04Apr2025 20:00:00.026] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ftbsbc:team/meltons-abridger-smeared save state to true
+[04Apr2025 20:00:00.026] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to true
+[04Apr2025 20:00:00.026] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to true
+[04Apr2025 20:00:00.026] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world bloodmagic:dungeon save state to true
+[04Apr2025 20:00:00.026] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to true
+[04Apr2025 20:00:00.027] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/backups.json
+[04Apr2025 20:00:00.027] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Waiting for world save to complete.
+[04Apr2025 20:00:00.240] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Detected MC Version 1.18.2, Data version 2975
+[04Apr2025 20:00:00.241] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Save Name: world
+[04Apr2025 20:00:00.248] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ae2:spatial_storage
+[04Apr2025 20:00:00.249] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder bloodmagic:dungeon
+[04Apr2025 20:00:00.249] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder compactmachines:compact_world
+[04Apr2025 20:00:00.249] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ftbsbc:team
+[04Apr2025 20:00:00.249] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/turbo-octo-rotary-phone/servidor_minecraft/./world/./DIM-1
+[04Apr2025 20:00:00.249] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/turbo-octo-rotary-phone/servidor_minecraft/./world/./DIM1
+[04Apr2025 20:00:00.924] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup preview created, Scan took 86ms, Capture took 662ms
+[04Apr2025 20:00:02.702] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to false
+[04Apr2025 20:00:02.702] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world compactmachines:compact_world save state to false
+[04Apr2025 20:00:02.702] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ftbsbc:team/meltons-abridger-smeared save state to false
+[04Apr2025 20:00:02.702] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to false
+[04Apr2025 20:00:02.702] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to false
+[04Apr2025 20:00:02.702] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world bloodmagic:dungeon save state to false
+[04Apr2025 20:00:02.702] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to false
+[04Apr2025 20:00:02.729] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup size 24.7MB World Size 58.1MB
+[04Apr2025 20:00:02.729] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/backups.json
+[04Apr2025 20:00:02.730] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: New backup created at /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-4_20-0-0.zip size: 24.7MB Took: 0m, 2s, 676ms Sha1: a6676c95da6d04070cfc7fe69a89ede02e62a097
+[04Apr2025 20:00:13.755] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: More backups than 10 found, Removing oldest backup
+[04Apr2025 20:00:13.755] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Removed old backup 2025-4-1_2-0-0.zip
+[04Apr2025 20:00:13.755] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: File missing, removing from backups /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-1_2-0-0.zip
+[04Apr2025 20:00:13.756] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/backups.json
+[04Apr2025 20:00:31.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> LAN SORACAĞINA BAKSANA DOMUZ BALIĞI
+[04Apr2025 20:00:47.364] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Wyld'/36507, l='ServerLevel[world]', x=-24.60, y=-0.65, z=3.21] died: Wyld was slain by RealZSs
+[04Apr2025 20:01:22.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['Cluckington'/36506, l='ServerLevel[world]', x=-14.20, y=-1.00, z=-0.86] died: Cluckington was slain by MustafaT80
+[04Apr2025 20:02:55.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 has made the advancement [Sweet Dreams]
+[04Apr2025 20:04:10.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MustafaT80> afiet olsun
+[04Apr2025 20:06:02.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MustafaT80> la su mıknatısı cıkae
+[04Apr2025 20:06:05.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MustafaT80> r

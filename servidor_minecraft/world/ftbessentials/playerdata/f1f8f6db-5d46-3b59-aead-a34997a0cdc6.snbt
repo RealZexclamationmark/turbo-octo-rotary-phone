@@ -4,7 +4,7 @@
 	god: false
 	nick: ""
 	name: "CagdasWFX"
-	last_seen: { dim: "ftbsbc:team/meltons-abridger-smeared", x: -1271, y: -60, z: 8, time: 1743793745816L, xRot: 11.476182f, yRot: -91.517914f }
+	last_seen: { dim: "ftbsbc:team/meltons-abridger-smeared", x: -23, y: -2, z: 3, time: 1743796654035L, xRot: 12.0141945f, yRot: -141.76855f }
 	recording: 0
 	teleport_history: [
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -18, y: -1, z: 0, time: 1743481057481L, xRot: 2.614706f, yRot: -142.42029f }
