@@ -4264,3 +4264,96 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Apr2025 20:36:27.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Summoned new Llama]
 [04Apr2025 20:36:54.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Gave 640 [Llama Spawn Egg] to CagdasWFX]
 [04Apr2025 20:37:09.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Killed 63 entities]
+[04Apr2025 20:37:19.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Killed 71 entities]
+[04Apr2025 20:37:30.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Killed 106 entities]
+[04Apr2025 20:37:34.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Killed 28 entities]
+[04Apr2025 20:37:36.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Killed 13 entities]
+[04Apr2025 20:37:45.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Killed 62 entities]
+[04Apr2025 20:37:55.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Killed 56 entities]
+[04Apr2025 20:37:58.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Creative Mode]
+[04Apr2025 20:38:04.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[04Apr2025 20:38:18.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Gave 1 [Llama Spawn Egg] to CagdasWFX]
+[04Apr2025 20:38:31.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Gave 1 [Llama Spawn Egg] to CagdasWFX]
+[04Apr2025 20:38:54.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 has made the advancement [Best Friends Forever]
+[04Apr2025 20:40:20.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was blown up by CagdasWFX
+[04Apr2025 20:40:21.849] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:40:21.849] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:40:21.849] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 20:40:21.849] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:40:21.849] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 20:40:21.849] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 20:40:22.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MustafaT80 moved too quickly! -0.5,-24.0,-0.5
+[04Apr2025 20:40:30.391] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:40:30.391] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:40:30.391] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 20:40:30.391] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:40:30.392] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 20:40:30.392] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 20:40:30.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported MustafaT80 to RealZSs]
+[04Apr2025 20:40:32.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RealZSs moved wrongly!
+[04Apr2025 20:40:38.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Teleported 3 entities to CagdasWFX]
+[04Apr2025 20:40:44.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Set spawn point to -20, -1, 1 [0.0] in ftbsbc:team/meltons-abridger-smeared for 3 players]
+[04Apr2025 20:41:39.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Gave 1 [Llama Spawn Egg] to CagdasWFX]
+[04Apr2025 20:41:49.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Gave 1 [Llama Spawn Egg] to CagdasWFX]
+[04Apr2025 20:41:49.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Gave 1 [Llama Spawn Egg] to CagdasWFX]
+[04Apr2025 20:41:50.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Gave 1 [Llama Spawn Egg] to CagdasWFX]
+[04Apr2025 20:41:50.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Gave 1 [Llama Spawn Egg] to CagdasWFX]
+[04Apr2025 20:41:51.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Gave 1 [Llama Spawn Egg] to CagdasWFX]
+[04Apr2025 20:42:16.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to CagdasWFX]
+[04Apr2025 20:42:20.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX was slain by MustafaT80
+[04Apr2025 20:42:21.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was slain by RealZSs
+[04Apr2025 20:42:21.962] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:42:21.962] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:42:21.962] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 20:42:21.962] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:42:21.962] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 20:42:21.962] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 20:42:23.961] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:42:23.961] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:42:23.961] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 20:42:23.961] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:42:23.961] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 20:42:23.961] [Netty Epoll Server IO #7/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 20:42:49.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set 100 experience levels on CagdasWFX]
+[04Apr2025 20:42:51.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Gave 92 experience points to CagdasWFX]
+[04Apr2025 20:42:58.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Gave -92 experience levels to CagdasWFX]
+[04Apr2025 20:43:23.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> pedo
+[04Apr2025 20:43:57.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> CagdasWFX
+[04Apr2025 20:44:00.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> efendinm
+[04Apr2025 20:44:03.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> sövme bana
+[04Apr2025 20:44:06.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> thermo generator niotic
+[04Apr2025 20:44:07.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> cıkarım
+[04Apr2025 20:44:09.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> cıktım
+[04Apr2025 20:44:10.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> bb
+[04Apr2025 20:44:17.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> thermo generator niotic
+[04Apr2025 20:44:18.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> x10
+[04Apr2025 20:44:18.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Gave 92 experience points to CagdasWFX]
+[04Apr2025 20:44:20.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Gave -92 experience levels to CagdasWFX]
+[04Apr2025 20:44:21.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Gave 9200 experience points to CagdasWFX]
+[04Apr2025 20:44:22.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> 0
+[04Apr2025 20:44:26.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set 100 experience levels on CagdasWFX]
+[04Apr2025 20:44:27.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Gave 9200 experience points to CagdasWFX]
+[04Apr2025 20:44:34.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> thermo generator niotic
+[04Apr2025 20:44:35.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> x10
+[04Apr2025 20:44:37.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> MustafaT80
+[04Apr2025 20:44:38.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> tesla
+[04Apr2025 20:44:39.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> coil
+[04Apr2025 20:44:56.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> CagdasWFX thermo generator niotic x10
+[04Apr2025 20:44:59.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> MustafaT80 tesla coil
+[04Apr2025 20:45:08.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported CagdasWFX to RealZSs]
+[04Apr2025 20:45:14.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported CagdasWFX to RealZSs]
+[04Apr2025 20:45:23.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> CagdasWFX thermo generator niotic x10
+[04Apr2025 20:45:28.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported CagdasWFX to RealZSs]
+[04Apr2025 20:45:29.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported CagdasWFX to RealZSs]
+[04Apr2025 20:45:30.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported CagdasWFX to RealZSs]
+[04Apr2025 20:45:31.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported CagdasWFX to RealZSs]
+[04Apr2025 20:45:37.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Applied effect Regeneration to CagdasWFX]
+[04Apr2025 20:45:46.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported CagdasWFX to RealZSs]
+[04Apr2025 20:45:52.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Applied effect Fire Resistance to CagdasWFX]
+[04Apr2025 20:45:59.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Removed every effect from CagdasWFX]
+[04Apr2025 20:46:00.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Applied effect Fire Resistance to CagdasWFX]
+[04Apr2025 20:46:02.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported CagdasWFX to RealZSs]
+[04Apr2025 20:46:04.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Applied effect Regeneration to CagdasWFX]
+[04Apr2025 20:46:05.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Applied effect Fire Resistance to CagdasWFX]
+[04Apr2025 20:46:14.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Removed every effect from CagdasWFX]
+[04Apr2025 20:46:19.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported CagdasWFX to RealZSs]

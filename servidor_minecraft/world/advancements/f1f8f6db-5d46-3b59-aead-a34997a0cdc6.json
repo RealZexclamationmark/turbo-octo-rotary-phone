@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2025-04-04 20:38:03 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/stone": {
     "criteria": {
       "has_stone": "2025-03-31 23:05:34 +0000"
@@ -1340,6 +1346,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/clear_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-04 20:38:03 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/gold_bars": {
     "criteria": {
       "has_ingot": "2025-04-01 03:43:23 +0000"
@@ -1403,6 +1415,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-04-01 02:30:33 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/clear_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-04 20:38:03 +0000"
     },
     "done": true
   },
@@ -1814,6 +1832,12 @@
   "mcwbridges:recipes/spruce_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-04-04 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-04-04 20:38:03 +0000"
     },
     "done": true
   },
@@ -2243,6 +2267,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2025-04-04 20:38:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-04 18:41:54 +0000"
@@ -2598,6 +2628,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/one_way_glass": {
+    "criteria": {
+      "has_wood": "2025-04-04 20:38:03 +0000"
+    },
+    "done": true
+  },
   "constructionwand:recipes/tools/diamond_wand": {
     "criteria": {
       "has_item": "2025-04-01 03:00:22 +0000"
@@ -2844,6 +2880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-04-04 20:38:03 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/mushroom_10": {
     "criteria": {
       "has_item": "2025-04-01 03:17:11 +0000"
@@ -2949,6 +2991,12 @@
   "botania:recipes/botania/glass_pickaxe": {
     "criteria": {
       "has_item": "2025-04-01 03:18:35 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/scratched_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-04 20:38:03 +0000"
     },
     "done": true
   },
@@ -4472,6 +4520,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/scratched_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-04 20:38:03 +0000"
+    },
+    "done": true
+  },
   "industrialforegoing:recipes/industrialforegoing_core/plastic": {
     "criteria": {
       "has_plastic": "2025-03-31 23:05:34 +0000"
@@ -5717,6 +5771,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/tinted_borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-04 20:38:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-03-31 23:09:36 +0000"
@@ -5747,6 +5807,12 @@
       "minecraft:plains": "2025-03-31 23:05:06 +0000"
     },
     "done": false
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2025-04-04 20:38:03 +0000"
+    },
+    "done": true
   },
   "botania:recipes/botania/swap_ring": {
     "criteria": {
@@ -5925,6 +5991,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-04-01 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-04 20:38:03 +0000"
     },
     "done": true
   },
@@ -7282,6 +7354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-04-04 20:38:03 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_fence": {
     "criteria": {
       "has_bamboo": "2025-03-31 23:05:34 +0000",
@@ -7926,6 +8004,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-04-04 20:38:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-04-01 02:30:33 +0000"
@@ -8121,6 +8205,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-04-04 19:36:24 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-04 20:38:03 +0000"
     },
     "done": true
   },

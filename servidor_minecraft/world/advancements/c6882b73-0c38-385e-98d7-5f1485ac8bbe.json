@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/tools/misctools_entropy_manipulator": {
+    "criteria": {
+      "has_engineering_processor": "2025-04-04 20:43:34 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/justhammers.justhammers_tab/gold_impact_hammer": {
     "criteria": {
       "has_material": "2025-04-04 18:30:04 +0000"
@@ -440,6 +446,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-04-01 04:46:17 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/blocks/spatial_io_port": {
+    "criteria": {
+      "has_engineering_processor": "2025-04-04 20:43:34 +0000"
     },
     "done": true
   },
@@ -1325,6 +1337,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wire_copper": {
     "criteria": {
       "has_copper_ingot": "2025-04-01 03:53:42 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/blocks/security_station": {
+    "criteria": {
+      "has_engineering_processor": "2025-04-04 20:43:34 +0000"
     },
     "done": true
   },
@@ -3344,6 +3362,12 @@
     },
     "done": true
   },
+  "merequester:recipes/requester": {
+    "criteria": {
+      "has_item": "2025-04-04 20:43:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/honey_cookie": {
     "criteria": {
       "has_honey_bottle": "2025-04-01 03:41:23 +0000"
@@ -3950,6 +3974,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cells/spatial_components": {
+    "criteria": {
+      "has_engineering_processor": "2025-04-04 20:43:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-04-04 19:16:14 +0000"
@@ -4109,6 +4139,12 @@
   "mcwbridges:recipes/rope_warped_bridge": {
     "criteria": {
       "has_planks": "2025-04-04 18:38:16 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/blocks/storage_drive": {
+    "criteria": {
+      "has_engineering_processor": "2025-04-04 20:43:34 +0000"
     },
     "done": true
   },
@@ -4846,6 +4882,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/blocks/controller": {
+    "criteria": {
+      "has_engineering_processor": "2025-04-04 20:43:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-04-01 03:36:02 +0000"
@@ -5174,6 +5216,7 @@
       "minecraft:piglin_brute": "2025-04-04 19:18:36 +0000",
       "minecraft:creeper": "2025-04-01 02:29:18 +0000",
       "minecraft:evoker": "2025-04-01 03:46:18 +0000",
+      "minecraft:slime": "2025-04-04 20:41:46 +0000",
       "minecraft:phantom": "2025-04-01 04:37:30 +0000",
       "minecraft:zombified_piglin": "2025-04-04 18:35:38 +0000",
       "minecraft:witch": "2025-04-01 03:39:52 +0000",
@@ -6507,6 +6550,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/blocks/quantum_ring": {
+    "criteria": {
+      "has_engineering_processor": "2025-04-04 20:43:34 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/stone": {
     "criteria": {
       "has_wood": "2025-03-31 23:09:10 +0000"
@@ -7673,6 +7722,12 @@
   "mcwroofs:recipes/nether_bricks": {
     "criteria": {
       "has_planks": "2025-04-04 19:16:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/parts/tunnels_me": {
+    "criteria": {
+      "has_engineering_processor": "2025-04-04 20:43:34 +0000"
     },
     "done": true
   },

@@ -7,16 +7,16 @@
 	last_seen: { dim: "ftbsbc:team/meltons-abridger-smeared", x: -23, y: -2, z: 3, time: 1743797366755L, xRot: 12.0141945f, yRot: -141.76855f }
 	recording: 0
 	teleport_history: [
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -772, y: -42, z: 16, time: 1743790876339L, xRot: 16.449463f, yRot: -24.755981f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -1308, y: -60, z: 15, time: 1743793794155L, xRot: 19.535156f, yRot: 70.50104f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -1225, y: -64, z: -48, time: 1743794355136L, xRot: 48.45053f, yRot: -54.017822f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -28, y: -1, z: 1, time: 1743794390742L, xRot: 7.3562946f, yRot: 87.50982f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -1236, y: -66, z: -43, time: 1743794400616L, xRot: 15.842054f, yRot: 175.6973f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 26, y: -1, z: -2, time: 1743794403308L, xRot: 0.0f, yRot: -135.0f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -6, y: -1, z: 4, time: 1743798791307L, xRot: 29.29922f, yRot: -64.87543f }
-		{ dim: "minecraft:overworld", x: 7, y: 6, z: 1, time: 1743798801834L, xRot: 15.249812f, yRot: 109.47479f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -2, y: -1, z: 9, time: 1743798888017L, xRot: 18.803911f, yRot: -112.91687f }
-		{ dim: "minecraft:overworld", x: 3, y: 8, z: 4, time: 1743798903881L, xRot: 35.789913f, yRot: -0.5350952f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -23, y: -3, z: -1, time: 1743799340667L, xRot: 6.1873217f, yRot: -21.690308f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -22, y: -2, z: 1, time: 1743799508754L, xRot: 28.929073f, yRot: -94.79541f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -23, y: -3, z: 3, time: 1743799514863L, xRot: 32.388306f, yRot: 161.83339f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -23, y: -3, z: 3, time: 1743799528146L, xRot: 8.90925f, yRot: -139.66241f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -22, y: -2, z: 3, time: 1743799529797L, xRot: 42.866962f, yRot: 132.75267f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -16, y: -2, z: 3, time: 1743799530339L, xRot: 28.665442f, yRot: 128.30518f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -17, y: -2, z: 3, time: 1743799531923L, xRot: 41.14636f, yRot: 68.504f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -23, y: -2, z: 3, time: 1743799546804L, xRot: -0.38776654f, yRot: -89.19382f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -23, y: -3, z: 3, time: 1743799562311L, xRot: 17.349987f, yRot: -141.93495f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -23, y: -3, z: 3, time: 1743799579675L, xRot: 10.015158f, yRot: -119.11211f }
 	]
 	homes: { }
 }
