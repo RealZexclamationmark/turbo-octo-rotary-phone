@@ -21880,3 +21880,272 @@ java.lang.Throwable: null
 [04Apr2025 19:26:59.334] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 90
 [04Apr2025 19:26:59.334] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 90 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
 [04Apr2025 19:26:59.334] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Apr2025 19:26:59.382] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 91
+[04Apr2025 19:26:59.382] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 91 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Apr2025 19:26:59.382] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Apr2025 19:26:59.382] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 92
+[04Apr2025 19:26:59.383] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 92 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Apr2025 19:26:59.383] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Apr2025 19:26:59.383] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 93
+[04Apr2025 19:26:59.383] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 93 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Apr2025 19:26:59.383] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Apr2025 19:26:59.383] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 94
+[04Apr2025 19:26:59.383] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 94 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Apr2025 19:26:59.383] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Apr2025 19:26:59.383] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 95
+[04Apr2025 19:26:59.383] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 95 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Apr2025 19:26:59.383] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Apr2025 19:26:59.383] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 96
+[04Apr2025 19:26:59.383] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 96 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Apr2025 19:26:59.383] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Apr2025 19:26:59.389] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[04Apr2025 19:26:59.438] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[04Apr2025 19:26:59.453] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@63cc9b99
+[04Apr2025 19:26:59.470] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RealZSs[/127.141.72.56:49961] logged in with entity id 31714 at (-1244.1474589745094, -59.23363200604248, -37.20249490035687)
+[04Apr2025 19:26:59.470] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@150b4bc4 into net.minecraft.network.Connection@70c31482
+[04Apr2025 19:26:59.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs joined the game
+[04Apr2025 19:26:59.572] [Server thread/DEBUG] [FTB Teams/]: player c6882b73-0c38-385e-98d7-5f1485ac8bbe logged in, player team = RealZSs#c6882b73
+[04Apr2025 19:26:59.572] [Server thread/DEBUG] [FTB Teams/]: syncing player team data, all = false
+[04Apr2025 19:26:59.577] [Server thread/DEBUG] [FTB Teams/]: updating team presence
+[04Apr2025 19:26:59.577] [Server thread/DEBUG] [FTB Teams/]: sending team login event for c6882b73-0c38-385e-98d7-5f1485ac8bbe...
+[04Apr2025 19:26:59.578] [Server thread/DEBUG] [FTB Chunks/]: handling player team login: player = c6882b73-0c38-385e-98d7-5f1485ac8bbe, team = 52838f1f-4d1c-4b63-9d6d-c4b25ed59ec9
+[04Apr2025 19:26:59.578] [Server thread/DEBUG] [FTB Chunks/]: server config and team data sent to c6882b73-0c38-385e-98d7-5f1485ac8bbe
+[04Apr2025 19:26:59.578] [Server thread/DEBUG] [FTB Chunks/]: claimed chunk data sent to c6882b73-0c38-385e-98d7-5f1485ac8bbe
+[04Apr2025 19:26:59.578] [Server thread/DEBUG] [FTB Chunks/]: visible player list sent to c6882b73-0c38-385e-98d7-5f1485ac8bbe
+[04Apr2025 19:26:59.578] [Server thread/DEBUG] [FTB Quests/]: received teams login event for player c6882b73-0c38-385e-98d7-5f1485ac8bbe, team = RealZSs's Party
+[04Apr2025 19:26:59.582] [Server thread/DEBUG] [FTB Quests/]: sent quest book to client: 1081 objects in 101571 bytes
+[04Apr2025 19:26:59.582] [Server thread/DEBUG] [FTB Quests/]: sending team data for team RealZSs's Party to player c6882b73-0c38-385e-98d7-5f1485ac8bbe, self = true
+[04Apr2025 19:26:59.582] [Server thread/DEBUG] [FTB Quests/]: sending team data for team MustafaT80 to player c6882b73-0c38-385e-98d7-5f1485ac8bbe, self = false
+[04Apr2025 19:26:59.582] [Server thread/DEBUG] [FTB Quests/]: sending team data for team RealZSs to player c6882b73-0c38-385e-98d7-5f1485ac8bbe, self = false
+[04Apr2025 19:26:59.582] [Server thread/DEBUG] [FTB Quests/]: sending team data for team CagdasWFX to player c6882b73-0c38-385e-98d7-5f1485ac8bbe, self = false
+[04Apr2025 19:26:59.583] [Server thread/DEBUG] [FTB Teams/]: team login event for c6882b73-0c38-385e-98d7-5f1485ac8bbe sent
+[04Apr2025 19:26:59.592] [Server thread/DEBUG] [projecte/]: EMC data size: 161985 bytes
+[04Apr2025 19:26:59.595] [Server thread/DEBUG] [projecte/]: Sent knowledge and bag data to TextComponent{text='RealZSs', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[04Apr2025 19:26:59.614] [Server thread/INFO] [Waila/]: Syncing config to RealZSs (c6882b73-0c38-385e-98d7-5f1485ac8bbe)
+[04Apr2025 19:26:59.781] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:26:59.781] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:26:59.781] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 19:26:59.782] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:26:59.782] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:26:59.782] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:26:59.934] [Thread-102/INFO] [chancecubes/]: No custom rewards detected for the current user!
+[04Apr2025 19:27:00.023] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:27:00.024] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:27:00.024] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 19:27:00.024] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:27:00.024] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:27:00.024] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:27:07.657] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[04Apr2025 19:27:20.031] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:bookshelves
+[04Apr2025 19:27:23.180] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:item_of_destiny
+[04Apr2025 19:27:36.625] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[04Apr2025 19:27:38.588] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:explosion
+[04Apr2025 19:27:54.776] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:tnt_structure
+[04Apr2025 19:28:00.143] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[04Apr2025 19:28:11.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was slain by Piglin Brute
+[04Apr2025 19:28:13.178] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[04Apr2025 19:28:13.185] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:28:13.185] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:28:13.185] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 19:28:13.185] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:28:13.185] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:28:13.185] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:28:15.441] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:book_of_memes
+[04Apr2025 19:28:18.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to RealZSs]
+[04Apr2025 19:28:23.671] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:dig_build
+[04Apr2025 19:28:25.080] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:want_to_build_a_snowman
+[04Apr2025 19:28:29.081] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[04Apr2025 19:28:29.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was slain by Piglin Brute
+[04Apr2025 19:28:30.570] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[04Apr2025 19:28:30.578] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:28:30.578] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:28:30.578] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 19:28:30.578] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:28:30.579] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:28:30.579] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:28:33.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to RealZSs]
+[04Apr2025 19:28:37.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was doomed to fall by RealZSs
+[04Apr2025 19:28:38.629] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[04Apr2025 19:28:38.637] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:28:38.637] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:28:38.637] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 19:28:38.637] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:28:38.638] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:28:38.638] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:28:48.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Applied effect Night Vision to 3 targets]
+[04Apr2025 19:28:54.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to RealZSs]
+[04Apr2025 19:28:55.378] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[04Apr2025 19:28:59.979] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:horde
+[04Apr2025 19:29:09.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Creative Mode]
+[04Apr2025 19:29:17.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Survival Mode]
+[04Apr2025 19:29:19.099] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[04Apr2025 19:29:25.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was slain by Piglin
+[04Apr2025 19:29:26.390] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:surrounded_creeper
+[04Apr2025 19:29:26.850] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[04Apr2025 19:29:26.858] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:29:26.858] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:29:26.858] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 19:29:26.858] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:29:26.858] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:29:26.858] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:29:28.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs was blown up by Creeper
+[04Apr2025 19:29:30.562] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[04Apr2025 19:29:30.571] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:29:30.571] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:29:30.571] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 19:29:30.571] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:29:30.571] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:29:30.571] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:29:32.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported RealZSs to CagdasWFX]
+[04Apr2025 19:29:36.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to CagdasWFX]
+[04Apr2025 19:29:42.982] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 1 triggers
+[04Apr2025 19:30:00.000] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.simpl.SimpleJobFactory/]: Producing instance of Job 'DEFAULT.ftbbackups2', class=net.creeperhost.ftbbackups.FTBBackups$BackupJob
+[04Apr2025 19:30:00.001] [ftbbackups2_Worker-1/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.JobRunShell/]: Calling execute on job DEFAULT.ftbbackups2
+[04Apr2025 19:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[04Apr2025 19:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Found world folder at /workspaces/turbo-octo-rotary-phone/servidor_minecraft/./world/.
+[04Apr2025 19:30:00.024] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Last backup size: 23.2MB Current world size: 57.5MB Current Available space: 18.7GB ExpectedSize 25.0MB
+[04Apr2025 19:30:00.024] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to true
+[04Apr2025 19:30:00.024] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world compactmachines:compact_world save state to true
+[04Apr2025 19:30:00.024] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ftbsbc:team/meltons-abridger-smeared save state to true
+[04Apr2025 19:30:00.024] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to true
+[04Apr2025 19:30:00.024] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to true
+[04Apr2025 19:30:00.024] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world bloodmagic:dungeon save state to true
+[04Apr2025 19:30:00.024] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to true
+[04Apr2025 19:30:00.025] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/backups.json
+[04Apr2025 19:30:00.025] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[04Apr2025 19:30:00.025] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Waiting for world save to complete.
+[04Apr2025 19:30:00.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Apr2025 19:30:00.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Apr2025 19:30:00.306] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Detected MC Version 1.18.2, Data version 2975
+[04Apr2025 19:30:00.306] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Save Name: world
+[04Apr2025 19:30:00.316] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ae2:spatial_storage
+[04Apr2025 19:30:00.316] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder bloodmagic:dungeon
+[04Apr2025 19:30:00.316] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder compactmachines:compact_world
+[04Apr2025 19:30:00.316] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ftbsbc:team
+[04Apr2025 19:30:00.317] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/turbo-octo-rotary-phone/servidor_minecraft/./world/./DIM-1
+[04Apr2025 19:30:00.317] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/turbo-octo-rotary-phone/servidor_minecraft/./world/./DIM1
+[04Apr2025 19:30:01.050] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup preview created, Scan took 119ms, Capture took 702ms
+[04Apr2025 19:30:02.894] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to false
+[04Apr2025 19:30:02.894] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world compactmachines:compact_world save state to false
+[04Apr2025 19:30:02.894] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ftbsbc:team/meltons-abridger-smeared save state to false
+[04Apr2025 19:30:02.894] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to false
+[04Apr2025 19:30:02.894] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to false
+[04Apr2025 19:30:02.894] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world bloodmagic:dungeon save state to false
+[04Apr2025 19:30:02.894] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to false
+[04Apr2025 19:30:02.921] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup size 24.1MB World Size 57.5MB
+[04Apr2025 19:30:02.921] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/backups.json
+[04Apr2025 19:30:02.922] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: New backup created at /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-4_19-30-0.zip size: 24.1MB Took: 0m, 2s, 870ms Sha1: 404029462d1b5183a54ff64a80929aa9301710c5
+[04Apr2025 19:30:07.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs was struck by flames whilst fighting Creeper
+[04Apr2025 19:30:08.731] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[04Apr2025 19:30:08.740] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:30:08.740] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:30:08.740] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 19:30:08.741] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:30:08.741] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:30:08.741] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:30:10.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported RealZSs to CagdasWFX]
+[04Apr2025 19:30:13.755] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: More backups than 10 found, Removing oldest backup
+[04Apr2025 19:30:13.755] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Removed old backup 2025-4-1_1-30-0.zip
+[04Apr2025 19:30:13.755] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-1_1-30-0.zip
+[04Apr2025 19:30:13.755] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: File missing, removing from backups /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-1_1-30-0.zip
+[04Apr2025 19:30:13.755] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-1_2-0-0.zip
+[04Apr2025 19:30:13.755] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-1_2-30-0.zip
+[04Apr2025 19:30:13.755] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-1_3-0-0.zip
+[04Apr2025 19:30:13.756] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-1_3-30-0.zip
+[04Apr2025 19:30:13.756] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-1_4-0-0.zip
+[04Apr2025 19:30:13.756] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-1_4-30-0.zip
+[04Apr2025 19:30:13.756] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-4_17-30-0.zip
+[04Apr2025 19:30:13.756] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-4_18-30-0.zip
+[04Apr2025 19:30:13.756] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-4_19-0-0.zip
+[04Apr2025 19:30:13.756] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-4_19-30-0.zip
+[04Apr2025 19:30:13.756] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/backups.json
+[04Apr2025 19:30:14.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs tried to swim in lava
+[04Apr2025 19:30:15.846] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[04Apr2025 19:30:15.854] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:30:15.854] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:30:15.854] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 19:30:15.855] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:30:15.855] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:30:15.855] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:30:17.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported RealZSs to CagdasWFX]
+[04Apr2025 19:30:20.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Creative Mode]
+[04Apr2025 19:30:23.645] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[04Apr2025 19:30:24.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Creative Mode]
+[04Apr2025 19:30:34.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Survival Mode]
+[04Apr2025 19:30:52.199] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[04Apr2025 19:30:54.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 hit the ground too hard
+[04Apr2025 19:30:55.807] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[04Apr2025 19:30:55.814] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:30:55.814] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:30:55.814] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 19:30:55.814] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:30:55.815] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:30:55.815] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:30:59.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to RealZSs]
+[04Apr2025 19:31:01.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Who is Cutting Onions?]
+[04Apr2025 19:31:06.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was blown up by Creeper
+[04Apr2025 19:31:08.133] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[04Apr2025 19:31:08.140] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:31:08.140] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:31:08.140] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 19:31:08.140] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:31:08.140] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:31:08.141] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:31:11.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to CagdasWFX]
+[04Apr2025 19:31:19.821] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[04Apr2025 19:31:21.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Apr2025 19:31:21.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Apr2025 19:31:29.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported RealZSs to CagdasWFX]
+[04Apr2025 19:31:33.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[04Apr2025 19:31:48.538] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:ender_crystal_timer
+[04Apr2025 19:31:49.533] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[04Apr2025 19:31:53.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 tried to swim in lava to escape Blaze
+[04Apr2025 19:31:55.744] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[04Apr2025 19:31:55.751] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:31:55.751] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:31:55.751] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 19:31:55.751] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:31:55.751] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:31:55.752] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:31:59.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to CagdasWFX]
+[04Apr2025 19:32:06.422] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:hand_enchant
+[04Apr2025 19:32:14.087] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:chance_cube_cube
+[04Apr2025 19:32:16.901] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[04Apr2025 19:32:17.331] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:wolves_to_creepers
+[04Apr2025 19:32:18.389] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:cursed_head
+[04Apr2025 19:32:28.946] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Jacky'/32956, l='ServerLevel[world]', x=-1227.20, y=-58.00, z=-9.60] died: Jacky was blown up by Jacky
+[04Apr2025 19:32:28.946] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Jacky'/32957, l='ServerLevel[world]', x=-1225.60, y=-58.05, z=-8.69] died: Jacky was blown up by Jacky
+[04Apr2025 19:32:31.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Jacky'/32951, l='ServerLevel[world]', x=-1238.89, y=-60.00, z=-2.71] died: Jacky was blown up by Jacky
+[04Apr2025 19:32:32.945] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Jacky'/32949, l='ServerLevel[world]', x=-1240.28, y=-60.00, z=-14.00] died: Jacky was blown up by Creeper
+[04Apr2025 19:32:32.946] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Jacky'/32950, l='ServerLevel[world]', x=-1238.40, y=-60.00, z=-9.58] died: Jacky was blown up by Creeper
+[04Apr2025 19:32:41.226] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[04Apr2025 19:32:46.241] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:ores_galore
+[04Apr2025 19:32:47.290] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:lingering_potions_ring
+[04Apr2025 19:32:48.341] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:actual_invisible_ghast
+[04Apr2025 19:32:49.541] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:redstone_diamond
+[04Apr2025 19:32:50.644] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:carpet
+[04Apr2025 19:32:58.691] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:mob_tower
+[04Apr2025 19:33:07.439] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[04Apr2025 19:33:12.139] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:exp
+[04Apr2025 19:33:14.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 discovered the floor was lava
+[04Apr2025 19:33:14.291] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:roosevelts_stick
+[04Apr2025 19:33:15.608] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[04Apr2025 19:33:15.616] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:33:15.616] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:33:15.616] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 19:33:15.616] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 19:33:15.617] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:33:15.617] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 19:33:18.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to CagdasWFX]
+[04Apr2025 19:33:33.107] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[04Apr2025 19:33:56.742] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[04Apr2025 19:34:24.606] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[04Apr2025 19:34:52.371] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[04Apr2025 19:35:10.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> ./ftbstoneblock home
+[04Apr2025 19:35:21.095] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[04Apr2025 19:35:37.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Applied effect Night Vision to 3 targets]
+[04Apr2025 19:35:47.893] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[04Apr2025 19:36:17.439] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[04Apr2025 19:36:21.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Apr2025 19:36:21.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Apr2025 19:36:47.211] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers

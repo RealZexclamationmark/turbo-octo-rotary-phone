@@ -402,6 +402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-04 19:34:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-04-04 17:45:40 +0000"
@@ -441,6 +447,12 @@
   "mcwbridges:recipes/iron_bridge": {
     "criteria": {
       "has_planks": "2025-04-04 18:15:28 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/nethersdelight/soul_compost_from_hoglin_hide": {
+    "criteria": {
+      "has_soil": "2025-04-04 19:31:14 +0000"
     },
     "done": true
   },
@@ -786,11 +798,13 @@
       "minecraft:magma_cube": "2025-04-04 18:28:33 +0000",
       "minecraft:piglin_brute": "2025-04-04 18:41:22 +0000",
       "minecraft:phantom": "2025-04-04 18:45:30 +0000",
+      "minecraft:zombified_piglin": "2025-04-04 19:27:16 +0000",
       "minecraft:wither_skeleton": "2025-04-04 18:37:33 +0000",
       "minecraft:husk": "2025-04-04 18:43:40 +0000",
       "minecraft:cave_spider": "2025-04-04 18:56:54 +0000",
       "minecraft:piglin": "2025-04-04 18:31:18 +0000",
       "minecraft:silverfish": "2025-04-04 19:11:05 +0000",
+      "minecraft:endermite": "2025-04-04 19:33:45 +0000",
       "minecraft:vex": "2025-04-04 18:31:23 +0000",
       "minecraft:zombie": "2025-04-04 18:57:41 +0000"
     },
@@ -886,6 +900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-04 19:34:13 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/redstone_information": {
     "criteria": {
       "redstone": "2025-04-04 17:47:11 +0000"
@@ -919,6 +939,12 @@
   "create:recipes/create.palettes/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-04 18:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-04 19:34:13 +0000"
     },
     "done": true
   },
@@ -1078,6 +1104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-04 19:34:13 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-31 23:23:51 +0000"
@@ -1123,6 +1155,12 @@
   "chiselsandbits:recipes/chiselsandbits/measuring_tape": {
     "criteria": {
       "has_s": "2025-03-31 23:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-04-04 19:34:13 +0000"
     },
     "done": true
   },
@@ -1177,6 +1215,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-03-31 23:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-04 19:34:13 +0000"
     },
     "done": true
   },
@@ -1276,6 +1320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-04-04 19:34:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 18:15:28 +0000"
@@ -1285,6 +1335,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-04-04 17:42:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-04 19:34:13 +0000"
     },
     "done": true
   },
@@ -1312,9 +1368,21 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/blackstone": {
+    "criteria": {
+      "has_wood": "2025-04-04 19:34:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 18:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-04 19:34:13 +0000"
     },
     "done": true
   },
@@ -1327,6 +1395,18 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 18:15:28 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/nethersdelight/soul_compost_from_warped_roots": {
+    "criteria": {
+      "has_soil": "2025-04-04 19:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-04 19:34:13 +0000"
     },
     "done": true
   },
@@ -2230,6 +2310,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/blackstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-04 19:34:13 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/oak_planks": {
     "criteria": {
       "has_planks": "2025-03-31 23:24:01 +0000"
@@ -2400,6 +2486,12 @@
   "mcwwindows:recipes/crimson": {
     "criteria": {
       "has_the_recipe": "2025-03-31 23:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-04 19:34:13 +0000"
     },
     "done": true
   },
@@ -2652,6 +2744,12 @@
   "botania:recipes/botania/red_string_container": {
     "criteria": {
       "has_base_block": "2025-04-04 17:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-04-04 19:34:13 +0000"
     },
     "done": true
   },
@@ -3154,9 +3252,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-04 19:34:13 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_bundle": {
     "criteria": {
       "has_dry_bamboo": "2025-03-31 23:21:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-04 19:34:13 +0000"
     },
     "done": true
   },
@@ -3187,6 +3297,12 @@
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
     "criteria": {
       "has_wit": "2025-03-31 23:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-04-04 19:30:50 +0000"
     },
     "done": true
   },
@@ -3226,6 +3342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-04-04 19:34:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-04-04 18:58:58 +0000"
@@ -3241,6 +3363,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_copper": {
     "criteria": {
       "has_copper_ingot": "2025-04-04 17:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-04-04 19:34:13 +0000"
     },
     "done": true
   },
@@ -3460,6 +3588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-04 19:34:13 +0000"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_def": {
     "criteria": {
       "iron_ingot": "2025-04-04 18:15:28 +0000"
@@ -3469,6 +3603,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-04-04 18:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-04 19:34:13 +0000"
     },
     "done": true
   },
@@ -3631,6 +3771,12 @@
   "chiselsandbits:recipes/chiselsandbits/chisel_gold": {
     "criteria": {
       "has_rod": "2025-03-31 23:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-04 19:34:13 +0000"
     },
     "done": true
   },
