@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2025-04-04 19:55:33 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:chiselsandbits/collect_bits": {
     "criteria": {
       "bit_bag": "2025-04-01 01:39:18 +0000"
@@ -170,6 +176,12 @@
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_red_nether_bricks": "2025-04-04 18:42:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2025-04-04 19:55:33 +0000"
     },
     "done": true
   },
@@ -308,6 +320,12 @@
   "farmersdelight:recipes/farmersdelight/bacon_and_eggs": {
     "criteria": {
       "has_bacon": "2025-04-01 04:40:35 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-04-04 19:55:33 +0000"
     },
     "done": true
   },
@@ -581,6 +599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-04 19:55:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-01 04:37:14 +0000"
@@ -635,6 +659,12 @@
   "justhammers:recipes/justhammers.justhammers_tab/stone_impact_hammer": {
     "criteria": {
       "has_material": "2025-03-31 23:09:10 +0000"
+    },
+    "done": true
+  },
+  "functionalstorage:recipes/functionalstorage/netherite_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-04 19:55:41 +0000"
     },
     "done": true
   },
@@ -782,6 +812,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/brass_scaffolding_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-04-04 19:55:33 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/diorite": {
     "criteria": {
       "has_the_recipe": "2025-03-31 23:16:21 +0000"
@@ -824,6 +860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-04 19:55:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-03-31 23:25:54 +0000"
@@ -863,6 +905,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-31 23:58:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2025-04-04 19:55:33 +0000"
     },
     "done": true
   },
@@ -956,6 +1004,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2025-04-04 19:55:33 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/andesite": {
     "criteria": {
       "has_the_recipe": "2025-03-31 23:16:21 +0000"
@@ -995,6 +1049,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-01 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-04 19:55:41 +0000"
     },
     "done": true
   },
@@ -1103,6 +1163,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-04-04 18:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-04 19:55:41 +0000"
     },
     "done": true
   },
@@ -1563,6 +1629,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/brass_bars_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-04-04 19:55:33 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/ca": {
     "criteria": {
       "has_wit": "2025-03-31 23:04:56 +0000",
@@ -1672,6 +1744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-04 19:55:41 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/oak": {
     "criteria": {
       "has_wood": "2025-03-31 23:16:21 +0000",
@@ -1694,6 +1772,12 @@
   "justhammers:recipes/justhammers.justhammers_tab/diamond_hammer": {
     "criteria": {
       "has_material": "2025-03-31 23:49:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/brass_ladder_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-04-04 19:55:33 +0000"
     },
     "done": true
   },
@@ -2093,6 +2177,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-04-04 19:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-04-04 18:53:49 +0000"
@@ -2159,6 +2249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2025-04-04 19:56:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/skillet": {
     "criteria": {
       "has_brick": "2025-04-01 04:27:41 +0000"
@@ -2177,6 +2273,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-04 19:55:41 +0000"
+    },
+    "done": true
+  },
+  "ftbsbc:recipes/ftbsbc/netherite_hammer": {
+    "criteria": {
+      "has_item": "2025-04-04 19:55:41 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/oak_planks": {
     "criteria": {
       "has_planks": "2025-03-31 23:16:30 +0000"
@@ -2192,6 +2300,12 @@
   "mcwfences:recipes/spruce": {
     "criteria": {
       "has_spruce": "2025-03-31 23:04:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "smoked_ham": "2025-04-04 19:55:33 +0000"
     },
     "done": true
   },
@@ -3103,6 +3217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-04 19:55:41 +0000"
+    },
+    "done": true
+  },
   "trashcans:recipes/decorations/energy_trash_can": {
     "criteria": {
       "recipe_condition": "2025-03-31 23:50:26 +0000"
@@ -3208,6 +3328,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-31 23:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-04 19:55:41 +0000"
     },
     "done": true
   },
@@ -3367,6 +3493,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-04-04 19:55:33 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_copper": {
     "criteria": {
       "has_copper_ingot": "2025-04-01 03:53:42 +0000"
@@ -3406,6 +3538,12 @@
   "darkerdepths:recipes/misc/silver_ingot_from_copper_block": {
     "criteria": {
       "has_silver_block": "2025-03-31 23:04:56 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/nethersdelight/blackstone_stove": {
+    "criteria": {
+      "has_nether_brick": "2025-04-04 19:56:04 +0000"
     },
     "done": true
   },
@@ -3973,6 +4111,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2025-04-04 19:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-03-31 23:17:07 +0000"
@@ -4349,6 +4493,12 @@
   "projecte:recipes/projecte/conversions/dye_bag_cyan": {
     "criteria": {
       "has_alchemical_bag": "2025-04-01 04:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-04 19:55:41 +0000"
     },
     "done": true
   },
@@ -5442,6 +5592,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2025-04-04 19:55:33 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/blaze_block": {
     "criteria": {
       "has_item": "2025-04-04 18:27:27 +0000"
@@ -5797,6 +5953,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2025-04-04 19:55:33 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/iron_band": {
     "criteria": {
       "has_lava": "2025-03-31 23:52:09 +0000"
@@ -5836,6 +5998,12 @@
   "mcwbridges:recipes/bridge_torch": {
     "criteria": {
       "has_planks": "2025-04-01 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "rsinfinitybooster:recipes/refinedstorage/infinity_card": {
+    "criteria": {
+      "has_item": "2025-04-04 19:55:41 +0000"
     },
     "done": true
   },
@@ -6307,6 +6475,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/netherite_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-04-04 19:55:41 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/tools/tools/nether_quartz_cutting_knife": {
     "criteria": {
       "has_nether_quartz": "2025-04-01 02:38:10 +0000"
@@ -6686,6 +6860,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-04-01 03:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-04 19:55:41 +0000"
     },
     "done": true
   },
@@ -7483,6 +7663,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/justhammers.justhammers_tab/netherite_hammer": {
+    "criteria": {
+      "has_material": "2025-04-04 19:55:41 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/misc/tiny_tnt": {
     "criteria": {
       "has_dusts/quartz": "2025-03-31 23:50:26 +0000"
@@ -7729,6 +7915,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2025-04-04 19:55:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/rose_quartz_block_from_rose_quartz_stonecutting": {
     "criteria": {
       "has_rose_quartz": "2025-04-04 18:34:02 +0000"
@@ -7801,6 +7993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-04 19:55:41 +0000"
+    },
+    "done": true
+  },
   "darkerdepths:recipes/misc/resin": {
     "criteria": {
       "has_amber": "2025-03-31 23:04:56 +0000"
@@ -7834,6 +8032,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 04:40:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2025-04-04 19:55:33 +0000"
     },
     "done": true
   },
@@ -8170,6 +8374,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-01 03:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-04 19:55:41 +0000"
     },
     "done": true
   },
