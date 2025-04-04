@@ -4413,3 +4413,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Apr2025 21:16:39.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported RealZSs to CagdasWFX]
 [04Apr2025 21:16:43.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported RealZSs to CagdasWFX]
 [04Apr2025 21:17:02.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Spectator Mode]
+[04Apr2025 21:17:26.686] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/39719, l='ServerLevel[world]', x=-1225.51, y=-59.45, z=19.56] died, message: 'Unemployed tried to swim in lava to escape Zombie'
+[04Apr2025 21:17:30.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[04Apr2025 21:17:33.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Set own game mode to Survival Mode]
+[04Apr2025 21:17:49.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Spectator Mode]
+[04Apr2025 21:18:19.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[04Apr2025 21:18:38.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported RealZSs to MustafaT80]
+[04Apr2025 21:19:43.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Teleported CagdasWFX to RealZSs]
+[04Apr2025 21:21:56.860] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:countdown
+[04Apr2025 21:23:01.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Now You're Growing With Hoppers]
+[04Apr2025 21:23:58.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> crushing wheel
+[04Apr2025 21:24:18.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> yusuf
+[04Apr2025 21:25:22.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> DELIRIYOOOM
+[04Apr2025 21:25:24.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> TIN YOK AMK
+[04Apr2025 21:26:54.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> BİLMIYON BİŞE

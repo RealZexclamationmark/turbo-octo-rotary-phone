@@ -7196,6 +7196,12 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-04-04 21:18:35 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/glass_bridge_stair": {
     "criteria": {
       "has_planks": "2025-03-31 23:58:10 +0000"
@@ -8023,6 +8029,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-04-04 18:24:25 +0000"
+    },
+    "done": true
+  },
+  "botanypots:husbandry/get_hopper_pot": {
+    "criteria": {
+      "get_hopper_pot": "2025-04-04 21:23:01 +0000"
     },
     "done": true
   },

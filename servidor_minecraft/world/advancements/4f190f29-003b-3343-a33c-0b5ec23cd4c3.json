@@ -960,6 +960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-04 21:24:17 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/advanced_connector_red": {
     "criteria": {
       "chest": "2025-04-04 17:48:38 +0000"
@@ -1876,6 +1882,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_components": {
+    "criteria": {
+      "has_paper": "2025-04-04 21:24:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-04-04 20:38:46 +0000"
@@ -1891,6 +1903,12 @@
   "create:root": {
     "criteria": {
       "0": "2025-03-31 23:21:31 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_molds": {
+    "criteria": {
+      "has_paper": "2025-04-04 21:24:17 +0000"
     },
     "done": true
   },
@@ -2434,6 +2452,12 @@
     },
     "done": true
   },
+  "rftoolsbuilder:recipes/rftoolsbuilder/vehicle_status_module": {
+    "criteria": {
+      "paper": "2025-04-04 21:24:17 +0000"
+    },
+    "done": true
+  },
   "entangled:recipes/misc/item": {
     "criteria": {
       "recipe_condition": "2025-04-04 18:43:51 +0000"
@@ -2479,6 +2503,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv_relay": {
     "criteria": {
       "has_copper_ingot": "2025-04-04 17:45:40 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/rftoolsbuilder/vehicle_control_module": {
+    "criteria": {
+      "paper": "2025-04-04 21:24:17 +0000"
     },
     "done": true
   },
@@ -2672,6 +2702,12 @@
   "create:recipes/create.base/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2025-04-04 17:47:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-04-04 21:24:17 +0000"
     },
     "done": true
   },
@@ -3036,6 +3072,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bullets": {
+    "criteria": {
+      "has_paper": "2025-04-04 21:24:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/prismarine_wall": {
     "criteria": {
       "has_prismarine": "2025-04-04 20:38:01 +0000"
@@ -3198,6 +3240,12 @@
     },
     "done": true
   },
+  "rftoolspower:recipes/rftoolspower/powercell_card": {
+    "criteria": {
+      "paper": "2025-04-04 21:24:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-03-31 23:30:42 +0000"
@@ -3298,6 +3346,12 @@
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 18:15:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-04-04 21:24:17 +0000"
     },
     "done": true
   },
@@ -3547,6 +3601,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-04-04 21:24:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/elevator_pulley": {
     "criteria": {
       "has_item": "2025-04-04 20:51:22 +0000"
@@ -3658,6 +3718,12 @@
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2025-03-31 23:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-04 21:24:17 +0000"
     },
     "done": true
   },
@@ -4207,6 +4273,12 @@
   "botania:recipes/botania/animated_torch": {
     "criteria": {
       "has_item": "2025-04-04 18:30:01 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/rftoolsbuilder/vehicle_card": {
+    "criteria": {
+      "paper": "2025-04-04 21:24:17 +0000"
     },
     "done": true
   },
@@ -4763,6 +4835,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bannerpatterns": {
+    "criteria": {
+      "has_paper": "2025-04-04 21:24:17 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/misc/tiny_tnt": {
     "criteria": {
       "has_gunpowder": "2025-04-04 19:04:37 +0000"
@@ -4796,6 +4874,12 @@
   "projecte:root": {
     "criteria": {
       "philstone_recipe": "2025-04-04 19:44:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-04-04 21:24:17 +0000"
     },
     "done": true
   },
@@ -4946,6 +5030,12 @@
   "create:recipes/create.base/crafting/logistics/brass_tunnel": {
     "criteria": {
       "has_item": "2025-04-04 20:51:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2025-04-04 21:22:38 +0000"
     },
     "done": true
   },
