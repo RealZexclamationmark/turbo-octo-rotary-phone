@@ -1136,6 +1136,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-04-04 22:07:11 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/mana_fluxfield": {
     "criteria": {
       "has_alt_item": "2025-04-01 03:53:46 +0000"
@@ -1683,6 +1689,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/stick_aluminum": {
+    "criteria": {
+      "has_alu_ingot": "2025-04-04 22:10:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/nether_salad": {
     "criteria": {
       "has_bowl": "2025-04-01 03:38:36 +0000"
@@ -1877,6 +1889,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_redstone": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-04-04 22:10:28 +0000"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/smartwrench": {
     "criteria": {
       "iron": "2025-03-31 23:34:28 +0000"
@@ -1964,6 +1982,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2025-04-01 04:31:52 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wire_aluminum": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-04-04 22:10:28 +0000"
     },
     "done": true
   },
@@ -2063,6 +2087,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alu_wallmount": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-04-04 22:10:28 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/philosophers_stone_alt": {
     "criteria": {
       "has_glowstone": "2025-04-01 02:38:10 +0000"
@@ -2072,6 +2102,18 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-04-04 18:53:49 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_lv": {
+    "criteria": {
+      "has_lead_ingot": "2025-04-04 22:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-04 22:07:12 +0000"
     },
     "done": true
   },
@@ -2532,6 +2574,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alu_fence": {
+    "criteria": {
+      "has_alu_ingot": "2025-04-04 22:10:28 +0000"
+    },
+    "done": true
+  },
   "constructionwand:recipes/tools/stone_wand": {
     "criteria": {
       "has_item": "2025-03-31 23:10:55 +0000"
@@ -2829,6 +2877,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-31 23:25:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wire_lead": {
+    "criteria": {
+      "has_lead_ingot": "2025-04-04 22:10:26 +0000"
     },
     "done": true
   },
@@ -3186,6 +3240,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-04-04 22:07:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-03-31 23:16:41 +0000"
@@ -3434,6 +3494,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/raw_aluminum_to_raw_block_aluminum": {
+    "criteria": {
+      "has_raw_aluminum": "2025-04-04 22:02:06 +0000"
+    },
+    "done": true
+  },
   "rechiseled:recipes/rechiseled/chisel": {
     "criteria": {
       "recipe_condition": "2025-03-31 23:34:28 +0000"
@@ -3557,6 +3623,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-04-01 03:47:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-04-04 22:07:11 +0000"
     },
     "done": true
   },
@@ -3710,6 +3782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-04-04 22:06:16 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_blue": {
     "criteria": {
       "chest": "2025-04-01 03:32:47 +0000"
@@ -3719,6 +3797,12 @@
   "mcwbridges:recipes/balustrade_andesite_bridge": {
     "criteria": {
       "has_planks": "2025-03-31 23:25:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_aluminum_hammering": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-04-04 22:10:28 +0000"
     },
     "done": true
   },
@@ -3845,6 +3929,12 @@
   "tconstruct:recipes/tconstruct/world/common/slime/sky/congealed": {
     "criteria": {
       "has_item": "2025-04-01 04:02:25 +0000"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-04-04 22:00:48 +0000"
     },
     "done": true
   },
@@ -4163,6 +4253,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_roller": {
     "criteria": {
       "has_item": "2025-03-31 23:41:18 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_aluminum_from_blasting3": {
+    "criteria": {
+      "has_raw_aluminum": "2025-04-04 22:02:06 +0000"
     },
     "done": true
   },
@@ -4713,6 +4809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-04-04 22:06:16 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/oak": {
     "criteria": {
       "has_oak": "2025-03-31 23:04:56 +0000"
@@ -5122,6 +5224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-04-04 22:06:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-31 23:10:55 +0000"
@@ -5161,6 +5269,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/coil_lv": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 23:34:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-04-04 22:07:11 +0000"
     },
     "done": true
   },
@@ -5252,6 +5366,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-31 23:14:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-04-04 22:07:09 +0000"
     },
     "done": true
   },
@@ -5913,6 +6033,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum_to_storage_aluminum": {
+    "criteria": {
+      "has_ingot_aluminum": "2025-04-04 22:10:28 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_yellow_dye": {
     "criteria": {
       "chest": "2025-04-01 03:32:47 +0000"
@@ -5934,6 +6060,12 @@
   "create:recipes/create.palettes/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2025-04-04 18:53:49 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alu_scaffolding_standard": {
+    "criteria": {
+      "has_alu_ingot": "2025-04-04 22:10:28 +0000"
     },
     "done": true
   },
@@ -6598,6 +6730,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_aluminum3": {
+    "criteria": {
+      "has_raw_aluminum": "2025-04-04 22:02:06 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_boots": {
     "criteria": {
       "has_item": "2025-04-01 03:53:42 +0000"
@@ -6790,6 +6928,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_aluminum_to_ingot_aluminum": {
+    "criteria": {
+      "has_storage_aluminum": "2025-04-04 22:10:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-31 23:10:55 +0000"
@@ -6846,6 +6990,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_lead_hammering": {
+    "criteria": {
+      "has_lead_ingot": "2025-04-04 22:10:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-04-01 03:41:23 +0000"
@@ -6855,6 +7005,12 @@
   "xnet:recipes/xnet/connector_red": {
     "criteria": {
       "chest": "2025-04-01 03:32:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-04 22:07:12 +0000"
     },
     "done": true
   },
@@ -7160,7 +7316,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-04 22:08:01 +0000",
       "honey_bottle": "2025-04-04 18:22:04 +0000",
+      "cooked_mutton": "2025-04-04 22:07:18 +0000",
       "apple": "2025-03-31 23:22:01 +0000",
       "potato": "2025-04-04 21:54:02 +0000",
       "cooked_cod": "2025-04-01 04:23:01 +0000",
@@ -8198,6 +8356,12 @@
   "mcwbridges:recipes/nether_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-04-04 19:16:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/raw_block_aluminum_to_raw_aluminum": {
+    "criteria": {
+      "has_raw_block_aluminum": "2025-04-04 22:02:06 +0000"
     },
     "done": true
   },

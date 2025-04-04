@@ -7,16 +7,16 @@
 	last_seen: { dim: "ftbsbc:team/meltons-abridger-smeared", x: -5, y: -1, z: -8, time: 1743798931324L, xRot: -8.841281f, yRot: -105.8975f }
 	recording: 0
 	teleport_history: [
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -234, y: -1, z: 1, time: 1743797810302L, xRot: -0.28376192f, yRot: -89.337585f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 7, y: -1, z: -7, time: 1743798086988L, xRot: -18.183113f, yRot: -157.71954f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -2, y: -1, z: -7, time: 1743798397834L, xRot: 1.1608056f, yRot: 53.52959f }
-		{ dim: "minecraft:overworld", x: 3, y: 8, z: 2, time: 1743798416010L, xRot: 9.948642f, yRot: -100.48154f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -5, y: -1, z: 1, time: 1743798651386L, xRot: -5.693759f, yRot: 83.16299f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -49, y: -1, z: 1, time: 1743799220437L, xRot: 2.1278543f, yRot: -89.46173f }
 		{ dim: "minecraft:overworld", x: 2, y: 5, z: 9, time: 1743799230385L, xRot: 21.942043f, yRot: 132.92287f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -54, y: -1, z: 2, time: 1743799238489L, xRot: 7.3771567f, yRot: -99.31839f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -54, y: -1, z: 1, time: 1743799336656L, xRot: 8.491306f, yRot: -91.74988f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -23, y: -3, z: 3, time: 1743799341938L, xRot: 7.1972947f, yRot: -158.46173f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -6, y: -1, z: -4, time: 1743804013738L, xRot: -9.64437f, yRot: -49.311646f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -2, y: 0, z: 15, time: 1743804327284L, xRot: 2.9849901f, yRot: -90.06305f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -33, y: -1, z: 0, time: 1743804784283L, xRot: 3.3435483f, yRot: 91.48296f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -43, y: -1, z: 0, time: 1743804833783L, xRot: 17.299675f, yRot: 81.35745f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -20, y: -1, z: 0, time: 1743804851286L, xRot: 8.787807f, yRot: -56.375008f }
 	]
 	homes: { }
 }
