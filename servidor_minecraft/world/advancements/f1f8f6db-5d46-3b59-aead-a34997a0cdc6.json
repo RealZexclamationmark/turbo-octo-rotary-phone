@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/justhammers.justhammers_tab/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-04-04 18:46:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-04-04 18:21:55 +0000"
@@ -592,6 +598,12 @@
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2025-03-31 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/antenna_base": {
+    "criteria": {
+      "block": "2025-04-04 18:46:27 +0000"
     },
     "done": true
   },
@@ -3252,6 +3264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-04 18:46:27 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/wood_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-04-01 02:30:33 +0000"
@@ -3592,6 +3610,12 @@
   "create:recipes/create.base/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2025-04-01 02:32:31 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/justhammers.justhammers_tab/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-04 18:46:27 +0000"
     },
     "done": true
   },
@@ -4248,6 +4272,7 @@
       "minecraft:vindicator": "2025-04-01 03:47:33 +0000",
       "minecraft:magma_cube": "2025-04-04 18:28:30 +0000",
       "minecraft:spider": "2025-04-01 03:04:44 +0000",
+      "minecraft:piglin_brute": "2025-04-04 18:46:55 +0000",
       "minecraft:creeper": "2025-04-01 02:37:39 +0000",
       "minecraft:evoker": "2025-04-01 03:46:35 +0000",
       "minecraft:phantom": "2025-04-01 03:42:23 +0000",
@@ -4614,6 +4639,12 @@
   "botania:recipes/botania/mana_distributor": {
     "criteria": {
       "has_item": "2025-04-01 03:18:35 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/justhammers.justhammers_tab/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-04-04 18:46:27 +0000"
     },
     "done": true
   },
@@ -5720,6 +5751,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-04 18:55:46 +0000",
       "honey_bottle": "2025-04-01 04:34:27 +0000",
       "apple": "2025-03-31 23:22:22 +0000",
       "cooked_cod": "2025-04-01 03:27:47 +0000",
@@ -6286,6 +6318,12 @@
   "mcwroofs:recipes/diorite": {
     "criteria": {
       "has_planks": "2025-04-01 04:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-04 18:46:27 +0000"
     },
     "done": true
   },
@@ -6990,6 +7028,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-04-04 17:42:50 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/justhammers.justhammers_tab/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-04 18:46:27 +0000"
     },
     "done": true
   },
