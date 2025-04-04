@@ -78,6 +78,12 @@
     },
     "done": true
   },
+  "rftoolsutility:recipes/rftoolsutility/charged_porter": {
+    "criteria": {
+      "pearl": "2025-04-04 18:43:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-04-04 18:15:43 +0000"
@@ -99,6 +105,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-31 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/justhammers.justhammers_tab/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-04 18:44:22 +0000"
     },
     "done": true
   },
@@ -493,6 +505,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/justhammers.justhammers_tab/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-04-04 18:44:22 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/chiselsandbits/chisel_iron": {
     "criteria": {
       "has_rod": "2025-03-31 23:27:39 +0000"
@@ -520,6 +538,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 18:15:28 +0000"
+    },
+    "done": true
+  },
+  "shrink:recipes/shrink/shrinking_device": {
+    "criteria": {
+      "has_enderpearls": "2025-04-04 18:43:51 +0000"
     },
     "done": true
   },
@@ -667,6 +691,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/antenna_base": {
+    "criteria": {
+      "block": "2025-04-04 18:44:22 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_iron_hammering": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 18:15:28 +0000"
@@ -732,7 +762,14 @@
     "criteria": {
       "minecraft:blaze": "2025-04-04 18:30:08 +0000",
       "minecraft:skeleton": "2025-04-04 17:42:26 +0000",
+      "minecraft:zoglin": "2025-04-04 18:43:25 +0000",
+      "minecraft:hoglin": "2025-04-04 18:43:19 +0000",
+      "minecraft:vindicator": "2025-04-04 18:43:51 +0000",
       "minecraft:magma_cube": "2025-04-04 18:28:33 +0000",
+      "minecraft:piglin_brute": "2025-04-04 18:41:22 +0000",
+      "minecraft:phantom": "2025-04-04 18:45:30 +0000",
+      "minecraft:wither_skeleton": "2025-04-04 18:37:33 +0000",
+      "minecraft:husk": "2025-04-04 18:43:40 +0000",
       "minecraft:piglin": "2025-04-04 18:31:18 +0000",
       "minecraft:vex": "2025-04-04 18:31:23 +0000"
     },
@@ -1032,6 +1069,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/justhammers.justhammers_tab/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-04-04 18:44:22 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2025-03-31 23:21:31 +0000"
@@ -1137,6 +1180,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 18:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-04 18:43:51 +0000"
     },
     "done": true
   },
@@ -1443,6 +1492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-04-04 18:43:51 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/flint_shuriken": {
     "criteria": {
       "has_item": "2025-04-04 18:21:09 +0000"
@@ -1540,6 +1595,12 @@
     },
     "done": true
   },
+  "buddingcrystals:recipes/buddingcrystals/budding_glowstone": {
+    "criteria": {
+      "has_glowstone": "2025-04-04 18:43:51 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/empty_casing": {
     "criteria": {
       "has_coppper_ingot": "2025-04-04 17:45:40 +0000"
@@ -1603,6 +1664,12 @@
   "ae2:recipes/ae2.main/network/cables/dense_smart_fluix": {
     "criteria": {
       "has_dusts/redstone": "2025-04-04 17:47:11 +0000"
+    },
+    "done": true
+  },
+  "champions:kill_a_champion": {
+    "criteria": {
+      "kill_a_champion": "2025-04-04 18:36:37 +0000"
     },
     "done": true
   },
@@ -1699,6 +1766,12 @@
   "mininggadgets:recipes/mininggadgets/upgrade_empty": {
     "criteria": {
       "has_diamonds": "2025-04-04 17:45:42 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/philosophers_stone_alt": {
+    "criteria": {
+      "has_glowstone": "2025-04-04 18:43:51 +0000"
     },
     "done": true
   },
@@ -1860,6 +1933,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/blood_pendant": {
+    "criteria": {
+      "has_item": "2025-04-04 18:43:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 18:15:28 +0000"
@@ -1941,6 +2020,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv": {
     "criteria": {
       "has_copper_ingot": "2025-04-04 17:45:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/incense_stick": {
+    "criteria": {
+      "has_item": "2025-04-04 18:43:54 +0000"
     },
     "done": true
   },
@@ -2031,6 +2116,12 @@
   "create:recipes/create.palettes/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-04 18:21:31 +0000"
+    },
+    "done": true
+  },
+  "entangled:recipes/decorations/block": {
+    "criteria": {
+      "recipe_condition": "2025-04-04 18:43:51 +0000"
     },
     "done": true
   },
@@ -2535,6 +2626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-04 18:43:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-04-04 17:45:42 +0000"
@@ -2652,6 +2749,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-04-04 17:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-04 18:44:22 +0000"
     },
     "done": true
   },
@@ -2788,6 +2891,12 @@
     },
     "done": true
   },
+  "itemcollectors:recipes/decorations/basic_collector": {
+    "criteria": {
+      "recipe_condition": "2025-04-04 18:43:51 +0000"
+    },
+    "done": true
+  },
   "trashcans:recipes/decorations/energy_trash_can": {
     "criteria": {
       "recipe_condition": "2025-04-04 17:47:11 +0000"
@@ -2809,6 +2918,12 @@
   "ae2:recipes/ae2.main/network/cells/item_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-04-04 17:47:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2025-04-04 18:43:51 +0000"
     },
     "done": true
   },
@@ -2899,6 +3014,12 @@
   "bambooeverything:recipes/dry_bamboo_bundle": {
     "criteria": {
       "has_dry_bamboo": "2025-03-31 23:21:31 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/philosophers_stone": {
+    "criteria": {
+      "has_glowstone": "2025-04-04 18:43:51 +0000"
     },
     "done": true
   },
@@ -3166,6 +3287,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2025-04-04 18:43:51 +0000"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_def": {
     "criteria": {
       "iron_ingot": "2025-04-04 18:15:28 +0000"
@@ -3238,6 +3365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-04 18:44:22 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/jungle": {
     "criteria": {
       "has_the_recipe": "2025-03-31 23:23:51 +0000"
@@ -3265,6 +3398,12 @@
   "darkerdepths:recipes/darkerdepths/silver_ingot": {
     "criteria": {
       "has_the_recipe": "2025-03-31 23:21:31 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_upgrade": {
+    "criteria": {
+      "pearl": "2025-04-04 18:43:51 +0000"
     },
     "done": true
   },
@@ -3298,9 +3437,21 @@
     },
     "done": true
   },
+  "entangled:recipes/misc/item": {
+    "criteria": {
+      "recipe_condition": "2025-04-04 18:43:51 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/spruce": {
     "criteria": {
       "has_the_recipe": "2025-03-31 23:23:51 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/justhammers.justhammers_tab/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-04 18:44:22 +0000"
     },
     "done": true
   },
@@ -3355,6 +3506,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv_relay": {
     "criteria": {
       "has_copper_ingot": "2025-04-04 17:45:40 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/lantern": {
+    "criteria": {
+      "has_glowstone": "2025-04-04 18:43:51 +0000"
     },
     "done": true
   },
@@ -3445,6 +3602,12 @@
   "cobblefordays:recipes/misc/tier_5": {
     "criteria": {
       "has_water": "2025-04-04 18:32:53 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/firework": {
+    "criteria": {
+      "has_firework": "2025-04-04 18:44:14 +0000"
     },
     "done": true
   },
