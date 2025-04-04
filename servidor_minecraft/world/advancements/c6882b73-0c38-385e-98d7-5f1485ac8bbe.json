@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-04-04 18:59:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-03-31 23:16:41 +0000"
@@ -608,6 +614,7 @@
   "tconstruct:world/slime_collector": {
     "criteria": {
       "sky": "2025-04-01 04:02:25 +0000",
+      "magma_cream": "2025-04-04 18:59:58 +0000",
       "earth": "2025-04-01 03:36:02 +0000",
       "ichor": "2025-04-04 18:32:13 +0000"
     },
@@ -763,6 +770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-04 19:16:14 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/diorite": {
     "criteria": {
       "has_the_recipe": "2025-03-31 23:16:21 +0000"
@@ -889,6 +902,12 @@
     },
     "done": true
   },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2025-04-04 19:03:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/shaft": {
     "criteria": {
       "has_item": "2025-03-31 23:39:17 +0000"
@@ -1012,6 +1031,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
     "criteria": {
       "has_copper_ingot": "2025-04-01 03:53:42 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-04 19:16:14 +0000"
     },
     "done": true
   },
@@ -1198,6 +1223,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wire_copper": {
     "criteria": {
       "has_copper_ingot": "2025-04-01 03:53:42 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/nether_grout": {
+    "criteria": {
+      "has_item": "2025-04-04 18:59:58 +0000"
     },
     "done": true
   },
@@ -2843,6 +2874,12 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/chiselsandbits/quill": {
+    "criteria": {
+      "has_tag_a": "2025-04-04 19:03:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-31 23:28:38 +0000"
@@ -2949,6 +2986,12 @@
   "create:recipes/create.base/crafting/kinetics/goggles": {
     "criteria": {
       "has_item": "2025-03-31 23:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-04 19:16:14 +0000"
     },
     "done": true
   },
@@ -3207,6 +3250,12 @@
   "create:recipes/create.palettes/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-01 03:46:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-04 19:16:14 +0000"
     },
     "done": true
   },
@@ -3690,6 +3739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-04 19:16:14 +0000"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/rftoolsbuilder/vehicle_status_module": {
     "criteria": {
       "paper": "2025-04-01 04:36:44 +0000"
@@ -4033,6 +4088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-04 19:16:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-31 23:58:10 +0000"
@@ -4054,6 +4115,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-01 04:44:18 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-04 19:16:14 +0000"
     },
     "done": true
   },
@@ -4225,6 +4292,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/turntable": {
+    "criteria": {
+      "has_alt_item": "2025-04-04 18:58:26 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/advanced_connector_red_dye": {
     "criteria": {
       "chest": "2025-04-01 03:32:47 +0000"
@@ -4300,6 +4373,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-04-01 04:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-04-04 19:05:40 +0000"
     },
     "done": true
   },
@@ -5008,6 +5087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-04 19:16:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-03-31 23:16:30 +0000"
@@ -5200,6 +5285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-04 19:16:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 23:34:28 +0000"
@@ -5311,6 +5402,12 @@
   "create:recipes/create.base/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2025-04-01 04:36:44 +0000"
+    },
+    "done": true
+  },
+  "botanypots:husbandry/get_basic_pot": {
+    "criteria": {
+      "get_botany_pot": "2025-04-04 19:04:41 +0000"
     },
     "done": true
   },
@@ -5569,6 +5666,12 @@
   "create:recipes/create.palettes/spruce_window": {
     "criteria": {
       "has_ingredient": "2025-04-01 04:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-04 19:16:14 +0000"
     },
     "done": true
   },
@@ -6301,6 +6404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-04 19:16:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
@@ -6819,6 +6928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-04-04 19:05:40 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_logs": "2025-03-31 23:16:21 +0000"
@@ -7180,6 +7295,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/nether_bricks": {
+    "criteria": {
+      "has_planks": "2025-04-04 19:16:14 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/parts/quartz_fiber_part": {
     "criteria": {
       "has_dusts/quartz": "2025-03-31 23:50:26 +0000"
@@ -7451,6 +7572,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-04 19:16:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-03-31 23:10:55 +0000"
@@ -7604,6 +7731,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-31 23:10:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-04-04 18:58:25 +0000"
     },
     "done": true
   },
@@ -7802,6 +7935,12 @@
   "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/efln_ball": {
     "criteria": {
       "has_item": "2025-04-01 02:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-04 19:16:14 +0000"
     },
     "done": true
   },

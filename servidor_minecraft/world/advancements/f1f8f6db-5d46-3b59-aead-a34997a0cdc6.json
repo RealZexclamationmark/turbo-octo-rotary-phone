@@ -1,4 +1,10 @@
 {
+  "tconstruct:recipes/tconstruct/world/common/slime/ichor/slimeblock": {
+    "criteria": {
+      "has_item": "2025-04-04 19:12:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-03-31 23:09:36 +0000"
@@ -164,6 +170,12 @@
   "create:recipes/create.base/crafting/curiosities/peculiar_bell": {
     "criteria": {
       "has_item": "2025-04-04 18:38:50 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/justhammers.justhammers_tab/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-04-04 18:59:27 +0000"
     },
     "done": true
   },
@@ -359,15 +371,21 @@
     },
     "done": true
   },
-  "justhammers:recipes/justhammers.justhammers_tab/iron_reinforced_hammer": {
+  "justhammers:recipes/justhammers.justhammers_tab/gold_impact_hammer": {
     "criteria": {
-      "has_material": "2025-04-04 18:46:27 +0000"
+      "has_material": "2025-04-04 18:59:27 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-04-04 18:21:55 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/justhammers.justhammers_tab/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-04-04 18:46:27 +0000"
     },
     "done": true
   },
@@ -567,7 +585,8 @@
     "criteria": {
       "sky": "2025-04-01 03:54:04 +0000",
       "magma_cream": "2025-04-04 18:28:36 +0000",
-      "earth": "2025-04-01 03:39:12 +0000"
+      "earth": "2025-04-01 03:39:12 +0000",
+      "ichor": "2025-04-04 19:12:02 +0000"
     },
     "done": false
   },
@@ -808,6 +827,12 @@
   "create:recipes/create.base/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2025-04-01 02:27:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-04 18:59:27 +0000"
     },
     "done": true
   },
@@ -1918,6 +1943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2025-04-04 19:01:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/skillet": {
     "criteria": {
       "has_brick": "2025-04-01 03:34:43 +0000"
@@ -2138,6 +2169,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-04-01 04:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-04 18:59:28 +0000"
     },
     "done": true
   },
@@ -2994,6 +3031,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/nethersdelight/blackstone_stove": {
+    "criteria": {
+      "has_nether_brick": "2025-04-04 19:01:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-04-01 04:07:38 +0000"
@@ -3297,6 +3340,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 03:53:18 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/justhammers.justhammers_tab/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-04 18:59:27 +0000"
     },
     "done": true
   },
@@ -4154,6 +4203,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/common/slime/ichor/congealed": {
+    "criteria": {
+      "has_item": "2025-04-04 19:12:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-04-01 02:14:39 +0000"
@@ -4699,6 +4754,12 @@
   "botania:recipes/botania/blaze_block": {
     "criteria": {
       "has_item": "2025-04-04 18:36:29 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/ichor": {
+    "criteria": {
+      "has_item": "2025-04-04 19:12:02 +0000"
     },
     "done": true
   },
@@ -6431,6 +6492,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/justhammers.justhammers_tab/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-04-04 18:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-04-01 03:00:22 +0000"
@@ -6725,6 +6792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-04-04 18:59:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-03-31 23:16:25 +0000"
@@ -6743,15 +6816,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lodestone": {
-    "criteria": {
-      "has_netherite_ingot": "2025-04-04 18:41:54 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/redstone/misc/vanilla_daylight_detector": {
     "criteria": {
       "has_quartz": "2025-04-04 18:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-04 18:41:54 +0000"
     },
     "done": true
   },
@@ -6914,6 +6987,12 @@
   "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/efln_ball": {
     "criteria": {
       "has_item": "2025-04-01 04:33:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-04-04 19:00:25 +0000"
     },
     "done": true
   },
