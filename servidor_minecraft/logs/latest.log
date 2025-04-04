@@ -4058,3 +4058,33 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Apr2025 20:04:10.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MustafaT80> afiet olsun
 [04Apr2025 20:06:02.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MustafaT80> la su mıknatısı cıkae
 [04Apr2025 20:06:05.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MustafaT80> r
+[04Apr2025 20:09:26.648] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@791e4232
+[04Apr2025 20:09:26.666] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CagdasWFX[/127.106.254.50:36797] logged in with entity id 36717 at (-22.19718362871905, -2.0, 3.699999988079071)
+[04Apr2025 20:09:26.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX joined the game
+[04Apr2025 20:09:26.756] [Server thread/INFO] [Waila/]: Syncing config to CagdasWFX (f1f8f6db-5d46-3b59-aead-a34997a0cdc6)
+[04Apr2025 20:09:26.911] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:09:26.911] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:09:26.911] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 20:09:26.911] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:09:26.911] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 20:09:26.912] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 20:09:27.040] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:09:27.041] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:09:27.041] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 20:09:27.041] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:09:27.041] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 20:09:27.041] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 20:09:27.086] [Thread-125/INFO] [chancecubes/]: No custom rewards detected for the current user!
+[04Apr2025 20:11:25.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Best Friends Forever]
+[04Apr2025 20:12:24.846] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:wool
+[04Apr2025 20:12:25.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Best Friends Forever]
+[04Apr2025 20:12:37.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to CagdasWFX]
+[04Apr2025 20:12:59.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 0.3571344476395384
+[04Apr2025 20:13:00.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 0.9615670266481149
+[04Apr2025 20:13:00.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 1.5685529622333148
+[04Apr2025 20:13:00.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 2.189835666837433
+[04Apr2025 20:14:26.741] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:item_of_destiny
+[04Apr2025 20:14:48.807] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:did_you_know
+[04Apr2025 20:14:59.477] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:cats_and_dogs
+[04Apr2025 20:15:08.904] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:arrow_trap
+[04Apr2025 20:16:50.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to CagdasWFX]

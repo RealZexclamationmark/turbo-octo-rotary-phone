@@ -968,6 +968,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-04 20:12:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/shaft": {
     "criteria": {
       "has_item": "2025-03-31 23:39:17 +0000"
@@ -3042,6 +3048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-04-04 20:14:20 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/glass_pickaxe": {
     "criteria": {
       "has_item": "2025-04-01 03:53:46 +0000"
@@ -3084,9 +3096,16 @@
     },
     "done": true
   },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-04-04 20:08:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/master_chef": {
     "criteria": {
       "mixed_salad": "2025-04-01 03:56:34 +0000",
+      "mushroom_rice": "2025-04-04 20:09:15 +0000",
       "beef_stew": "2025-04-01 03:38:36 +0000"
     },
     "done": false
@@ -3949,6 +3968,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-04-04 20:09:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-03-31 23:50:26 +0000"
@@ -4761,6 +4786,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-04-04 20:12:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2025-04-01 04:31:52 +0000"
@@ -5092,6 +5123,7 @@
       "minecraft:blaze": "2025-04-04 18:27:26 +0000",
       "minecraft:skeleton": "2025-04-01 02:27:57 +0000",
       "minecraft:zoglin": "2025-04-04 18:47:02 +0000",
+      "minecraft:elder_guardian": "2025-04-04 20:12:08 +0000",
       "minecraft:ghast": "2025-04-04 18:35:23 +0000",
       "minecraft:hoglin": "2025-04-04 18:32:20 +0000",
       "minecraft:vindicator": "2025-04-01 03:48:10 +0000",
@@ -5730,6 +5762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-04 20:12:10 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/warped_rail_bridge": {
     "criteria": {
       "has_planks": "2025-04-04 18:38:16 +0000"
@@ -5976,6 +6014,12 @@
       "minecraft:plains": "2025-03-31 23:04:56 +0000"
     },
     "done": false
+  },
+  "chiselsandbits:recipes/chiselsandbits/unseal": {
+    "criteria": {
+      "has_item_a": "2025-04-04 20:12:10 +0000"
+    },
+    "done": true
   },
   "botania:recipes/botania/swap_ring": {
     "criteria": {
@@ -7145,6 +7189,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/prism": {
+    "criteria": {
+      "has_item": "2025-04-04 20:12:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-04-01 04:30:23 +0000"
@@ -7896,6 +7946,14 @@
       "has_glowstone": "2025-04-01 02:38:10 +0000"
     },
     "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "silicon": "2025-04-04 20:08:28 +0000",
+      "logic": "2025-04-04 20:08:40 +0000",
+      "eng": "2025-04-04 20:08:35 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {

@@ -770,15 +770,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2025-04-04 19:47:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-04 19:46:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-04 19:47:00 +0000"
     },
     "done": true
   },
@@ -941,6 +941,12 @@
   "constructionwand:recipes/misc/core_angel": {
     "criteria": {
       "has_item": "2025-04-04 18:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-04 20:11:25 +0000"
     },
     "done": true
   },
@@ -1820,6 +1826,12 @@
   "create:recipes/create.base/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-04-01 02:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-04 20:12:12 +0000"
     },
     "done": true
   },
@@ -5567,6 +5579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-04 20:12:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2025-04-01 02:30:33 +0000"
@@ -5585,15 +5603,15 @@
     },
     "done": true
   },
-  "create:recipes/create.palettes/spruce_window": {
-    "criteria": {
-      "has_ingredient": "2025-04-04 19:51:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-04 19:47:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-04 19:51:14 +0000"
     },
     "done": true
   },
@@ -6245,6 +6263,12 @@
   "xnet:recipes/xnet/connector_red": {
     "criteria": {
       "chest": "2025-04-01 03:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-04 20:12:12 +0000"
     },
     "done": true
   },
