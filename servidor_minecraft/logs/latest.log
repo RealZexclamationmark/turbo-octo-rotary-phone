@@ -4088,3 +4088,54 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Apr2025 20:14:59.477] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:cats_and_dogs
 [04Apr2025 20:15:08.904] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:arrow_trap
 [04Apr2025 20:16:50.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to CagdasWFX]
+[04Apr2025 20:20:04.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 0.26262045817678104
+[04Apr2025 20:20:04.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 0.8589744278340863
+[04Apr2025 20:20:04.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 1.477005650250475
+[04Apr2025 20:20:04.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 2.105228083374379
+[04Apr2025 20:20:04.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 0.5622679656926177
+[04Apr2025 20:20:04.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 1.1540375337850737
+[04Apr2025 20:20:04.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 0.44930881113311116
+[04Apr2025 20:20:04.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 0.3785908513172407
+[04Apr2025 20:20:04.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 0.4651516284425554
+[04Apr2025 20:20:04.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 0.4332386959275478
+[04Apr2025 20:20:04.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 0.4895025972775686
+[04Apr2025 20:20:04.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 1.085825705469932
+[04Apr2025 20:20:05.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 0.5572414094047211
+[04Apr2025 20:20:05.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 1.1930971194485185
+[04Apr2025 20:20:05.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 0.5668013586810003
+[04Apr2025 20:20:05.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 1.2075844814721979
+[04Apr2025 20:20:05.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 1.8492866252931153
+[04Apr2025 20:20:05.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 0.5699296688298237
+[04Apr2025 20:20:05.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 0.5701927943592624
+[04Apr2025 20:20:05.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 1.2129748607355104
+[04Apr2025 20:20:05.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 0.5682861823396026
+[04Apr2025 20:20:05.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 0.5467290078712059
+[04Apr2025 20:20:05.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 0.4783758687726962
+[04Apr2025 20:20:05.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MustafaT80) moved wrongly! 0.9155849032801999
+[04Apr2025 20:21:26.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was slain by CagdasWFX
+[04Apr2025 20:21:28.167] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:21:28.167] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:21:28.167] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 20:21:28.167] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:21:28.168] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 20:21:28.168] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 20:25:25.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> thermo generator
+[04Apr2025 20:25:34.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> thermo generator niotic 10
+[04Apr2025 20:25:47.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> lavla saracaksın her tarafını yere koyup
+[04Apr2025 20:25:50.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> bide bunlara su vercen
+[04Apr2025 20:25:55.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> bunlar enerji üretecek
+[04Apr2025 20:26:37.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was slain by RealZSs
+[04Apr2025 20:26:39.093] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:26:39.093] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:26:39.093] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 20:26:39.093] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:26:39.093] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 20:26:39.093] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 20:26:39.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MustafaT80 moved too quickly! -0.5,-24.0,-0.5
+[04Apr2025 20:26:56.017] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:26:56.017] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:26:56.017] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 20:26:56.017] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 20:26:56.018] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 20:26:56.018] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 20:26:56.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported MustafaT80 to RealZSs]

@@ -5471,6 +5471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-04 20:19:25 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/warped_rail_bridge": {
     "criteria": {
       "has_planks": "2025-04-04 19:54:32 +0000"
@@ -5943,6 +5949,12 @@
   "botania:recipes/botania/mushroom_1": {
     "criteria": {
       "has_item": "2025-04-01 03:17:11 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/computer_advanced": {
+    "criteria": {
+      "has_components": "2025-04-04 20:24:26 +0000"
     },
     "done": true
   },
@@ -6829,6 +6841,12 @@
   "create:recipes/create.palettes/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-01 04:35:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/prism": {
+    "criteria": {
+      "has_item": "2025-04-04 20:19:25 +0000"
     },
     "done": true
   },
