@@ -4,19 +4,19 @@
 	god: false
 	nick: ""
 	name: "CagdasWFX"
-	last_seen: { dim: "ftbsbc:team/meltons-abridger-smeared", x: -23, y: -2, z: 3, time: 1743797366755L, xRot: 12.0141945f, yRot: -141.76855f }
+	last_seen: { dim: "ftbsbc:team/meltons-abridger-smeared", x: -24, y: -2, z: 1, time: 1743805231636L, xRot: 21.759775f, yRot: -92.32306f }
 	recording: 0
 	teleport_history: [
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 26, y: -1, z: 2, time: 1743804870834L, xRot: 4.007591f, yRot: 26.168213f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -28, y: -1, z: 2, time: 1743804899512L, xRot: 20.002747f, yRot: -144.7049f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -23, y: -3, z: 2, time: 1743804905125L, xRot: 17.52292f, yRot: -157.28746f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -23, y: -3, z: 0, time: 1743804912198L, xRot: 7.397637f, yRot: -74.63202f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -20, y: 0, z: 1, time: 1743804920135L, xRot: 31.98741f, yRot: 123.90187f }
 		{ dim: "minecraft:overworld", x: 4, y: 5, z: 20, time: 1743804928336L, xRot: 30.251978f, yRot: 173.90903f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -4, y: -1, z: -2, time: 1743804946030L, xRot: 1.1314423f, yRot: 36.536495f }
 		{ dim: "minecraft:overworld", x: 3, y: 5, z: 27, time: 1743804949218L, xRot: 0.0f, yRot: -180.0f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -3, y: -1, z: 3, time: 1743804957826L, xRot: -1.6005992f, yRot: 55.315056f }
 		{ dim: "minecraft:overworld", x: -4, y: 5, z: 5, time: 1743804968941L, xRot: 14.382043f, yRot: -154.78796f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 4, y: 9, z: 4, time: 1743804983121L, xRot: 19.713352f, yRot: 50.5166f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 5, y: -1, z: -4, time: 1743805112943L, xRot: -5.8537626f, yRot: -140.12744f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 6, y: -1, z: -4, time: 1743805115392L, xRot: 4.0996566f, yRot: -159.53639f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 7, y: 0, z: -7, time: 1743805120433L, xRot: 89.31224f, yRot: -2.1600134f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 3, y: 8, z: 4, time: 1743805133077L, xRot: 11.075867f, yRot: 4.236145f }
 	]
 	homes: { }
 }

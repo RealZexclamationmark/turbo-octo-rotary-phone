@@ -4690,3 +4690,72 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Apr2025 22:17:08.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was slain by RealZSs
 [04Apr2025 22:17:18.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was slain by RealZSs using [A Big Stick]
 [04Apr2025 22:17:28.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was slain by RealZSs using [A Big Stick]
+[04Apr2025 22:17:38.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was slain by RealZSs using [A Big Stick]
+[04Apr2025 22:17:46.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported MustafaT80 to RealZSs]
+[04Apr2025 22:17:52.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> w
+[04Apr2025 22:17:52.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> w
+[04Apr2025 22:17:55.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> w
+[04Apr2025 22:17:56.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported MustafaT80 to RealZSs]
+[04Apr2025 22:18:01.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported MustafaT80 to RealZSs]
+[04Apr2025 22:18:03.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported MustafaT80 to RealZSs]
+[04Apr2025 22:18:07.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was thrown into Crushing Wheels by RealZSs
+[04Apr2025 22:18:13.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported MustafaT80 to RealZSs]
+[04Apr2025 22:18:13.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported MustafaT80 to RealZSs]
+[04Apr2025 22:18:14.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported MustafaT80 to RealZSs]
+[04Apr2025 22:18:16.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported MustafaT80 to RealZSs]
+[04Apr2025 22:18:16.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported MustafaT80 to RealZSs]
+[04Apr2025 22:18:19.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported MustafaT80 to RealZSs]
+[04Apr2025 22:18:19.583] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MustafaT80 lost connection: Disconnected
+[04Apr2025 22:18:19.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 left the game
+[04Apr2025 22:18:32.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported CagdasWFX to RealZSs]
+[04Apr2025 22:18:35.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported CagdasWFX to RealZSs]
+[04Apr2025 22:18:40.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX was processed by Crushing Wheels
+[04Apr2025 22:18:41.666] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 22:18:41.666] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 22:18:41.666] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 22:18:41.666] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 22:18:41.666] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 22:18:41.667] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 22:18:53.048] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 22:18:53.048] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 22:18:53.048] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 22:18:53.049] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 22:18:53.049] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 22:18:53.049] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 22:18:53.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CagdasWFX moved wrongly!
+[04Apr2025 22:18:53.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported CagdasWFX to RealZSs]
+[04Apr2025 22:19:08.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs was processed by Crushing Wheels
+[04Apr2025 22:19:09.922] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@720b5a34 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 22:19:09.923] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@12663a8b (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 22:19:09.923] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@3d11750f (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[04Apr2025 22:19:09.923] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@7b4b7437 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[04Apr2025 22:19:09.923] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1204a170 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 22:19:09.923] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@228afb0e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[04Apr2025 22:19:21.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Set spawn point to 7, -1, -2 [0.0] in ftbsbc:team/meltons-abridger-smeared for 2 players]
+[04Apr2025 22:20:31.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CagdasWFX lost connection: Disconnected
+[04Apr2025 22:20:31.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX left the game
+[04Apr2025 22:20:43.484] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RealZSs lost connection: Disconnected
+[04Apr2025 22:20:43.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs left the game
+[04Apr2025 22:20:55.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[04Apr2025 22:20:55.381] [Server thread/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Shutdown Complete
+[04Apr2025 22:20:55.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Apr2025 22:20:55.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Apr2025 22:20:55.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Apr2025 22:20:55.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Apr2025 22:20:56.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/compactmachines:compact_world
+[04Apr2025 22:20:56.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ftbsbc:team/meltons-abridger-smeared
+[04Apr2025 22:20:56.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[04Apr2025 22:20:56.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Apr2025 22:20:56.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloodmagic:dungeon
+[04Apr2025 22:20:56.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Apr2025 22:20:56.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Apr2025 22:20:56.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[04Apr2025 22:20:56.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (meltons-abridger-smeared): All chunks are saved
+[04Apr2025 22:20:56.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[04Apr2025 22:20:56.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Apr2025 22:20:56.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[04Apr2025 22:20:56.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Apr2025 22:20:56.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Apr2025 22:20:56.784] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
+[04Apr2025 22:20:56.790] [Server thread/INFO] [configured/]: Unloading server configs...
+[04Apr2025 22:20:56.790] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml

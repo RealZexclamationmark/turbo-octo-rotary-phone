@@ -4,10 +4,9 @@
 	god: false
 	nick: ""
 	name: "RealZSs"
-	last_seen: { dim: "ftbsbc:team/meltons-abridger-smeared", x: -1245, y: -60, z: -38, time: 1743794819614L, xRot: 12.067212f, yRot: -36.411163f }
+	last_seen: { dim: "ftbsbc:team/meltons-abridger-smeared", x: -18, y: -1, z: 1, time: 1743805243484L, xRot: 5.434992f, yRot: 29.522062f }
 	recording: 0
 	teleport_history: [
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -112, y: -1, z: 2, time: 1743801399716L, xRot: 9.212001f, yRot: 90.6044f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -593, y: -59, z: 19, time: 1743801403990L, xRot: -55.52369f, yRot: -134.4811f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -1197, y: -60, z: 124, time: 1743801518041L, xRot: 17.455238f, yRot: -117.79556f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -24, y: -2, z: 1, time: 1743804757748L, xRot: 15.612536f, yRot: -84.52612f }
@@ -17,6 +16,7 @@
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -51, y: -1, z: 0, time: 1743804819095L, xRot: 13.772208f, yRot: -72.274475f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -10, y: 3, z: 3, time: 1743804937641L, xRot: -88.111595f, yRot: -94.876465f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -9, y: 2, z: 3, time: 1743804956159L, xRot: -21.233702f, yRot: 123.39108f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 7, y: 0, z: -7, time: 1743805148784L, xRot: 19.023043f, yRot: 9.86223f }
 	]
 	homes: {
 		home: { dim: "ftbsbc:team/meltons-abridger-smeared", x: -6, y: -1, z: 0, time: 1743465062573L, xRot: 0.8302462f, yRot: -32.186447f }
