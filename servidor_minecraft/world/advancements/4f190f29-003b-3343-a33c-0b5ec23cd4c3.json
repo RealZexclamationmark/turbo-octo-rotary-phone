@@ -4665,6 +4665,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/maintenance_kit": {
+    "criteria": {
+      "has_wirecutter": "2025-04-04 21:01:27 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_fence": {
     "criteria": {
       "has_bamboo": "2025-03-31 23:21:31 +0000",
