@@ -794,6 +794,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-04-04 21:49:55 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/justhammers.justhammers_tab/stone_destructor_hammer": {
     "criteria": {
       "has_material": "2025-03-31 23:09:10 +0000"
@@ -3998,6 +4004,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/decorative/quartz_fixture": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-04-04 21:47:19 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 04:40:35 +0000"
@@ -7150,6 +7162,7 @@
     "criteria": {
       "honey_bottle": "2025-04-04 18:22:04 +0000",
       "apple": "2025-03-31 23:22:01 +0000",
+      "potato": "2025-04-04 21:54:02 +0000",
       "cooked_cod": "2025-04-01 04:23:01 +0000",
       "pumpkin_pie": "2025-04-01 03:40:34 +0000",
       "bread": "2025-04-01 03:21:26 +0000",
@@ -7948,6 +7961,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/tools/misctools_charged_staff": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-04-04 21:47:19 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/magnet_ring": {
     "criteria": {
       "has_item": "2025-04-01 03:53:46 +0000"
@@ -8461,6 +8480,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/misc/meteors_sky_compass": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-04-04 21:47:19 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/diorite": {
     "criteria": {
       "has_wood": "2025-04-01 04:37:14 +0000"
@@ -8866,6 +8891,12 @@
   "mcwbridges:recipes/balustrade_granite_bridge": {
     "criteria": {
       "has_planks": "2025-04-01 03:46:53 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-04-04 21:47:19 +0000"
     },
     "done": true
   },
