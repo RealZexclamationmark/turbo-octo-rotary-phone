@@ -776,6 +776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-04 19:45:25 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/diorite": {
     "criteria": {
       "has_the_recipe": "2025-03-31 23:16:21 +0000"
@@ -4376,6 +4382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-04-04 19:45:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-04-01 04:36:52 +0000"
@@ -4593,6 +4605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-04-04 19:45:25 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/fluidplus_module": {
     "criteria": {
       "ingot": "2025-03-31 23:34:28 +0000"
@@ -4788,6 +4806,12 @@
   "create:recipes/create.palettes/layered_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-04 19:45:25 +0000"
     },
     "done": true
   },
@@ -6719,6 +6743,12 @@
     },
     "done": true
   },
+  "buddingcrystals:recipes/buddingcrystals/budding_prismarine": {
+    "criteria": {
+      "has_prismarine": "2025-04-04 19:45:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/copper_scaffolding_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-04-01 03:53:42 +0000"
@@ -6878,6 +6908,12 @@
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2025-03-31 23:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-04-04 19:45:25 +0000"
     },
     "done": true
   },
@@ -7642,6 +7678,12 @@
   "projecte:recipes/projecte/philosophers_stone": {
     "criteria": {
       "has_glowstone": "2025-04-01 02:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-04 19:45:25 +0000"
     },
     "done": true
   },
