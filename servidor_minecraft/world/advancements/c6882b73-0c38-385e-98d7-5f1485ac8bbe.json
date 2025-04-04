@@ -1176,6 +1176,12 @@
     },
     "done": true
   },
+  "tconstruct:world/slime_sling": {
+    "criteria": {
+      "sky": "2025-04-04 18:16:06 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-01 03:46:53 +0000"
