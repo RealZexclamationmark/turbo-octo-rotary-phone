@@ -4,7 +4,7 @@
 	god: false
 	nick: ""
 	name: "RealZSs"
-	last_seen: { dim: "ftbsbc:team/meltons-abridger-smeared", x: -16, y: -1, z: 0, time: 1743790400958L, xRot: 23.165863f, yRot: -134.8053f }
+	last_seen: { dim: "ftbsbc:team/meltons-abridger-smeared", x: -1245, y: -60, z: -38, time: 1743794800040L, xRot: 12.067212f, yRot: -36.411163f }
 	recording: 0
 	teleport_history: [
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -1230, y: -60, z: -47, time: 1743793867037L, xRot: 38.920135f, yRot: -32.699097f }
