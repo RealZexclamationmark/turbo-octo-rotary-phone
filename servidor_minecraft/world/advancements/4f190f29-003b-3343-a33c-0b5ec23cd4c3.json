@@ -24,6 +24,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-04-04 18:22:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-03-31 23:26:31 +0000"
@@ -354,6 +360,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-04 18:21:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 18:15:28 +0000"
@@ -369,6 +381,12 @@
   "mcwbridges:recipes/iron_bridge": {
     "criteria": {
       "has_planks": "2025-04-04 18:15:28 +0000"
+    },
+    "done": true
+  },
+  "buddingcrystals:recipes/buddingcrystals/budding_fluorite": {
+    "criteria": {
+      "has_fluorite": "2025-04-04 18:21:46 +0000"
     },
     "done": true
   },
@@ -418,6 +436,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-04-04 17:45:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-04 18:21:31 +0000"
     },
     "done": true
   },
@@ -472,6 +496,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/grout_multiple": {
     "criteria": {
       "has_item": "2025-03-31 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-04-04 18:22:24 +0000"
     },
     "done": true
   },
@@ -544,6 +574,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 18:15:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-04 18:21:31 +0000"
     },
     "done": true
   },
@@ -674,6 +710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-04 18:21:09 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecutter": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 18:15:28 +0000"
@@ -728,9 +770,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-04 18:22:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-03-31 23:24:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-04 18:21:31 +0000"
     },
     "done": true
   },
@@ -803,6 +857,12 @@
   "mcwwindows:recipes/andesite": {
     "criteria": {
       "has_the_recipe": "2025-03-31 23:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-04 18:21:37 +0000"
     },
     "done": true
   },
@@ -902,6 +962,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-04 18:21:31 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/copper_can": {
     "criteria": {
       "has_item": "2025-04-04 17:45:40 +0000"
@@ -929,6 +995,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-03-31 23:23:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-04 18:21:31 +0000"
     },
     "done": true
   },
@@ -1019,6 +1091,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-31 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-04 18:16:22 +0000"
     },
     "done": true
   },
@@ -1162,6 +1240,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:lush_caves": "2025-04-04 18:20:50 +0000",
       "minecraft:plains": "2025-03-31 23:20:11 +0000"
     },
     "done": false
@@ -1200,6 +1279,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-03-31 23:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-04 18:21:37 +0000"
     },
     "done": true
   },
@@ -1264,6 +1349,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2025-04-04 18:21:09 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_green": {
     "criteria": {
       "chest": "2025-04-04 17:48:38 +0000"
@@ -1297,6 +1388,12 @@
   "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-31 23:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-04 18:22:24 +0000"
     },
     "done": true
   },
@@ -1373,9 +1470,27 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-04 18:24:01 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/create.palettes/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-04 18:21:31 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_boots": {
     "criteria": {
       "has_item": "2025-04-04 17:45:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-04 18:21:31 +0000"
     },
     "done": true
   },
@@ -1427,6 +1542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-04-04 18:21:37 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
     "criteria": {
       "has_wt": "2025-03-31 23:21:31 +0000"
@@ -1445,6 +1566,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-04 18:21:31 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/empty_shell": {
     "criteria": {
       "has_coppper_ingot": "2025-04-04 17:45:40 +0000"
@@ -1460,6 +1587,18 @@
   "mininggadgets:recipes/mininggadgets/upgrade_empty": {
     "criteria": {
       "has_diamonds": "2025-04-04 17:45:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-04 18:21:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-04 18:21:31 +0000"
     },
     "done": true
   },
@@ -1633,6 +1772,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-04 18:21:31 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 23:27:38 +0000"
@@ -1648,6 +1793,12 @@
   "immersiveengineering:recipes/decorations/crafting/torch": {
     "criteria": {
       "has_stick": "2025-03-31 23:27:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-04 18:21:31 +0000"
     },
     "done": true
   },
@@ -1699,6 +1850,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-04 18:21:31 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2025-03-31 23:23:51 +0000"
@@ -1729,6 +1886,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-04 18:21:09 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/low_covalence_dust": {
     "criteria": {
       "has_cobble": "2025-03-31 23:26:31 +0000"
@@ -1738,6 +1901,12 @@
   "farmersdelight:recipes/farmersdelight/skillet": {
     "criteria": {
       "has_brick": "2025-04-04 17:53:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-04 18:21:31 +0000"
     },
     "done": true
   },
@@ -1761,6 +1930,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-04-04 18:22:51 +0000",
       "glow_berries": "2025-03-31 23:24:40 +0000",
       "carrot": "2025-03-31 23:28:09 +0000"
     },
@@ -1878,6 +2048,18 @@
   "ae2:recipes/ae2.main/network/cells/fluid_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-04-04 17:47:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-04 18:21:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-04 18:21:31 +0000"
     },
     "done": true
   },
@@ -2223,6 +2405,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-04-04 18:22:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-03-31 23:27:40 +0000"
@@ -2253,6 +2441,12 @@
     },
     "done": true
   },
+  "buddingcrystals:recipes/buddingcrystals/budding_lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-04 18:22:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-04-04 17:47:11 +0000"
@@ -2262,6 +2456,12 @@
   "create:root": {
     "criteria": {
       "0": "2025-03-31 23:21:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-04 18:21:31 +0000"
     },
     "done": true
   },
@@ -2461,6 +2661,18 @@
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-31 23:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-04 18:23:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-04 18:21:09 +0000"
     },
     "done": true
   },
@@ -2719,6 +2931,12 @@
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2025-03-31 23:27:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-04 18:21:31 +0000"
     },
     "done": true
   },

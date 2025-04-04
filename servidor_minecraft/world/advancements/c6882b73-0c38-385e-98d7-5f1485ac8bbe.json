@@ -1467,6 +1467,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-04 18:23:59 +0000"
+    },
+    "done": false
+  },
   "xnet:recipes/xnet/netcable_blue": {
     "criteria": {
       "nugget": "2025-04-01 04:36:52 +0000"
@@ -5699,6 +5705,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "honey_bottle": "2025-04-04 18:22:04 +0000",
       "apple": "2025-03-31 23:22:01 +0000",
       "cooked_cod": "2025-04-01 04:23:01 +0000",
       "pumpkin_pie": "2025-04-01 03:40:34 +0000",
@@ -6488,6 +6495,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-04-01 03:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-04 18:24:25 +0000"
     },
     "done": true
   },

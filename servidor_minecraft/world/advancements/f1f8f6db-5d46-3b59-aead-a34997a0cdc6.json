@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-04 18:21:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-01 03:43:20 +0000"
@@ -996,6 +1002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-04-04 18:21:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-04-01 02:30:33 +0000"
@@ -1364,6 +1376,12 @@
       "has_dark_oak": "2025-03-31 23:05:34 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-04 18:24:01 +0000"
+    },
+    "done": false
   },
   "xnet:recipes/xnet/netcable_blue": {
     "criteria": {
@@ -2041,6 +2059,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-04-01 03:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-04 18:21:55 +0000"
     },
     "done": true
   },
@@ -6048,6 +6072,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-04-01 01:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-04 18:23:52 +0000"
     },
     "done": true
   },
