@@ -6026,6 +6026,12 @@
     },
     "done": true
   },
+  "projecte:red_matter_furnace": {
+    "criteria": {
+      "rm_furnace": "2025-04-06 20:39:02 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/glowstone_slab": {
     "criteria": {
       "has_wood": "2025-04-04 19:42:44 +0000"
@@ -8695,6 +8701,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2025-04-06 20:39:43 +0000",
       "minecraft:lush_caves": "2025-04-04 17:29:59 +0000",
       "minecraft:plains": "2025-03-31 23:05:06 +0000"
     },

@@ -4,7 +4,7 @@
 	god: false
 	nick: ""
 	name: "B3rks"
-	last_seen: { dim: "minecraft:overworld", x: 3, y: 5, z: 27, time: 1743967423492L, xRot: -10.0f, yRot: -180.0f }
+	last_seen: { dim: "ftbsbc:team/meltons-abridger-smeared", x: -2, y: 0, z: 14, time: 1743972150108L, xRot: 37.44247f, yRot: -126.13713f }
 	recording: 0
 	teleport_history: [
 		{ dim: "minecraft:overworld", x: 3, y: 5, z: 27, time: 1743967431587L, xRot: -10.0f, yRot: -180.0f }

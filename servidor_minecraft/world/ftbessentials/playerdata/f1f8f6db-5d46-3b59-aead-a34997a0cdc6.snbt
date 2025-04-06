@@ -4,11 +4,9 @@
 	god: false
 	nick: ""
 	name: "CagdasWFX"
-	last_seen: { dim: "ftbsbc:team/meltons-abridger-smeared", x: -19, y: -1, z: 1, time: 1743953801844L, xRot: 12.708925f, yRot: -92.57103f }
+	last_seen: { dim: "ftbsbc:team/meltons-abridger-smeared", x: 1, y: 0, z: 19, time: 1743972473705L, xRot: 20.201387f, yRot: 161.47974f }
 	recording: 0
 	teleport_history: [
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -1177, y: -64, z: 129, time: 1743961110842L, xRot: 6.1867676f, yRot: -2.7041016f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -207, y: -1, z: 1, time: 1743961122736L, xRot: 0.4981042f, yRot: 90.26352f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -27, y: -1, z: 0, time: 1743962763194L, xRot: 9.020273f, yRot: 93.893555f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -285, y: -4, z: 11, time: 1743962785061L, xRot: 47.07311f, yRot: 20.408325f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -1507, y: -60, z: 65, time: 1743963089568L, xRot: 14.134269f, yRot: 86.77637f }
@@ -17,6 +15,8 @@
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -1612, y: -40, z: 36, time: 1743963677747L, xRot: 20.032242f, yRot: 85.683716f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -16, y: -1, z: 1, time: 1743963948025L, xRot: 12.497884f, yRot: 70.194145f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -1849, y: -80, z: 114, time: 1743964911607L, xRot: 26.044111f, yRot: 140.88354f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -4, y: 0, z: 18, time: 1743971983241L, xRot: 64.0785f, yRot: 163.08203f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -2405, y: 0, z: 305, time: 1743972098410L, xRot: 11.761981f, yRot: -67.32092f }
 	]
 	homes: { }
 }
