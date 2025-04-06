@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/brown_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-04-06 20:05:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-04-04 17:45:40 +0000"
@@ -527,6 +533,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/dm_furnace": {
+    "criteria": {
+      "has_dark_matter": "2025-04-06 20:00:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-04-04 22:00:19 +0000"
@@ -680,6 +692,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-04-04 20:37:59 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/gray_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-04-06 20:05:23 +0000"
     },
     "done": true
   },
@@ -1363,6 +1381,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/blue_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-04-06 20:05:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2025-04-06 17:43:01 +0000"
@@ -1420,6 +1444,12 @@
   "mcwbridges:recipes/blackstone_bridge": {
     "criteria": {
       "has_planks": "2025-04-04 19:34:13 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/cyan_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-04-06 20:05:23 +0000"
     },
     "done": true
   },
@@ -1585,6 +1615,12 @@
     },
     "done": true
   },
+  "projecte:red_matter_block": {
+    "criteria": {
+      "rm_block": "2025-04-06 20:00:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2025-04-04 21:34:29 +0000"
@@ -1682,9 +1718,21 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/repair_talisman_alt": {
+    "criteria": {
+      "has_covalence_dust": "2025-04-06 19:56:37 +0000"
+    },
+    "done": true
+  },
   "advancedperipherals:recipes/advancedperipheralstab/peripheral_casing": {
     "criteria": {
       "has_item": "2025-04-06 16:51:49 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/stick_aluminum": {
+    "criteria": {
+      "has_alu_ingot": "2025-04-06 20:09:53 +0000"
     },
     "done": true
   },
@@ -1827,6 +1875,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/repair_talisman": {
+    "criteria": {
+      "has_covalence_dust": "2025-04-06 19:56:37 +0000"
+    },
+    "done": true
+  },
   "constructionwand:recipes/misc/core_destruction": {
     "criteria": {
       "has_item": "2025-04-06 18:11:55 +0000"
@@ -1891,6 +1945,12 @@
   "rftoolsstorage:recipes/rftoolsstorage/modular_storage": {
     "criteria": {
       "frame": "2025-04-06 19:41:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_redstone": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-04-06 20:09:53 +0000"
     },
     "done": true
   },
@@ -2002,6 +2062,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wire_aluminum": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-04-06 20:09:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2025-04-04 21:34:29 +0000"
@@ -2074,6 +2140,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alu_wallmount": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-04-06 20:09:53 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/philosophers_stone_alt": {
     "criteria": {
       "has_glowstone": "2025-04-04 18:43:51 +0000"
@@ -2131,6 +2203,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_wall_stonecutter": {
     "criteria": {
       "has_item": "2025-04-06 16:30:51 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/purple_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-04-06 20:05:23 +0000"
     },
     "done": true
   },
@@ -2576,6 +2654,12 @@
   "mcwpaths:recipes/cobbled_deepslate": {
     "criteria": {
       "has_wood": "2025-04-06 17:43:48 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alu_fence": {
+    "criteria": {
+      "has_alu_ingot": "2025-04-06 20:09:53 +0000"
     },
     "done": true
   },
@@ -3101,6 +3185,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/mercurial_eye": {
+    "criteria": {
+      "has_matter": "2025-04-06 20:00:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-31 23:29:21 +0000"
@@ -3128,6 +3218,12 @@
   "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-04-06 17:00:46 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/alchemical_chest": {
+    "criteria": {
+      "has_covalence_dust": "2025-04-06 19:56:37 +0000"
     },
     "done": true
   },
@@ -3164,6 +3260,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-04-04 19:44:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-04-06 20:11:54 +0000"
     },
     "done": true
   },
@@ -3335,9 +3437,21 @@
     },
     "done": true
   },
+  "projecte:alchemical_chest": {
+    "criteria": {
+      "alch_chest": "2025-04-06 20:05:23 +0000"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/manual": {
     "criteria": {
       "book": "2025-04-04 21:59:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/amethyst_bronze_block_from_ingots": {
+    "criteria": {
+      "has_item": "2025-04-06 20:04:33 +0000"
     },
     "done": true
   },
@@ -3623,6 +3737,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_aluminum_hammering": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-04-06 20:09:53 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/iron_to_gold_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 18:15:28 +0000"
@@ -3704,6 +3824,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-04-06 17:00:46 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/orange_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-04-06 20:05:23 +0000"
     },
     "done": true
   },
@@ -4169,6 +4295,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-06 20:09:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-04-06 18:29:35 +0000"
@@ -4287,6 +4419,12 @@
   "create:recipes/create.base/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2025-04-06 17:43:01 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/condenser_mk1": {
+    "criteria": {
+      "has_alchemical_chest": "2025-04-06 20:05:23 +0000"
     },
     "done": true
   },
@@ -4560,6 +4698,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/lime_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-04-06 20:05:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_stairs": {
     "criteria": {
       "has_prismarine": "2025-04-04 20:38:01 +0000"
@@ -4641,6 +4785,12 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-04-04 20:16:20 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/pink_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-04-06 20:05:23 +0000"
     },
     "done": true
   },
@@ -4855,6 +5005,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/white_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-04-06 20:05:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-04-04 18:32:53 +0000"
@@ -5036,6 +5192,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-04-06 20:11:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-03-31 23:27:52 +0000"
@@ -5135,6 +5297,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-04-06 16:48:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/light_blue_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-04-06 20:05:23 +0000"
     },
     "done": true
   },
@@ -5351,6 +5519,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-03-31 23:23:54 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/yellow_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-04-06 20:05:23 +0000"
     },
     "done": true
   },
@@ -5648,6 +5822,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum_to_storage_aluminum": {
+    "criteria": {
+      "has_ingot_aluminum": "2025-04-06 20:09:53 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_yellow_dye": {
     "criteria": {
       "chest": "2025-04-04 17:48:38 +0000"
@@ -5663,6 +5843,12 @@
   "create:recipes/create.palettes/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2025-04-04 20:12:27 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alu_scaffolding_standard": {
+    "criteria": {
+      "has_alu_ingot": "2025-04-06 20:09:53 +0000"
     },
     "done": true
   },
@@ -5849,6 +6035,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-06 17:43:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/amethyst_bronze_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-04-06 20:04:33 +0000"
     },
     "done": true
   },
@@ -6070,6 +6262,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/light_gray_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-04-06 20:05:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-04-04 17:53:28 +0000"
@@ -6121,6 +6319,12 @@
   "rftoolsutility:recipes/rftoolsutility/syringe": {
     "criteria": {
       "machine_frame": "2025-04-06 19:41:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/magenta_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-04-06 20:05:23 +0000"
     },
     "done": true
   },
@@ -6370,6 +6574,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_aluminum_to_ingot_aluminum": {
+    "criteria": {
+      "has_storage_aluminum": "2025-04-06 20:09:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-31 23:26:31 +0000"
@@ -6588,6 +6798,12 @@
     },
     "done": true
   },
+  "projecte:dark_matter_block": {
+    "criteria": {
+      "dm_block": "2025-04-06 20:00:07 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/tiki_torches": {
     "criteria": {
       "has_the_recipe": "2025-03-31 23:29:21 +0000"
@@ -6645,6 +6861,12 @@
   "create:recipes/create.base/crafting/kinetics/rotation_speed_controller": {
     "criteria": {
       "has_item": "2025-04-04 20:51:27 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/dark_matter_block_deconstruct": {
+    "criteria": {
+      "has_dark_matter_block": "2025-04-06 20:00:07 +0000"
     },
     "done": true
   },
@@ -6848,6 +7070,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/green_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-04-06 20:05:23 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cells/fluid_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-04-04 17:47:11 +0000"
@@ -6905,6 +7133,12 @@
   "minecraft:recipes/decorations/pink_banner": {
     "criteria": {
       "has_pink_wool": "2025-04-04 20:12:27 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/black_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-04-06 20:05:23 +0000"
     },
     "done": true
   },
@@ -6977,6 +7211,12 @@
   "xnet:recipes/xnet/facade": {
     "criteria": {
       "glass": "2025-04-04 19:45:05 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/red_alchemical_bag": {
+    "criteria": {
+      "has_alchemical_chest": "2025-04-06 20:05:23 +0000"
     },
     "done": true
   },
@@ -8184,6 +8424,12 @@
   "botania:recipes/botania/terrasteel_leggings": {
     "criteria": {
       "has_prev_tier": "2025-04-04 17:40:24 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/red_matter_block_deconstruct": {
+    "criteria": {
+      "has_red_matter_block": "2025-04-06 20:00:05 +0000"
     },
     "done": true
   },

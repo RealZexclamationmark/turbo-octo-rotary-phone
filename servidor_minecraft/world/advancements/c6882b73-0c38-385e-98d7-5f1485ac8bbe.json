@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "extendedexchange:recipes/extendedexchange/matter_h/magenta": {
+    "criteria": {
+      "has_item": "2025-04-06 19:59:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2025-04-06 18:17:33 +0000"
@@ -317,6 +323,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/dm_furnace": {
+    "criteria": {
+      "has_dark_matter": "2025-04-06 19:59:54 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/corporea_spark": {
     "criteria": {
       "has_item": "2025-04-06 16:38:47 +0000"
@@ -449,9 +461,21 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_green": {
+    "criteria": {
+      "has_dyes/black": "2025-04-06 20:02:16 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/conversions/dye_bag_orange": {
     "criteria": {
       "has_alchemical_bag": "2025-04-01 04:17:49 +0000"
+    },
+    "done": true
+  },
+  "extendedexchange:recipes/extendedexchange/collector/red": {
+    "criteria": {
+      "has_item": "2025-04-06 19:59:52 +0000"
     },
     "done": true
   },
@@ -854,6 +878,12 @@
   "ae2:recipes/ae2.main/network/blocks/security_station": {
     "criteria": {
       "has_engineering_processor": "2025-04-04 20:43:34 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/arcana_ring": {
+    "criteria": {
+      "has_matter": "2025-04-06 19:59:52 +0000"
     },
     "done": true
   },
@@ -1848,6 +1878,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/clear_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-06 20:02:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-04-06 18:18:45 +0000"
@@ -2484,6 +2520,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/red_matter_block": {
+    "criteria": {
+      "has_red_matter": "2025-04-06 19:59:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-03-31 23:49:12 +0000"
@@ -2722,6 +2764,12 @@
   "create:recipes/create.palettes/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-01 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:red_matter": {
+    "criteria": {
+      "rm": "2025-04-06 19:59:52 +0000"
     },
     "done": true
   },
@@ -3016,6 +3064,12 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-04-04 18:55:59 +0000"
+    },
+    "done": true
+  },
+  "extendedexchange:recipes/extendedexchange/power_flower/red_upgrade": {
+    "criteria": {
+      "has_item": "2025-04-06 19:59:52 +0000"
     },
     "done": true
   },
@@ -3503,6 +3557,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/scratched_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-06 20:02:16 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_cracked_bricks_smelting": {
     "criteria": {
       "has_item": "2025-04-06 19:27:11 +0000"
@@ -3809,6 +3869,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-06 20:02:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/spruce_window": {
     "criteria": {
       "has_ingredient": "2025-04-01 04:44:18 +0000"
@@ -4067,6 +4133,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/body_stone": {
+    "criteria": {
+      "has_matter": "2025-04-06 19:59:52 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
     "criteria": {
       "has_wt": "2025-03-31 23:04:56 +0000"
@@ -4207,6 +4279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-04-06 20:13:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-04-01 03:41:24 +0000"
@@ -4273,6 +4351,12 @@
     },
     "done": true
   },
+  "projecte:dark_matter_block": {
+    "criteria": {
+      "dm_block": "2025-04-06 19:59:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-03-31 23:47:12 +0000"
@@ -4312,6 +4396,12 @@
   "farmersdelight:recipes/farmersdelight/safety_net": {
     "criteria": {
       "has_rope": "2025-04-01 03:33:16 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/dark_matter_block_deconstruct": {
+    "criteria": {
+      "has_dark_matter_block": "2025-04-06 19:59:54 +0000"
     },
     "done": true
   },
@@ -4477,6 +4567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2025-04-06 20:02:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-03-31 23:25:54 +0000"
@@ -4522,6 +4618,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-04-01 02:38:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/smart_green": {
+    "criteria": {
+      "has_dyes/black": "2025-04-06 20:02:16 +0000"
     },
     "done": true
   },
@@ -4633,6 +4735,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_green": {
+    "criteria": {
+      "has_dyes/black": "2025-04-06 20:02:16 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/nether": {
     "criteria": {
       "has_nether_brick": "2025-03-31 23:04:56 +0000"
@@ -4642,6 +4750,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-03-31 23:47:12 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/dm_pedestal": {
+    "criteria": {
+      "has_matter": "2025-04-06 19:59:52 +0000"
     },
     "done": true
   },
@@ -5089,6 +5203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-04-06 20:02:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-04-01 03:36:02 +0000"
@@ -5233,6 +5353,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-06 20:02:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-04-01 02:38:10 +0000"
@@ -5323,6 +5449,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/clear_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-06 20:02:16 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/world/common/slime/sky/slimeblock": {
     "criteria": {
       "has_item": "2025-04-01 04:02:25 +0000"
@@ -5362,6 +5494,12 @@
   "botania:recipes/botania/terrasteel_leggings": {
     "criteria": {
       "has_prev_tier": "2025-04-01 03:52:40 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/red_matter_block_deconstruct": {
+    "criteria": {
+      "has_red_matter_block": "2025-04-06 19:59:56 +0000"
     },
     "done": true
   },
@@ -5440,6 +5578,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-03-31 23:49:12 +0000"
+    },
+    "done": true
+  },
+  "extendedexchange:recipes/extendedexchange/energy_link": {
+    "criteria": {
+      "has_item": "2025-04-06 19:59:52 +0000"
     },
     "done": true
   },
@@ -5950,6 +6094,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/scratched_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-06 20:02:16 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/text_module": {
     "criteria": {
       "ingot": "2025-03-31 23:34:28 +0000"
@@ -6316,6 +6466,12 @@
     },
     "done": true
   },
+  "projecte:condenser": {
+    "criteria": {
+      "condenser": "2025-04-06 20:11:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2025-03-31 23:41:18 +0000"
@@ -6460,6 +6616,12 @@
     },
     "done": true
   },
+  "projecte:red_matter_block": {
+    "criteria": {
+      "rm_block": "2025-04-06 19:59:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2025-03-31 23:39:17 +0000"
@@ -6524,6 +6686,12 @@
     "criteria": {
       "has_wpt": "2025-03-31 23:04:56 +0000",
       "has_wct": "2025-03-31 23:04:56 +0000"
+    },
+    "done": true
+  },
+  "advancedperipherals:recipes/advancedperipheralstab/peripheral_casing": {
+    "criteria": {
+      "has_item": "2025-04-06 20:13:41 +0000"
     },
     "done": true
   },
@@ -6705,6 +6873,12 @@
   "mcwbridges:recipes/spruce_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-04-01 04:44:18 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/mind_stone": {
+    "criteria": {
+      "has_matter": "2025-04-06 19:59:52 +0000"
     },
     "done": true
   },
@@ -6933,6 +7107,12 @@
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-04-04 18:53:49 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/tinted_borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-06 20:02:16 +0000"
     },
     "done": true
   },
@@ -7339,6 +7519,12 @@
     },
     "done": true
   },
+  "extendedexchange:recipes/extendedexchange/matter_v/magenta": {
+    "criteria": {
+      "has_item": "2025-04-06 19:59:52 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_goggles": {
     "criteria": {
       "has_item": "2025-04-01 03:53:42 +0000"
@@ -7441,6 +7627,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/mercurial_eye": {
+    "criteria": {
+      "has_matter": "2025-04-06 19:59:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-31 23:28:38 +0000"
@@ -7462,6 +7654,12 @@
   "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-04-06 18:18:45 +0000"
+    },
+    "done": true
+  },
+  "extendedexchange:recipes/extendedexchange/relay/red": {
+    "criteria": {
+      "has_item": "2025-04-06 19:59:52 +0000"
     },
     "done": true
   },
@@ -7633,6 +7831,12 @@
   "botania:recipes/botania/third_eye": {
     "criteria": {
       "has_item": "2025-04-01 02:34:02 +0000"
+    },
+    "done": true
+  },
+  "projecte:collector": {
+    "criteria": {
+      "collector": "2025-04-06 20:11:09 +0000"
     },
     "done": true
   },
@@ -8161,6 +8365,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_yellow_dye": "2025-04-06 17:24:00 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/condenser_mk2": {
+    "criteria": {
+      "has_previous": "2025-04-06 20:11:09 +0000"
     },
     "done": true
   },
@@ -9646,6 +9856,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-04-01 03:47:47 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/soul_stone": {
+    "criteria": {
+      "has_matter": "2025-04-06 19:59:52 +0000"
     },
     "done": true
   },
