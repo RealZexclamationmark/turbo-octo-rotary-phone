@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/conversions/dye_bag_purple": {
+    "criteria": {
+      "has_alchemical_bag": "2025-04-06 18:58:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-04-04 20:12:27 +0000"
@@ -611,6 +617,12 @@
     },
     "done": true
   },
+  "projecte:alchemical_bag": {
+    "criteria": {
+      "bag": "2025-04-06 18:58:08 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_trapdoor": {
     "criteria": {
       "has_dry_bundle": "2025-03-31 23:21:31 +0000"
@@ -724,6 +736,12 @@
   "mcwbridges:recipes/sandstone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-06 18:44:22 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/dye_bag_orange": {
+    "criteria": {
+      "has_alchemical_bag": "2025-04-06 18:58:08 +0000"
     },
     "done": true
   },
@@ -850,6 +868,12 @@
   "mcwtrpdoors:recipes/dark_oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-04-06 18:12:07 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/dye_bag_lime": {
+    "criteria": {
+      "has_alchemical_bag": "2025-04-06 18:58:08 +0000"
     },
     "done": true
   },
@@ -1012,6 +1036,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-04-04 21:34:29 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/dye_bag_light_blue": {
+    "criteria": {
+      "has_alchemical_bag": "2025-04-06 18:58:08 +0000"
     },
     "done": true
   },
@@ -1306,6 +1336,12 @@
   "tconstruct:recipes/tconstruct/general/common/gold_bars": {
     "criteria": {
       "has_ingot": "2025-04-04 19:44:25 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/dye_bag_yellow": {
+    "criteria": {
+      "has_alchemical_bag": "2025-04-06 18:58:08 +0000"
     },
     "done": true
   },
@@ -1604,6 +1640,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/conversions/dye_bag_green": {
+    "criteria": {
+      "has_alchemical_bag": "2025-04-06 18:58:08 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/ca": {
     "criteria": {
       "has_wit": "2025-03-31 23:21:31 +0000",
@@ -1723,6 +1765,12 @@
     "criteria": {
       "has_wood": "2025-03-31 23:23:51 +0000",
       "has_the_recipe": "2025-03-31 23:23:51 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/dye_bag_red": {
+    "criteria": {
+      "has_alchemical_bag": "2025-04-06 18:58:08 +0000"
     },
     "done": true
   },
@@ -2951,6 +2999,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/conversions/dye_bag_light_gray": {
+    "criteria": {
+      "has_alchemical_bag": "2025-04-06 18:58:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/goggles": {
     "criteria": {
       "has_item": "2025-04-04 21:34:29 +0000"
@@ -3032,6 +3086,12 @@
   "mcwroofs:recipes/gutters": {
     "criteria": {
       "has_planks": "2025-04-04 18:15:28 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/dye_bag_white": {
+    "criteria": {
+      "has_alchemical_bag": "2025-04-06 18:58:08 +0000"
     },
     "done": true
   },
@@ -4236,6 +4296,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/conversions/dye_bag_cyan": {
+    "criteria": {
+      "has_alchemical_bag": "2025-04-06 18:58:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-04-04 17:54:16 +0000"
@@ -5099,6 +5165,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/conversions/dye_bag_gray": {
+    "criteria": {
+      "has_alchemical_bag": "2025-04-06 18:58:08 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/rs_engineering": {
     "criteria": {
       "has_copper_ingot": "2025-04-04 17:45:40 +0000"
@@ -5126,6 +5198,12 @@
   "justhammers:recipes/justhammers.justhammers_tab/stone_hammer": {
     "criteria": {
       "has_material": "2025-04-06 16:03:16 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/dye_bag_magenta": {
+    "criteria": {
+      "has_alchemical_bag": "2025-04-06 18:58:08 +0000"
     },
     "done": true
   },
@@ -6021,6 +6099,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/conversions/dye_bag_pink": {
+    "criteria": {
+      "has_alchemical_bag": "2025-04-06 18:58:08 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_fancy_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-04-06 16:30:51 +0000"
@@ -6875,6 +6959,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/conversions/dye_bag_black": {
+    "criteria": {
+      "has_alchemical_bag": "2025-04-06 18:58:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-04 17:45:42 +0000"
@@ -6987,6 +7077,12 @@
   "ae2:recipes/ae2.main/tools/misctools_charged_staff": {
     "criteria": {
       "has_charged_certus_quartz_crystal": "2025-04-04 22:08:04 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/dye_bag_brown": {
+    "criteria": {
+      "has_alchemical_bag": "2025-04-06 18:58:08 +0000"
     },
     "done": true
   },
@@ -7335,6 +7431,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-04-04 21:09:52 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/dye_bag_blue": {
+    "criteria": {
+      "has_alchemical_bag": "2025-04-06 18:58:08 +0000"
     },
     "done": true
   },

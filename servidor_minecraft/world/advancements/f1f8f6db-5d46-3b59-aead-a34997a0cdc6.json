@@ -5009,6 +5009,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-06 19:02:32 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/chiselsandbits/chisel_gold": {
     "criteria": {
       "has_rod": "2025-03-31 23:16:54 +0000"
@@ -6724,6 +6730,12 @@
       "has_planks": "2025-04-01 02:27:33 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-04-06 19:02:32 +0000"
+    },
+    "done": false
   },
   "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
     "criteria": {
