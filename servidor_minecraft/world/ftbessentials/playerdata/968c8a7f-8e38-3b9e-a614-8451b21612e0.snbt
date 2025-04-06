@@ -1,0 +1,14 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	name: "B3rks"
+	last_seen: { dim: "minecraft:overworld", x: 3, y: 5, z: 27, time: 1743967423492L, xRot: -10.0f, yRot: -180.0f }
+	recording: 0
+	teleport_history: [
+		{ dim: "minecraft:overworld", x: 3, y: 5, z: 27, time: 1743967431587L, xRot: -10.0f, yRot: -180.0f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 6, y: -1, z: -5, time: 1743967499907L, xRot: 31.13913f, yRot: 6.9560547f }
+	]
+	homes: { }
+}

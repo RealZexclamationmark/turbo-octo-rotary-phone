@@ -14,6 +14,11 @@
 			max_claimed_chunks: 500
 			offline_force_loader: 0b
 		}
+		968c8a7f-8e38-3b9e-a614-8451b21612e0: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
 		f1f8f6db-5d46-3b59-aead-a34997a0cdc6: {
 			max_force_loaded_chunks: 25
 			max_claimed_chunks: 500

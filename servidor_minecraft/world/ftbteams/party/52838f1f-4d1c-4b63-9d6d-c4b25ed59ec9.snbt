@@ -4,6 +4,7 @@
 	owner: "c6882b73-0c38-385e-98d7-5f1485ac8bbe"
 	ranks: {
 		4f190f29-003b-3343-a33c-0b5ec23cd4c3: "member"
+		968c8a7f-8e38-3b9e-a614-8451b21612e0: "member"
 		c6882b73-0c38-385e-98d7-5f1485ac8bbe: "owner"
 		f1f8f6db-5d46-3b59-aead-a34997a0cdc6: "member"
 	}
@@ -30,6 +31,8 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1743462018983L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"CagdasWFX\"}]}" }
 		{ from: "c6882b73-0c38-385e-98d7-5f1485ac8bbe", date: 1743463184922L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"MustafaT80\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1743463211262L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"MustafaT80\"}]}" }
+		{ from: "c6882b73-0c38-385e-98d7-5f1485ac8bbe", date: 1743967473915L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"B3rks\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1743967476172L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"B3rks\"}]}" }
 	]
 	extra: { }
 }

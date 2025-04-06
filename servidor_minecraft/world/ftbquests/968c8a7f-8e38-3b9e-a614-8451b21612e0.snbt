@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "968c8a7f8e383b9ea6148451b21612e0"
+	name: "B3rks"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

@@ -4627,3 +4627,41 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Apr2025 19:17:20.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> CABLE YAP
 [06Apr2025 19:17:22.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> yoksg
 [06Apr2025 19:18:48.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> JOURNEYMAP
+[06Apr2025 19:19:45.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Spectator Mode]
+[06Apr2025 19:20:16.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Survival Mode]
+[06Apr2025 19:21:46.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Spectator Mode]
+[06Apr2025 19:21:51.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Survival Mode]
+[06Apr2025 19:23:17.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Spectator Mode]
+[06Apr2025 19:23:21.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Survival Mode]
+[06Apr2025 19:23:24.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 has reached the goal [Sky's the Limit]
+[06Apr2025 19:23:30.810] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@18f9ae47[id=<null>,name=B3rks,properties={},legacy=false] (/127.213.80.178:43639) lost connection: Disconnected
+[06Apr2025 19:23:43.359] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@33a7b8dd
+[06Apr2025 19:23:43.373] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: B3rks[/127.213.80.178:44559] logged in with entity id 41429 at (3.5, 29.0, 27.5)
+[06Apr2025 19:23:43.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: B3rks joined the game
+[06Apr2025 19:23:43.494] [Server thread/INFO] [Waila/]: Syncing config to B3rks (968c8a7f-8e38-3b9e-a614-8451b21612e0)
+[06Apr2025 19:23:43.809] [Thread-165/INFO] [chancecubes/]: No custom rewards detected for the current user!
+[06Apr2025 19:23:51.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported B3rks to CagdasWFX]
+[06Apr2025 19:24:44.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported RealZSs to CagdasWFX]
+[06Apr2025 19:24:59.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: B3rks was processed by Crushing Wheels
+[06Apr2025 19:25:16.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[06Apr2025 19:25:16.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <--[HERE]
+[06Apr2025 19:25:16.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: B3rks has made the advancement [Imitation Air]
+[06Apr2025 19:25:16.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: B3rks has made the advancement [Fortune's Legacy]
+[06Apr2025 19:25:16.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: B3rks has made the advancement [Let It Grow]
+[06Apr2025 19:25:29.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: B3rks has made the advancement [Now You're Growing With Hoppers]
+[06Apr2025 19:25:59.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Fortune's Legacy]
+[06Apr2025 19:26:47.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to CagdasWFX]
+[06Apr2025 19:26:53.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: B3rks has made the advancement [A Realistical Logical Ideologist]
+[06Apr2025 19:27:01.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Made B3rks a server operator]
+[06Apr2025 19:27:01.628] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6925d4d3 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 19:27:01.628] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@53629103 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 19:27:01.628] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@6329fb2c (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[06Apr2025 19:27:01.628] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@48c31944 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 19:27:01.629] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@77c8d8e2 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 19:27:01.629] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2425633e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 19:27:19.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: B3rks has made the advancement [Diamonds!]
+[06Apr2025 19:27:23.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: B3rks has reached the goal [Sky's the Limit]
+[06Apr2025 19:27:35.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> paxel
+[06Apr2025 19:28:19.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Creative Mode]
+[06Apr2025 19:28:22.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[06Apr2025 19:28:47.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Creative Mode]
