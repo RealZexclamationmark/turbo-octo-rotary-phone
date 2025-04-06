@@ -9,6 +9,11 @@
 	teleport_history: [
 		{ dim: "minecraft:overworld", x: 3, y: 5, z: 27, time: 1743967431587L, xRot: -10.0f, yRot: -180.0f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 6, y: -1, z: -5, time: 1743967499907L, xRot: 31.13913f, yRot: 6.9560547f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -151, y: -1, z: 1, time: 1743967766411L, xRot: 3.9831038f, yRot: 93.903206f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -2048, y: -126, z: 65, time: 1743967994245L, xRot: 1.5484879f, yRot: -137.58456f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -2087, y: -118, z: 65, time: 1743968012957L, xRot: 2.219099f, yRot: 5.0704746f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -8, y: 2, z: -3, time: 1743968016709L, xRot: 1.2312062f, yRot: -4.417859f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -2089, y: -118, z: 64, time: 1743968038396L, xRot: 12.867695f, yRot: -34.02539f }
 	]
 	homes: { }
 }

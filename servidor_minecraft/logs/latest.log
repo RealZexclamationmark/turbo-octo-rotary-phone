@@ -4665,3 +4665,102 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Apr2025 19:28:19.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Creative Mode]
 [06Apr2025 19:28:22.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
 [06Apr2025 19:28:47.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Creative Mode]
+[06Apr2025 19:29:26.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [B3rks: Teleported B3rks to MustafaT80]
+[06Apr2025 19:29:33.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[06Apr2025 19:29:38.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Applied effect Night Vision to 4 targets]
+[06Apr2025 19:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[06Apr2025 19:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Found world folder at /workspaces/turbo-octo-rotary-phone/servidor_minecraft/./world/.
+[06Apr2025 19:30:00.031] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Last backup size: 32.7MB Current world size: 83.7MB Current Available space: 17.7GB ExpectedSize 38.4MB
+[06Apr2025 19:30:00.031] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to true
+[06Apr2025 19:30:00.031] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to true
+[06Apr2025 19:30:00.031] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ftbsbc:team/meltons-abridger-smeared save state to true
+[06Apr2025 19:30:00.031] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world bloodmagic:dungeon save state to true
+[06Apr2025 19:30:00.031] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to true
+[06Apr2025 19:30:00.031] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to true
+[06Apr2025 19:30:00.031] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world compactmachines:compact_world save state to true
+[06Apr2025 19:30:00.031] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/backups.json
+[06Apr2025 19:30:00.032] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Waiting for world save to complete.
+[06Apr2025 19:30:00.315] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Detected MC Version 1.18.2, Data version 2975
+[06Apr2025 19:30:00.315] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Save Name: world
+[06Apr2025 19:30:00.327] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ae2:spatial_storage
+[06Apr2025 19:30:00.327] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder bloodmagic:dungeon
+[06Apr2025 19:30:00.327] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder compactmachines:compact_world
+[06Apr2025 19:30:00.327] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ftbsbc:team
+[06Apr2025 19:30:00.327] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/turbo-octo-rotary-phone/servidor_minecraft/./world/./DIM-1
+[06Apr2025 19:30:00.327] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/turbo-octo-rotary-phone/servidor_minecraft/./world/./DIM1
+[06Apr2025 19:30:01.054] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup preview created, Scan took 104ms, Capture took 714ms
+[06Apr2025 19:30:03.377] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to false
+[06Apr2025 19:30:03.377] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to false
+[06Apr2025 19:30:03.378] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ftbsbc:team/meltons-abridger-smeared save state to false
+[06Apr2025 19:30:03.378] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world bloodmagic:dungeon save state to false
+[06Apr2025 19:30:03.378] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to false
+[06Apr2025 19:30:03.378] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to false
+[06Apr2025 19:30:03.378] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world compactmachines:compact_world save state to false
+[06Apr2025 19:30:03.415] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup size 34.7MB World Size 83.8MB
+[06Apr2025 19:30:03.415] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/backups.json
+[06Apr2025 19:30:03.416] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: New backup created at /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-6_19-30-0.zip size: 34.7MB Took: 0m, 3s, 346ms Sha1: 8209bab318941f1cd4c12c6cc4cda0821dd0a6d1
+[06Apr2025 19:30:06.464] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: More backups than 10 found, Removing oldest backup
+[06Apr2025 19:30:06.465] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Removed old backup 2025-4-4_21-0-0.zip
+[06Apr2025 19:30:06.465] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: File missing, removing from backups /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-4_21-0-0.zip
+[06Apr2025 19:30:06.465] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/backups.json
+[06Apr2025 19:30:09.406] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:ore_pillars
+[06Apr2025 19:30:42.141] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:woodland_mansion
+[06Apr2025 19:31:54.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: B3rks has made the advancement [Instrumental Mobs]
+[06Apr2025 19:31:55.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to B3rks]
+[06Apr2025 19:32:18.495] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:beacon_arena
+[06Apr2025 19:33:14.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [B3rks: Teleported B3rks to MustafaT80]
+[06Apr2025 19:33:30.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: B3rks has made the advancement [Monster Hunter]
+[06Apr2025 19:33:32.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: B3rks was slain by Enderman
+[06Apr2025 19:33:34.278] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6925d4d3 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 19:33:34.278] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@53629103 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 19:33:34.278] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@6329fb2c (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[06Apr2025 19:33:34.278] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@48c31944 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 19:33:34.278] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@77c8d8e2 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 19:33:34.278] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2425633e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 19:33:36.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [B3rks: Teleported B3rks to MustafaT80]
+[06Apr2025 19:33:42.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Creative Mode]
+[06Apr2025 19:33:58.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [B3rks: Teleported B3rks to RealZSs]
+[06Apr2025 19:34:27.796] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:icosahedron
+[06Apr2025 19:34:28.842] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:chance_cube_cube
+[06Apr2025 19:34:29.910] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:spawn_jerry
+[06Apr2025 19:34:30.960] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:silverfish_surround
+[06Apr2025 19:34:35.571] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Jerry'/43357, l='ServerLevel[world]', x=-2100.48, y=-126.00, z=62.32] died: Jerry was slain by MustafaT80
+[06Apr2025 19:34:54.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[06Apr2025 19:34:55.955] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:enchanting
+[06Apr2025 19:34:57.135] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:want_to_build_a_snowman
+[06Apr2025 19:34:59.137] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:finding_nemo
+[06Apr2025 19:35:00.490] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:double_rainbow
+[06Apr2025 19:35:02.064] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:boss_evil_witch
+[06Apr2025 19:35:36.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to CagdasWFX]
+[06Apr2025 19:35:50.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [B3rks: Set own game mode to Spectator Mode]
+[06Apr2025 19:35:55.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was struck by lightning whilst fighting Evil Witch
+[06Apr2025 19:35:55.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [B3rks: Set own game mode to Creative Mode]
+[06Apr2025 19:35:56.657] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6925d4d3 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 19:35:56.658] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@53629103 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 19:35:56.658] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@6329fb2c (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[06Apr2025 19:35:56.658] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@48c31944 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 19:35:56.659] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@77c8d8e2 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 19:35:56.659] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2425633e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 19:35:57.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MustafaT80 moved too quickly! -0.5,-24.0,-0.5
+[06Apr2025 19:35:58.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [B3rks: Set own game mode to Survival Mode]
+[06Apr2025 19:36:01.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: B3rks has made the advancement [Stone Age]
+[06Apr2025 19:36:16.670] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6925d4d3 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 19:36:16.670] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@53629103 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 19:36:16.671] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@6329fb2c (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[06Apr2025 19:36:16.671] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@48c31944 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 19:36:16.671] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@77c8d8e2 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 19:36:16.671] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2425633e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 19:36:17.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [B3rks: Set own game mode to Spectator Mode]
+[06Apr2025 19:36:20.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [B3rks: Set own game mode to Survival Mode]
+[06Apr2025 19:36:22.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to CagdasWFX]
+[06Apr2025 19:36:34.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: B3rks has made the advancement [Cover Me with Diamonds]
+[06Apr2025 19:37:25.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> philosopher's stone
+[06Apr2025 19:37:29.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> philosopher's stonew
+[06Apr2025 19:37:30.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> philosopher's stone
+[06Apr2025 19:37:31.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> philosopher's stone
+[06Apr2025 19:37:31.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> philosopher's stone
+[06Apr2025 19:38:20.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> philosopher's stone
+[06Apr2025 19:38:20.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> philosopher's stone
+[06Apr2025 19:38:56.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: B3rks has made the advancement [Take Aim]
+[06Apr2025 19:38:56.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: B3rks has made the advancement [Fwoomp!]
+[06Apr2025 19:39:01.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> crafter tier 3

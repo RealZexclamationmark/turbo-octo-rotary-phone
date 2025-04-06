@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_slab": {
+    "criteria": {
+      "has_item": "2025-04-06 19:27:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-04-01 04:46:17 +0000"
@@ -281,6 +287,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_item": "2025-04-06 19:27:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-04-01 04:46:17 +0000"
@@ -356,6 +368,12 @@
   "botania:recipes/botania/virus_necrodermal": {
     "criteria": {
       "has_alt_item": "2025-04-01 03:52:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/chute_retextured": {
+    "criteria": {
+      "has_item": "2025-04-06 19:27:11 +0000"
     },
     "done": true
   },
@@ -1260,6 +1278,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_wall_stonecutter": {
+    "criteria": {
+      "has_item": "2025-04-06 19:27:11 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_routing": {
     "criteria": {
       "chest": "2025-04-01 03:32:47 +0000"
@@ -1455,6 +1479,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-04-01 03:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-04-06 19:27:15 +0000"
     },
     "done": true
   },
@@ -2965,6 +2995,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_stairs": {
+    "criteria": {
+      "has_item": "2025-04-06 19:27:11 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/redstone_module": {
     "criteria": {
       "ingot": "2025-03-31 23:34:28 +0000"
@@ -3452,6 +3488,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_hv_relay": {
     "criteria": {
       "has_aluminum_ingot": "2025-03-31 23:34:28 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_cracked_bricks_smelting": {
+    "criteria": {
+      "has_item": "2025-04-06 19:27:11 +0000"
     },
     "done": true
   },
@@ -4108,6 +4150,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-04-01 03:36:02 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_fancy_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-04-06 19:27:11 +0000"
     },
     "done": true
   },
@@ -5395,6 +5443,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/duct_retextured": {
+    "criteria": {
+      "has_item": "2025-04-06 19:27:11 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/world/common/slime/ichor/slimeblock": {
     "criteria": {
       "has_item": "2025-04-04 18:32:13 +0000"
@@ -5422,6 +5476,12 @@
   "rftoolsutility:recipes/rftoolsutility/fluid_module": {
     "criteria": {
       "ingot": "2025-03-31 23:34:28 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/modifier_worktable": {
+    "criteria": {
+      "has_item": "2025-04-06 19:27:11 +0000"
     },
     "done": true
   },
@@ -6546,6 +6606,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/drain_retextured": {
+    "criteria": {
+      "has_item": "2025-04-06 19:27:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2025-04-01 03:41:24 +0000"
@@ -6591,6 +6657,12 @@
   "justhammers:recipes/justhammers.justhammers_tab/diamond_hammer": {
     "criteria": {
       "has_material": "2025-03-31 23:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-04-06 19:27:15 +0000"
     },
     "done": true
   },
@@ -7192,6 +7264,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-04-04 18:41:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_item": "2025-04-06 19:27:11 +0000"
     },
     "done": true
   },
@@ -8336,6 +8414,12 @@
   "rftoolsbuilder:recipes/rftoolsbuilder/red_shield_template_block": {
     "criteria": {
       "glass": "2025-03-31 23:58:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_triangle_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-04-06 19:27:11 +0000"
     },
     "done": true
   },
@@ -9974,6 +10058,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_wall": {
+    "criteria": {
+      "has_item": "2025-04-06 19:27:11 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/conversions/dye_bag_black": {
     "criteria": {
       "has_alchemical_bag": "2025-04-01 04:17:49 +0000"
@@ -10271,6 +10361,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-03-31 23:16:21 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-04-06 19:27:11 +0000"
     },
     "done": true
   },
