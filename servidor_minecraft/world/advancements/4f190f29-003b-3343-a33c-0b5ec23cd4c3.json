@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/brewing/common/slime/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-06 16:48:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-04-04 17:45:40 +0000"
@@ -810,6 +816,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mana_fluxfield": {
+    "criteria": {
+      "has_item": "2025-04-06 16:51:49 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
     "criteria": {
       "has_copper_ingot": "2025-04-04 17:45:40 +0000"
@@ -1170,6 +1182,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-06 16:48:14 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_swamp": {
     "criteria": {
       "has_logs": "2025-03-31 23:27:52 +0000"
@@ -1204,6 +1222,12 @@
     "criteria": {
       "has_wpt": "2025-03-31 23:21:31 +0000",
       "has_wct": "2025-03-31 23:21:31 +0000"
+    },
+    "done": true
+  },
+  "advancedperipherals:recipes/advancedperipheralstab/peripheral_casing": {
+    "criteria": {
+      "has_item": "2025-04-06 16:51:49 +0000"
     },
     "done": true
   },
@@ -3341,6 +3365,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-04-06 16:53:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/copper_shingles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-04-04 17:45:40 +0000"
@@ -3976,6 +4006,12 @@
   "ftbsbc:recipes/ftbsbc/stone_rod": {
     "criteria": {
       "has_item": "2025-03-31 23:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-06 16:48:14 +0000"
     },
     "done": true
   },
@@ -4856,6 +4892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-06 16:48:14 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
     "criteria": {
       "has_wt": "2025-03-31 23:21:31 +0000"
@@ -4999,6 +5041,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-03-31 23:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-04-06 16:51:49 +0000"
     },
     "done": true
   },
@@ -5787,6 +5835,12 @@
   "justhammers:recipes/justhammers.justhammers_tab/stone_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-04-06 16:03:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/spark": {
+    "criteria": {
+      "has_item": "2025-04-06 16:48:14 +0000"
     },
     "done": true
   },
