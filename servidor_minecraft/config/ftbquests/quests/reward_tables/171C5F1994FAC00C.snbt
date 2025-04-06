@@ -55,7 +55,6 @@
 				id: "tconstruct:slime_boots"
 				Count: 1b
 				tag: {
-					tic_multipliers: { }
 					tic_stats: {
 						"tconstruct:durability": 546.0f
 						"tconstruct:armor": 0.0f
@@ -63,15 +62,15 @@
 					tic_broken: 0b
 					tic_modifiers: [
 						{
+							name: "tconstruct:overslime_friend"
+							level: 1s
+						}
+						{
 							name: "tconstruct:bouncy"
 							level: 1s
 						}
 						{
 							name: "tconstruct:leaping"
-							level: 1s
-						}
-						{
-							name: "tconstruct:overslime_friend"
 							level: 1s
 						}
 					]
@@ -91,14 +90,19 @@
 				id: "tconstruct:travelers_boots"
 				Count: 1b
 				tag: {
-					tic_multipliers: { }
 					tic_stats: {
 						"tconstruct:durability": 130.0f
 						"tconstruct:armor": 1.0f
 					}
 					tic_broken: 0b
-					tic_modifiers: [ ]
+					tic_modifiers: [{
+						name: "tconstruct:snow_boots"
+						level: 1s
+					}]
 					Damage: 0
+					tic_volatile_data: {
+						"tconstruct:snow_boots": 1b
+					}
 					tic_persistent_data: {
 						abilities: 1
 						defense: 2

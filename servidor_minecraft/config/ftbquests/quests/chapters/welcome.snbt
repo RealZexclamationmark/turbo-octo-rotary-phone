@@ -52,7 +52,6 @@
 				icon: "ftbquests:book"
 				auto: "enabled"
 				command: ""
-				player_command: false
 			}]
 		}
 		{

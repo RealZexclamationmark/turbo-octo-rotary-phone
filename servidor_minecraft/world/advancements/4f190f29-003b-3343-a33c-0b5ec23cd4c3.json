@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-04-06 16:03:16 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/concrete": {
     "criteria": {
       "has_clay": "2025-04-04 17:45:42 +0000"
@@ -170,6 +176,12 @@
   "xnet:recipes/xnet/connector_green_dye": {
     "criteria": {
       "chest": "2025-04-04 17:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-06 16:03:16 +0000"
     },
     "done": true
   },
@@ -437,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-06 15:59:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-04-04 20:37:59 +0000"
@@ -467,6 +485,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/justhammers.justhammers_tab/stone_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-06 16:03:16 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/toolbox": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 18:15:28 +0000"
@@ -494,6 +518,12 @@
   "rftoolsutility:recipes/rftoolsutility/text_module": {
     "criteria": {
       "ingot": "2025-04-04 18:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-06 16:03:16 +0000"
     },
     "done": true
   },
@@ -537,6 +567,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-04-04 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/justhammers.justhammers_tab/stone_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-04-06 16:03:16 +0000"
     },
     "done": true
   },
@@ -717,6 +753,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-04-04 21:34:29 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/justhammers.justhammers_tab/stone_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-06 16:03:16 +0000"
     },
     "done": true
   },
@@ -1098,6 +1140,12 @@
     },
     "done": true
   },
+  "trashcans:recipes/decorations/ultimate_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-04-06 16:03:36 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/vanilla_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 18:15:28 +0000"
@@ -1461,6 +1509,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-04-06 16:03:16 +0000"
+    },
+    "done": true
+  },
   "ftbsbc:recipes/ftbsbc/gold_hammer": {
     "criteria": {
       "has_item": "2025-04-04 19:44:25 +0000"
@@ -1530,6 +1584,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-31 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-06 16:03:16 +0000"
     },
     "done": true
   },
@@ -1849,6 +1909,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 18:15:28 +0000"
+    },
+    "done": true
+  },
+  "trashcans:trash_can": {
+    "criteria": {
+      "has_item_trash_can": "2025-04-06 16:03:36 +0000"
     },
     "done": true
   },
@@ -2206,6 +2272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-06 16:03:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2025-04-04 20:12:27 +0000"
@@ -2227,6 +2299,12 @@
   "create:recipes/create.base/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2025-04-04 21:52:15 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-04-06 16:03:16 +0000"
     },
     "done": true
   },
@@ -2317,6 +2395,12 @@
   "ironchest:recipes/ironchest/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2025-04-04 19:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-04-06 16:03:16 +0000"
     },
     "done": true
   },
@@ -3161,6 +3245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-06 16:03:16 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_minecraft/spruce": {
     "criteria": {
       "has_plank": "2025-04-04 18:15:43 +0000"
@@ -3507,6 +3597,12 @@
   "mcwbridges:recipes/glass_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-04 19:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-06 16:03:16 +0000"
     },
     "done": true
   },
@@ -3985,6 +4081,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/justhammers.justhammers_tab/stone_hammer": {
+    "criteria": {
+      "has_material": "2025-04-06 16:03:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 18:15:28 +0000"
@@ -4030,6 +4132,12 @@
   "create:recipes/create.palettes/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-04-04 19:45:05 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/arrow_slits_gothic": {
+    "criteria": {
+      "has_wood": "2025-04-06 16:03:16 +0000"
     },
     "done": true
   },
@@ -4219,6 +4327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-04-06 16:03:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-03-31 23:27:39 +0000"
@@ -4309,6 +4423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-04-06 16:03:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:lush_caves": "2025-04-04 18:20:50 +0000",
@@ -4325,6 +4445,12 @@
   "ae2:recipes/redstone/misc/vanilla_comparator": {
     "criteria": {
       "has_quartz": "2025-04-04 20:37:23 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/iron_band": {
+    "criteria": {
+      "has_lava": "2025-04-06 15:59:23 +0000"
     },
     "done": true
   },
@@ -4379,6 +4505,12 @@
   "create:recipes/create.base/crafting/kinetics/display_board": {
     "criteria": {
       "has_item": "2025-04-04 21:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-04-06 16:03:16 +0000"
     },
     "done": true
   },
@@ -4735,6 +4867,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-04-04 17:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-04-06 16:03:16 +0000"
     },
     "done": true
   },
@@ -5490,6 +5628,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/justhammers.justhammers_tab/stone_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-04-06 16:03:16 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/misc/tiny_tnt": {
     "criteria": {
       "has_gunpowder": "2025-04-04 19:04:37 +0000"
@@ -5940,6 +6084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-06 16:03:16 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/jungle": {
     "criteria": {
       "has_the_recipe": "2025-03-31 23:23:51 +0000"
@@ -6039,6 +6189,12 @@
   "create:recipes/create.base/crafting/kinetics/white_sail": {
     "criteria": {
       "has_item": "2025-04-04 21:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-04-06 16:03:16 +0000"
     },
     "done": true
   },
