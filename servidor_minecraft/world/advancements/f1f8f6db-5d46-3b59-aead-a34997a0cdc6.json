@@ -1464,6 +1464,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mana_tablet": {
+    "criteria": {
+      "has_item": "2025-04-06 19:12:11 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/chiselsandbits/wrench": {
     "criteria": {
       "has_p": "2025-03-31 23:16:51 +0000"
@@ -1692,6 +1698,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mana_pylon": {
+    "criteria": {
+      "has_item": "2025-04-06 19:12:11 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2025-03-31 23:05:34 +0000"
@@ -1743,6 +1755,12 @@
   "mcwroofs:recipes/granite": {
     "criteria": {
       "has_planks": "2025-04-01 03:43:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/runic_altar": {
+    "criteria": {
+      "has_alt_item": "2025-04-06 19:12:11 +0000"
     },
     "done": true
   },
@@ -2091,6 +2109,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-04-06 18:46:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/goddess_charm": {
+    "criteria": {
+      "has_item": "2025-04-06 19:12:11 +0000"
     },
     "done": true
   },
@@ -3388,6 +3412,12 @@
   "botania:recipes/botania/blaze_block": {
     "criteria": {
       "has_item": "2025-04-04 18:36:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/auto_crafting_halo": {
+    "criteria": {
+      "has_item": "2025-04-06 19:12:11 +0000"
     },
     "done": true
   },
@@ -4787,6 +4817,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/conversions/manadiamond_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-04-06 19:12:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-04-01 04:12:26 +0000"
@@ -5033,6 +5069,12 @@
     },
     "done": true
   },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "apothecary": "2025-04-06 19:12:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2025-04-04 19:54:32 +0000"
@@ -5222,6 +5264,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-03-31 23:17:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/divining_rod": {
+    "criteria": {
+      "has_item": "2025-04-06 19:12:11 +0000"
     },
     "done": true
   },
@@ -7001,6 +7049,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mana_gun": {
+    "criteria": {
+      "has_item": "2025-04-06 19:12:11 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/manasteel_boots": {
     "criteria": {
       "has_item": "2025-04-01 03:18:35 +0000"
@@ -7127,6 +7181,12 @@
   "ironchest:recipes/ironchest/upgrades/diamond_to_obsidian_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-04-04 19:53:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/third_eye": {
+    "criteria": {
+      "has_item": "2025-04-06 19:12:11 +0000"
     },
     "done": true
   },
@@ -7974,6 +8034,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-03-31 23:15:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_diamond_block": {
+    "criteria": {
+      "has_item": "2025-04-06 19:12:11 +0000"
     },
     "done": true
   },
@@ -9781,6 +9847,12 @@
   "farmersdelight:recipes/farmersdelight/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-04-06 18:38:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/avatar": {
+    "criteria": {
+      "has_item": "2025-04-06 19:12:11 +0000"
     },
     "done": true
   },

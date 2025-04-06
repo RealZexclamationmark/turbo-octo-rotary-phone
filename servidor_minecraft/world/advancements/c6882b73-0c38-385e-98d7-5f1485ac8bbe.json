@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-04-06 19:15:02 +0000"
+    },
+    "done": true
+  },
   "buddingcrystals:recipes/buddingcrystals/budding_diamond": {
     "criteria": {
       "has_diamond": "2025-03-31 23:49:12 +0000"
