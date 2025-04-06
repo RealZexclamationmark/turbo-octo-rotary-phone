@@ -1422,6 +1422,12 @@
     },
     "done": true
   },
+  "laserio:recipes/laserio/card_energy_nbtclear": {
+    "criteria": {
+      "has_card_energy": "2025-04-06 17:45:01 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/dm_boots": {
     "criteria": {
       "has_matter": "2025-04-01 04:40:33 +0000"
@@ -6747,6 +6753,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "shepherds_pie": "2025-04-06 17:38:57 +0000",
       "mixed_salad": "2025-04-01 03:56:34 +0000",
       "mushroom_rice": "2025-04-04 20:09:15 +0000",
       "beef_stew": "2025-04-01 03:38:36 +0000"
