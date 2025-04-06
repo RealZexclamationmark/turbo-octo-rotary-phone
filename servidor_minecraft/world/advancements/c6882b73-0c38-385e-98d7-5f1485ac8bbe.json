@@ -2172,6 +2172,12 @@
     },
     "done": true
   },
+  "laserio:recipes/laserio/card_redstone_nbtclear": {
+    "criteria": {
+      "has_card_redstone": "2025-04-06 17:14:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-03-31 23:25:54 +0000"
@@ -2809,6 +2815,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_white": {
+    "criteria": {
+      "has_dyes/black": "2025-04-06 17:09:40 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bullets": {
     "criteria": {
       "has_paper": "2025-04-01 04:36:44 +0000"
@@ -2866,6 +2878,12 @@
   "create:recipes/create.palettes/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-01 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-04-06 17:09:40 +0000"
     },
     "done": true
   },
@@ -3629,6 +3647,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/scratched_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-06 17:09:40 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/blocks/quantum_ring": {
     "criteria": {
       "has_engineering_processor": "2025-04-04 20:43:34 +0000"
@@ -4069,6 +4093,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/clear_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-06 17:09:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-01 03:46:53 +0000"
@@ -4141,6 +4171,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_white": {
+    "criteria": {
+      "has_dyes/black": "2025-04-06 17:09:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2025-04-01 03:53:42 +0000"
@@ -4198,6 +4234,12 @@
   "botania:recipes/botania/bauble_box": {
     "criteria": {
       "has_item": "2025-04-01 03:53:46 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/smart_white": {
+    "criteria": {
+      "has_dyes/black": "2025-04-06 17:09:40 +0000"
     },
     "done": true
   },
@@ -4361,7 +4403,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "glow_berries": "2025-03-31 23:10:43 +0000",
-      "potato": "2025-04-01 03:24:42 +0000"
+      "potato": "2025-04-01 03:24:42 +0000",
+      "wheat": "2025-04-06 17:06:51 +0000"
     },
     "done": false
   },
@@ -4416,6 +4459,12 @@
   "justhammers:recipes/justhammers.justhammers_tab/netherite_hammer": {
     "criteria": {
       "has_material": "2025-04-04 19:55:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/tinted_borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-06 17:09:40 +0000"
     },
     "done": true
   },
@@ -4593,6 +4642,12 @@
   "create:recipes/create.palettes/rose_quartz_block_from_rose_quartz_stonecutting": {
     "criteria": {
       "has_rose_quartz": "2025-04-04 18:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-04-06 17:09:40 +0000"
     },
     "done": true
   },
@@ -4827,6 +4882,12 @@
   "justhammers:recipes/justhammers.justhammers_tab/iron_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-03-31 23:41:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-06 17:11:03 +0000"
     },
     "done": true
   },
@@ -5118,6 +5179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-04-06 17:09:40 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/justhammers.justhammers_tab/iron_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-03-31 23:41:58 +0000"
@@ -5355,6 +5422,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-06 17:09:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/brass_scaffolding_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-04-04 19:55:33 +0000"
@@ -5388,6 +5461,12 @@
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-04 19:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-04-06 17:09:40 +0000"
     },
     "done": true
   },
@@ -5673,6 +5752,12 @@
     },
     "done": true
   },
+  "laserio:recipes/laserio/card_fluid_nbtclear": {
+    "criteria": {
+      "has_card_fluid": "2025-04-06 17:14:52 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/crafter2": {
     "criteria": {
       "crafter1": "2025-03-31 23:57:03 +0000"
@@ -5906,6 +5991,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-04-04 18:52:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-04-06 17:09:40 +0000"
     },
     "done": true
   },
@@ -6191,6 +6282,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/scratched_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-06 17:09:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-03-31 23:16:41 +0000"
@@ -6335,6 +6432,12 @@
       "has_planks": "2025-03-31 23:25:54 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-04-06 17:11:03 +0000"
+    },
+    "done": false
   },
   "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
     "criteria": {
@@ -7407,6 +7510,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/clear_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-06 17:09:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-31 23:58:10 +0000"
@@ -7711,6 +7820,12 @@
   "create:recipes/create.palettes/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-01 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-04-06 17:09:40 +0000"
     },
     "done": true
   },
@@ -8056,6 +8171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-04-06 17:09:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:lush_caves": "2025-04-04 17:30:03 +0000",
@@ -8114,6 +8235,12 @@
   "supplementaries:recipes/sign_post_minecraft/warped": {
     "criteria": {
       "has_plank": "2025-04-04 18:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-06 17:06:51 +0000"
     },
     "done": true
   },
@@ -8393,6 +8520,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-04-06 17:09:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
@@ -8438,6 +8571,12 @@
   "projecte:recipes/projecte/conversions/dye_bag_pink": {
     "criteria": {
       "has_alchemical_bag": "2025-04-01 04:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-06 17:08:31 +0000"
     },
     "done": true
   },
@@ -8706,6 +8845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-04-06 17:09:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-04-01 02:28:37 +0000"
@@ -8907,6 +9052,12 @@
   "create:recipes/create.palettes/tuff_pillar_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-01 04:43:50 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-06 17:09:40 +0000"
     },
     "done": true
   },

@@ -7,16 +7,16 @@
 	last_seen: { dim: "ftbsbc:team/meltons-abridger-smeared", x: 4, y: -1, z: -10, time: 1743954512107L, xRot: 19.851788f, yRot: 61.674835f }
 	recording: 0
 	teleport_history: [
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 5, y: -1, z: -2, time: 1743805093812L, xRot: 10.805492f, yRot: 115.856995f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 6, y: -1, z: -2, time: 1743805094291L, xRot: 5.41669f, yRot: 104.69259f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -1, y: -1, z: -6, time: 1743805096053L, xRot: 13.458412f, yRot: 123.097694f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 5, y: -1, z: -1, time: 1743805096668L, xRot: 7.102431f, yRot: 110.57888f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -5, y: -1, z: -4, time: 1743805099470L, xRot: 6.2733426f, yRot: -125.753815f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 6, y: -1, z: -5, time: 1743954738505L, xRot: -0.8461749f, yRot: -163.68655f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -134, y: -1, z: 1, time: 1743958371934L, xRot: 11.793127f, yRot: 89.68457f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -280, y: -1, z: 8, time: 1743958431267L, xRot: 31.781784f, yRot: 20.92163f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 6, y: -1, z: -5, time: 1743958745253L, xRot: 16.037952f, yRot: 3.9577098f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -1215, y: -58, z: 16, time: 1743959126708L, xRot: 19.061834f, yRot: -173.14828f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -1215, y: -60, z: 78, time: 1743959368513L, xRot: 25.112547f, yRot: -125.43416f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -1200, y: -60, z: 82, time: 1743959465759L, xRot: 10.08644f, yRot: 74.43439f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -1194, y: -60, z: 118, time: 1743959653512L, xRot: 18.95819f, yRot: 140.96251f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -1195, y: -61, z: 118, time: 1743959664463L, xRot: 74.72508f, yRot: 94.15297f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -20, y: -1, z: 1, time: 1743959668911L, xRot: 7.876001f, yRot: 27.828596f }
 	]
 	homes: { }
 }

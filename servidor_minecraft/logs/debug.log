@@ -21022,3 +21022,95 @@ java.lang.Throwable: null
 [06Apr2025 17:06:51.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [A Seedy Place]
 [06Apr2025 17:07:12.453] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
 [06Apr2025 17:07:17.664] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:help_me
+[06Apr2025 17:07:21.885] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2863, l='ServerLevel[world]', x=-1207.50, y=-71.00, z=59.50] died, message: 'Unemployed blew up'
+[06Apr2025 17:07:35.565] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:07:48.562] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:anti_slab
+[06Apr2025 17:08:04.633] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:08:29.387] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:08:53.243] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:09:23.186] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:09:28.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 walked into fire whilst fighting Piglin Brute
+[06Apr2025 17:09:29.869] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[06Apr2025 17:09:29.878] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6925d4d3 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 17:09:29.878] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@53629103 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 17:09:29.878] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@6329fb2c (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[06Apr2025 17:09:29.878] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@48c31944 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 17:09:29.879] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@77c8d8e2 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 17:09:29.879] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2425633e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 17:09:49.501] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:10:16.511] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:10:31.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 17:10:31.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 17:10:41.812] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:11:03.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [The Parrots and the Bats]
+[06Apr2025 17:11:05.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was slain by Piglin Brute
+[06Apr2025 17:11:07.542] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[06Apr2025 17:11:07.551] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6925d4d3 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 17:11:07.551] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@53629103 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 17:11:07.551] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@6329fb2c (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[06Apr2025 17:11:07.552] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@48c31944 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 17:11:07.552] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@77c8d8e2 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 17:11:07.552] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2425633e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 17:11:08.756] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:11:35.244] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:11:38.796] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:bookshelves
+[06Apr2025 17:12:03.760] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:12:28.981] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:12:33.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Creative Mode]
+[06Apr2025 17:12:41.940] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 2
+[06Apr2025 17:12:41.944] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.creeperhost.chickens.containers.ContainerBreeder@7491d107, b=33, e=41}, []=InventoryMapping{i=[], c=net.creeperhost.chickens.containers.ContainerBreeder@7491d107, b=6, e=32}}
+[06Apr2025 17:12:41.944] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot null
+[06Apr2025 17:12:43.678] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 10
+[06Apr2025 17:12:43.678] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.creeperhost.chickens.containers.ContainerBreeder@7491d107, b=33, e=41}, []=InventoryMapping{i=[], c=net.creeperhost.chickens.containers.ContainerBreeder@7491d107, b=6, e=32}}
+[06Apr2025 17:12:43.678] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.creeperhost.chickens.containers.ContainerBreeder@7491d107, b=6, e=32}
+[06Apr2025 17:12:44.341] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 12
+[06Apr2025 17:12:44.341] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.creeperhost.chickens.containers.ContainerBreeder@7491d107, b=33, e=41}, []=InventoryMapping{i=[], c=net.creeperhost.chickens.containers.ContainerBreeder@7491d107, b=6, e=32}}
+[06Apr2025 17:12:44.341] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.creeperhost.chickens.containers.ContainerBreeder@7491d107, b=6, e=32}
+[06Apr2025 17:12:52.847] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:13:16.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Applied effect Night Vision to 3 targets]
+[06Apr2025 17:13:18.897] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:13:30.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[06Apr2025 17:13:48.616] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:14:12.261] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[06Apr2025 17:14:13.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was burnt to a crisp whilst fighting CagdasWFX
+[06Apr2025 17:14:13.540] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:14:14.830] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[06Apr2025 17:14:14.839] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6925d4d3 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 17:14:14.839] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@53629103 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 17:14:14.839] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@6329fb2c (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[06Apr2025 17:14:14.839] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@48c31944 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 17:14:14.839] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@77c8d8e2 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 17:14:14.839] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2425633e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 17:14:24.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 tried to swim in lava
+[06Apr2025 17:14:24.913] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[06Apr2025 17:14:25.864] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[06Apr2025 17:14:25.873] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6925d4d3 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 17:14:25.874] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@53629103 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 17:14:25.874] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@6329fb2c (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[06Apr2025 17:14:25.874] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@48c31944 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 17:14:25.874] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@77c8d8e2 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 17:14:25.874] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2425633e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 17:14:28.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to CagdasWFX]
+[06Apr2025 17:14:36.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Creative Mode]
+[06Apr2025 17:14:39.330] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:14:43.911] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[06Apr2025 17:14:57.309] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[06Apr2025 17:15:07.529] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:15:11.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[06Apr2025 17:15:31.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 17:15:31.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 17:15:32.643] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [136 absolute-0 below top]
+[06Apr2025 17:15:36.779] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:16:00.478] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
+[06Apr2025 17:16:01.865] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:16:06.769] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[06Apr2025 17:16:14.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Creative Mode]
+[06Apr2025 17:16:15.262] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[06Apr2025 17:16:30.613] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:16:54.666] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:17:03.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[06Apr2025 17:17:06.463] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
+[06Apr2025 17:17:18.714] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[06Apr2025 17:17:20.253] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:17:22.661] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
+[06Apr2025 17:17:26.369] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
