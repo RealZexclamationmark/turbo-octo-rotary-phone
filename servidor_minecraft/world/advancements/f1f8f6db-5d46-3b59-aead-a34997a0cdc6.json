@@ -1328,6 +1328,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/common/slime/sky/crystal_growing": {
+    "criteria": {
+      "has_dirt": "2025-04-06 17:33:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-04-01 02:30:33 +0000"
@@ -1873,6 +1879,12 @@
   "projecte:recipes/projecte/dm_helmet": {
     "criteria": {
       "has_matter": "2025-04-01 04:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-04-06 17:32:12 +0000"
     },
     "done": true
   },
@@ -5348,6 +5360,7 @@
       "minecraft:creeper": "2025-04-01 02:37:39 +0000",
       "minecraft:evoker": "2025-04-01 03:46:35 +0000",
       "minecraft:phantom": "2025-04-01 03:42:23 +0000",
+      "minecraft:zombified_piglin": "2025-04-06 17:26:48 +0000",
       "minecraft:witch": "2025-04-01 03:48:49 +0000",
       "minecraft:wither_skeleton": "2025-04-04 18:32:46 +0000",
       "minecraft:husk": "2025-04-01 04:32:19 +0000",
@@ -8864,6 +8877,12 @@
   "botania:recipes/botania/knockback_belt": {
     "criteria": {
       "has_item": "2025-04-01 03:18:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-06 17:32:12 +0000"
     },
     "done": true
   },
