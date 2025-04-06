@@ -20904,3 +20904,121 @@ java.lang.Throwable: null
 [06Apr2025 16:56:12.038] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
 [06Apr2025 16:56:37.316] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
 [06Apr2025 16:57:05.739] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 16:57:35.282] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 16:57:40.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs was impaled by CagdasWFX
+[06Apr2025 16:57:41.922] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[06Apr2025 16:57:41.931] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6925d4d3 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 16:57:41.931] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@53629103 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 16:57:41.931] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@6329fb2c (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[06Apr2025 16:57:41.932] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@48c31944 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 16:57:41.932] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@77c8d8e2 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 16:57:41.932] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2425633e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 16:57:43.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Imitation Air]
+[06Apr2025 16:58:03.720] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 16:58:29.202] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 16:58:32.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Creative Mode]
+[06Apr2025 16:58:42.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Applied enchantment Protection III to RealZSs's item]
+[06Apr2025 16:58:55.961] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 16:59:01.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MustafaT80 moved wrongly!
+[06Apr2025 16:59:05.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was processed by Crushing Wheels
+[06Apr2025 16:59:06.921] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[06Apr2025 16:59:06.930] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6925d4d3 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 16:59:06.930] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@53629103 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 16:59:06.930] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@6329fb2c (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[06Apr2025 16:59:06.931] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@48c31944 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 16:59:06.931] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@77c8d8e2 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 16:59:06.931] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2425633e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 16:59:11.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Applied enchantment Protection III to RealZSs's item]
+[06Apr2025 16:59:20.980] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 16:59:46.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Applied enchantment Unbreaking III to CagdasWFX's item]
+[06Apr2025 16:59:48.608] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 1 triggers
+[06Apr2025 17:00:00.001] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.simpl.SimpleJobFactory/]: Producing instance of Job 'DEFAULT.ftbbackups2', class=net.creeperhost.ftbbackups.FTBBackups$BackupJob
+[06Apr2025 17:00:00.001] [ftbbackups2_Worker-1/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.JobRunShell/]: Calling execute on job DEFAULT.ftbbackups2
+[06Apr2025 17:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[06Apr2025 17:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Found world folder at /workspaces/turbo-octo-rotary-phone/servidor_minecraft/./world/.
+[06Apr2025 17:00:00.026] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Last backup size: 26.1MB Current world size: 59.8MB Current Available space: 18.2GB ExpectedSize 27.4MB
+[06Apr2025 17:00:00.027] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to true
+[06Apr2025 17:00:00.027] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to true
+[06Apr2025 17:00:00.027] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ftbsbc:team/meltons-abridger-smeared save state to true
+[06Apr2025 17:00:00.027] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world bloodmagic:dungeon save state to true
+[06Apr2025 17:00:00.027] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to true
+[06Apr2025 17:00:00.027] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to true
+[06Apr2025 17:00:00.027] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world compactmachines:compact_world save state to true
+[06Apr2025 17:00:00.028] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/backups.json
+[06Apr2025 17:00:00.028] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:00:00.028] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Waiting for world save to complete.
+[06Apr2025 17:00:00.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 17:00:00.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 17:00:00.270] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Detected MC Version 1.18.2, Data version 2975
+[06Apr2025 17:00:00.270] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Save Name: world
+[06Apr2025 17:00:00.278] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ae2:spatial_storage
+[06Apr2025 17:00:00.279] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder bloodmagic:dungeon
+[06Apr2025 17:00:00.279] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder compactmachines:compact_world
+[06Apr2025 17:00:00.279] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ftbsbc:team
+[06Apr2025 17:00:00.279] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/turbo-octo-rotary-phone/servidor_minecraft/./world/./DIM-1
+[06Apr2025 17:00:00.279] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/turbo-octo-rotary-phone/servidor_minecraft/./world/./DIM1
+[06Apr2025 17:00:01.014] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup preview created, Scan took 95ms, Capture took 720ms
+[06Apr2025 17:00:02.749] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to false
+[06Apr2025 17:00:02.749] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to false
+[06Apr2025 17:00:02.749] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ftbsbc:team/meltons-abridger-smeared save state to false
+[06Apr2025 17:00:02.749] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world bloodmagic:dungeon save state to false
+[06Apr2025 17:00:02.749] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to false
+[06Apr2025 17:00:02.749] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to false
+[06Apr2025 17:00:02.749] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world compactmachines:compact_world save state to false
+[06Apr2025 17:00:02.777] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup size 26.2MB World Size 59.8MB
+[06Apr2025 17:00:02.778] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/backups.json
+[06Apr2025 17:00:02.778] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: New backup created at /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-6_17-0-0.zip size: 26.2MB Took: 0m, 2s, 721ms Sha1: cdb16ce73d6f87228f799256df90fe893a91a322
+[06Apr2025 17:00:06.464] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: More backups than 10 found, Removing oldest backup
+[06Apr2025 17:00:06.465] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Removed old backup 2025-4-4_18-30-0.zip
+[06Apr2025 17:00:06.465] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-4_18-30-0.zip
+[06Apr2025 17:00:06.465] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: File missing, removing from backups /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-4_18-30-0.zip
+[06Apr2025 17:00:06.465] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-4_19-0-0.zip
+[06Apr2025 17:00:06.465] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-4_19-30-0.zip
+[06Apr2025 17:00:06.465] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-4_20-0-0.zip
+[06Apr2025 17:00:06.465] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-4_20-30-0.zip
+[06Apr2025 17:00:06.465] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-4_21-0-0.zip
+[06Apr2025 17:00:06.465] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-4_21-30-0.zip
+[06Apr2025 17:00:06.465] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-4_22-0-0.zip
+[06Apr2025 17:00:06.465] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-6_16-0-0.zip
+[06Apr2025 17:00:06.465] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-6_16-30-0.zip
+[06Apr2025 17:00:06.465] [FTB Backups scheduled executor 0/DEBUG] [net.creeperhost.ftbbackups.FTBBackups/]: Verifying backup /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/2025-4-6_17-0-0.zip
+[06Apr2025 17:00:06.465] [FTB Backups scheduled executor 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/turbo-octo-rotary-phone/servidor_minecraft/backups/backups.json
+[06Apr2025 17:00:26.072] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:00:31.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 17:00:31.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 17:00:51.625] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:01:19.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[06Apr2025 17:01:21.177] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:01:49.873] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:02:16.343] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:02:43.636] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:03:12.460] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:03:41.755] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:04:07.681] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:04:35.681] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:04:35.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Teleported CagdasWFX to RealZSs]
+[06Apr2025 17:04:40.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Teleported CagdasWFX to MustafaT80]
+[06Apr2025 17:04:54.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Applied effect Night Vision to 3 targets]
+[06Apr2025 17:04:59.603] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:05:14.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Adventure Mode]
+[06Apr2025 17:05:19.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Survival Mode]
+[06Apr2025 17:05:23.334] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:05:26.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 burned to death
+[06Apr2025 17:05:28.179] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[06Apr2025 17:05:28.188] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6925d4d3 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 17:05:28.188] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@53629103 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 17:05:28.188] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@6329fb2c (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[06Apr2025 17:05:28.188] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@48c31944 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 17:05:28.189] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@77c8d8e2 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 17:05:28.189] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2425633e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 17:05:31.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 17:05:31.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 17:05:50.780] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:06:14.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Applied effect Night Vision to MustafaT80]
+[06Apr2025 17:06:18.265] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[06Apr2025 17:06:18.736] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:06:28.020] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[06Apr2025 17:06:47.375] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:06:51.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [A Seedy Place]
+[06Apr2025 17:07:12.453] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:07:17.664] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:help_me
