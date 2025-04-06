@@ -21114,3 +21114,55 @@ java.lang.Throwable: null
 [06Apr2025 17:17:20.253] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
 [06Apr2025 17:17:22.661] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
 [06Apr2025 17:17:26.369] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[06Apr2025 17:17:37.019] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
+[06Apr2025 17:17:43.758] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:17:55.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to CagdasWFX]
+[06Apr2025 17:18:09.092] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:18:34.911] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:19:01.458] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:19:15.964] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[06Apr2025 17:19:31.318] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:19:58.645] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:20:00.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Applied effect Night Vision to 3 targets]
+[06Apr2025 17:20:21.067] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[06Apr2025 17:20:23.449] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:20:31.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 17:20:31.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 17:20:39.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Creative Mode]
+[06Apr2025 17:20:42.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[06Apr2025 17:20:48.410] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:21:06.215] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[06Apr2025 17:21:12.628] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:21:39.645] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:22:07.444] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:22:26.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1170, y=-69, z=93} BlockPos{x=-1171, y=-69, z=94}
+[06Apr2025 17:22:33.514] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:22:35.424] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[06Apr2025 17:23:02.516] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:23:27.968] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:23:55.795] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:24:11.998] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:ores_galore
+[06Apr2025 17:24:14.917] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:want_to_build_a_snowman
+[06Apr2025 17:24:18.876] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:squid_horde
+[06Apr2025 17:24:25.099] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:24:46.317] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[06Apr2025 17:24:51.854] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:25:08.316] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[06Apr2025 17:25:15.583] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:25:21.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Creative Mode]
+[06Apr2025 17:25:31.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 17:25:31.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 17:25:40.681] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:26:07.334] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:26:22.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[06Apr2025 17:26:27.868] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
+[06Apr2025 17:26:36.398] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:26:38.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> ultimine
+[06Apr2025 17:26:40.167] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
+[06Apr2025 17:26:46.715] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[06Apr2025 17:27:04.300] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:27:07.723] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
+[06Apr2025 17:27:20.874] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:chicken_jockey
+[06Apr2025 17:27:23.813] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
+[06Apr2025 17:27:29.298] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 17:27:34.515] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id minecraft:spider_jockey
