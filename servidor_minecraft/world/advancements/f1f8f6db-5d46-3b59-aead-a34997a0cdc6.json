@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-04-06 17:50:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-04-01 02:46:10 +0000"
@@ -254,6 +260,12 @@
   "botania:recipes/botania/quartz_sunny": {
     "criteria": {
       "has_item": "2025-04-04 18:35:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-04-06 17:50:00 +0000"
     },
     "done": true
   },
@@ -593,6 +605,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/scratched_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-06 17:50:00 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 03:53:18 +0000"
@@ -821,6 +839,12 @@
   "botania:recipes/botania/manasteel_block": {
     "criteria": {
       "has_item": "2025-04-01 03:18:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-06 17:46:56 +0000"
     },
     "done": true
   },
@@ -1791,6 +1815,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-06 17:46:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-03-31 23:09:36 +0000"
@@ -2111,6 +2141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-04-06 17:50:00 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/granite": {
     "criteria": {
       "has_wood": "2025-04-01 03:43:20 +0000"
@@ -2246,6 +2282,12 @@
   "ftbsbc:recipes/ftbsbc/gold_hammer": {
     "criteria": {
       "has_item": "2025-04-01 03:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-06 17:46:56 +0000"
     },
     "done": true
   },
@@ -2411,6 +2453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-06 17:46:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/oak_window": {
     "criteria": {
       "has_ingredient": "2025-03-31 23:16:51 +0000"
@@ -2552,6 +2600,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-04-01 04:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-06 17:46:56 +0000"
     },
     "done": true
   },
@@ -2802,6 +2856,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/nethersdelight/hoglin_sirloin": {
+    "criteria": {
+      "hoglin_sirloin": "2025-04-06 17:46:56 +0000"
+    },
+    "done": true
+  },
   "create:andesite_casing": {
     "criteria": {
       "0": "2025-04-01 02:29:22 +0000"
@@ -2853,6 +2913,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-04-01 04:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-06 17:46:56 +0000"
     },
     "done": true
   },
@@ -3240,6 +3306,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-06 17:46:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-04-01 03:43:23 +0000"
@@ -3396,6 +3468,12 @@
   "projecte:recipes/projecte/conversions/dye_bag_white": {
     "criteria": {
       "has_alchemical_bag": "2025-04-01 04:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-06 17:46:56 +0000"
     },
     "done": true
   },
@@ -3837,6 +3915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-04-06 17:50:00 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials/copper_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-04-01 02:46:10 +0000"
@@ -3918,6 +4002,12 @@
   "bambooeverything:recipes/bamboo_stairs": {
     "criteria": {
       "has_bundle": "2025-03-31 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/clear_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-06 17:50:00 +0000"
     },
     "done": true
   },
@@ -4486,6 +4576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-04-06 17:50:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2025-04-01 02:32:31 +0000"
@@ -4501,6 +4597,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-04-04 19:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-04-06 17:46:56 +0000"
     },
     "done": true
   },
@@ -4705,6 +4807,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-04-01 04:01:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/glass_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-04-06 17:50:00 +0000"
     },
     "done": true
   },
@@ -5469,6 +5577,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/nethersdelight/hoglin_sirloin_from_smoking": {
+    "criteria": {
+      "hoglin_sirloin": "2025-04-06 17:46:56 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/granite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-01 03:43:20 +0000"
@@ -5610,6 +5724,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-04-04 19:46:12 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/clear_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-06 17:50:00 +0000"
     },
     "done": true
   },
@@ -6033,6 +6153,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/nethersdelight/hoglin_sirloin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_sirloin": "2025-04-06 17:46:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-31 23:25:41 +0000"
@@ -6048,6 +6174,12 @@
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2025-03-31 23:16:25 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/scratched_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-06 17:50:00 +0000"
     },
     "done": true
   },
@@ -6736,6 +6868,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-06 17:46:56 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_red_dye": {
     "criteria": {
       "chest": "2025-04-01 03:28:43 +0000"
@@ -6867,6 +7005,12 @@
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-04-01 03:15:26 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/tinted_borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-06 17:50:00 +0000"
     },
     "done": true
   },
@@ -7095,6 +7239,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-04-04 19:44:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-04-06 17:50:00 +0000"
     },
     "done": true
   },
@@ -7998,6 +8148,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-06 17:50:00 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/magnet_ring": {
     "criteria": {
       "has_item": "2025-04-01 03:18:35 +0000"
@@ -8049,6 +8205,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bannerpatterns": {
     "criteria": {
       "has_paper": "2025-04-04 17:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-06 17:46:56 +0000"
     },
     "done": true
   },
@@ -8436,6 +8598,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-04-06 17:50:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_slime_block": "2025-04-04 19:54:32 +0000"
@@ -8742,6 +8910,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-06 17:46:56 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/pattern": {
     "criteria": {
       "has_item": "2025-03-31 23:16:54 +0000"
@@ -8877,6 +9051,12 @@
   "create:recipes/create.base/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-04-01 02:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2025-04-06 17:50:00 +0000"
     },
     "done": true
   },

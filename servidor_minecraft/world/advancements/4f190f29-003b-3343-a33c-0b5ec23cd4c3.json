@@ -571,7 +571,8 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
-      "magma_cream": "2025-04-04 18:27:45 +0000"
+      "magma_cream": "2025-04-04 18:27:45 +0000",
+      "earth": "2025-04-06 17:50:41 +0000"
     },
     "done": false
   },
@@ -693,6 +694,12 @@
   "justhammers:recipes/justhammers.justhammers_tab/stone_destructor_hammer": {
     "criteria": {
       "has_material": "2025-04-06 16:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-06 17:45:36 +0000"
     },
     "done": true
   },
@@ -1002,6 +1009,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-04-06 17:50:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-04-04 18:35:55 +0000"
@@ -1248,6 +1261,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-04-06 17:54:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-04-04 17:45:40 +0000"
@@ -1299,6 +1318,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_gold_hammering": {
     "criteria": {
       "has_gold_ingot": "2025-04-04 19:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-06 17:50:41 +0000"
     },
     "done": true
   },
@@ -1647,6 +1672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-06 17:45:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-04-06 17:00:42 +0000"
@@ -1929,6 +1960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-06 17:54:58 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/incense_stick": {
     "criteria": {
       "has_item": "2025-04-04 18:43:54 +0000"
@@ -1998,6 +2035,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-04-04 19:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-06 17:45:39 +0000"
     },
     "done": true
   },
@@ -2152,6 +2195,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/earth": {
+    "criteria": {
+      "has_item": "2025-04-06 17:50:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-31 23:27:40 +0000"
@@ -2221,6 +2270,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-04-04 18:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-06 17:45:36 +0000"
     },
     "done": true
   },
@@ -4363,6 +4418,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/common/slime/earth/congealed": {
+    "criteria": {
+      "has_item": "2025-04-06 17:50:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-04-04 17:45:40 +0000"
@@ -4661,6 +4722,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/rs_engineering": {
     "criteria": {
       "has_copper_ingot": "2025-04-04 17:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-06 17:50:41 +0000"
     },
     "done": true
   },
@@ -5350,6 +5417,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-06 17:50:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-04-04 22:00:19 +0000"
@@ -5803,6 +5876,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-06 17:50:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-03-31 23:26:31 +0000"
@@ -6022,6 +6101,12 @@
   "xnet:recipes/xnet/advanced_connector_green_dye": {
     "criteria": {
       "chest": "2025-04-04 17:48:38 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/chiselsandbits/sealant": {
+    "criteria": {
+      "has_tag_a": "2025-04-06 17:50:41 +0000"
     },
     "done": true
   },
@@ -6356,6 +6441,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-06 17:45:39 +0000"
+    },
+    "done": true
+  },
   "compactcrafting:recipes/compactcrafting/rescan_proxy": {
     "criteria": {
       "got_crafting_table": "2025-03-31 23:21:31 +0000"
@@ -6605,6 +6696,12 @@
   "mcwfences:recipes/birch": {
     "criteria": {
       "has_birch": "2025-03-31 23:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-06 17:50:41 +0000"
     },
     "done": true
   },
@@ -7115,6 +7212,12 @@
   "ae2:main/charged_quartz": {
     "criteria": {
       "certus": "2025-04-04 22:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-06 17:54:58 +0000"
     },
     "done": true
   },
