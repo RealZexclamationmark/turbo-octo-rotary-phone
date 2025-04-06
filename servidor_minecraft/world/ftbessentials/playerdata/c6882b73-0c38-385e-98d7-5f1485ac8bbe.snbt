@@ -7,16 +7,16 @@
 	last_seen: { dim: "ftbsbc:team/meltons-abridger-smeared", x: -18, y: -1, z: 1, time: 1743953478614L, xRot: 5.434992f, yRot: 29.522062f }
 	recording: 0
 	teleport_history: [
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -39, y: -1, z: 0, time: 1743804786284L, xRot: 16.397324f, yRot: 49.37378f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -32, y: 0, z: 1, time: 1743804793635L, xRot: 30.445616f, yRot: 128.09277f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -51, y: -1, z: 0, time: 1743804819095L, xRot: 13.772208f, yRot: -72.274475f }
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -10, y: 3, z: 3, time: 1743804937641L, xRot: -88.111595f, yRot: -94.876465f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -9, y: 2, z: 3, time: 1743804956159L, xRot: -21.233702f, yRot: 123.39108f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 7, y: 0, z: -7, time: 1743805148784L, xRot: 19.023043f, yRot: 9.86223f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 9, y: -1, z: 2, time: 1743958660653L, xRot: 10.59378f, yRot: 97.39703f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -21, y: -2, z: 1, time: 1743962765739L, xRot: -18.055237f, yRot: -86.05078f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -285, y: -7, z: 15, time: 1743962786183L, xRot: 39.43415f, yRot: 113.41069f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -1590, y: -59, z: 51, time: 1743963067594L, xRot: 8.952067f, yRot: -102.02585f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -1573, y: -58, z: 56, time: 1743963371862L, xRot: 35.511383f, yRot: -127.31408f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 7, y: -1, z: -2, time: 1743963376814L, xRot: 6.2641506f, yRot: -5.2968893f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -1575, y: -50, z: 41, time: 1743963524560L, xRot: 31.735943f, yRot: -134.28937f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -1588, y: -57, z: 27, time: 1743963680976L, xRot: 25.0556f, yRot: 1.1083069f }
 	]
 	homes: {
 		home: { dim: "ftbsbc:team/meltons-abridger-smeared", x: -6, y: -1, z: 0, time: 1743465062573L, xRot: 0.8302462f, yRot: -32.186447f }

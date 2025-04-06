@@ -21890,3 +21890,166 @@ java.lang.Throwable: null
 [06Apr2025 18:17:53.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to CagdasWFX]
 [06Apr2025 18:17:54.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Spectator Mode]
 [06Apr2025 18:17:58.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Creative Mode]
+[06Apr2025 18:18:20.475] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:18:44.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported RealZSs to CagdasWFX]
+[06Apr2025 18:18:47.622] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:18:55.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Spectator Mode]
+[06Apr2025 18:18:57.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Survival Mode]
+[06Apr2025 18:19:10.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Applied effect Night Vision to 3 targets]
+[06Apr2025 18:19:11.177] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:world_infection
+[06Apr2025 18:19:14.597] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:19:38.521] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:19:38.561] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:world_infection
+[06Apr2025 18:19:43.376] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:lingering_potions_ring
+[06Apr2025 18:19:46.063] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:arrow_spray
+[06Apr2025 18:19:47.401] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:farmer
+[06Apr2025 18:19:49.476] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:book_of_memes
+[06Apr2025 18:19:50.474] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:wolves_to_creepers
+[06Apr2025 18:19:51.546] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:invizible_silverfish
+[06Apr2025 18:19:52.027] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:monty_hall
+[06Apr2025 18:19:54.643] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:dark_o_the_wise
+[06Apr2025 18:19:56.012] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:rancher
+[06Apr2025 18:19:56.865] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:horde
+[06Apr2025 18:19:57.963] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Kehaan'/26714, l='ServerLevel[world]', x=-1593.69, y=-57.00, z=31.69] died: Kehaan was blown up by RealZSs
+[06Apr2025 18:19:57.963] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Kehaan'/26715, l='ServerLevel[world]', x=-1594.05, y=-56.69, z=28.70] died: Kehaan was blown up by RealZSs
+[06Apr2025 18:19:57.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Kehaan'/26717, l='ServerLevel[world]', x=-1593.55, y=-56.12, z=30.43] died: Kehaan was blown up by RealZSs
+[06Apr2025 18:19:57.965] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Kehaan'/26721, l='ServerLevel[world]', x=-1593.15, y=-56.29, z=31.26] died: Kehaan was blown up by RealZSs
+[06Apr2025 18:19:57.966] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Kehaan'/26712, l='ServerLevel[world]', x=-1594.46, y=-57.00, z=31.46] died: Kehaan was blown up by RealZSs
+[06Apr2025 18:19:57.976] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Dark-O-The-Wise'/26752, l='ServerLevel[world]', x=-1594.29, y=-56.21, z=32.70] died: Dark-O-The-Wise was blown up by RealZSs
+[06Apr2025 18:20:00.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was slain by Enderman
+[06Apr2025 18:20:01.564] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:20:03.536] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[06Apr2025 18:20:03.544] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6925d4d3 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:20:03.544] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@53629103 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:20:03.544] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@6329fb2c (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[06Apr2025 18:20:03.544] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@48c31944 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:20:03.544] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@77c8d8e2 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 18:20:03.545] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2425633e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 18:20:03.671] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:explosion
+[06Apr2025 18:20:03.779] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Jacky'/26873, l='ServerLevel[world]', x=-1600.60, y=-57.00, z=32.54] died: Jacky was blown up by Jacky
+[06Apr2025 18:20:06.577] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:tic_tac_toe
+[06Apr2025 18:20:11.866] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Jacky'/26871, l='ServerLevel[world]', x=-1600.37, y=-57.00, z=32.37] died: Jacky was blown up by Jacky
+[06Apr2025 18:20:15.512] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Jacky'/26876, l='ServerLevel[world]', x=-1597.30, y=-57.00, z=30.60] died: Jacky was slain by CagdasWFX
+[06Apr2025 18:20:16.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Jacky'/26877, l='ServerLevel[world]', x=-1596.70, y=-57.00, z=32.89] died: Jacky was blown up by Jacky
+[06Apr2025 18:20:21.647] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:dig_build
+[06Apr2025 18:20:26.103] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:20:30.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Killed 9 entities]
+[06Apr2025 18:20:30.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Applied effect Night Vision to 3 targets]
+[06Apr2025 18:20:31.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 18:20:31.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 18:20:49.269] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:20:57.576] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:potion-works
+[06Apr2025 18:20:58.676] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:fighter
+[06Apr2025 18:20:59.626] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:cube_rename
+[06Apr2025 18:21:15.724] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:21:17.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Teleported CagdasWFX to MustafaT80]
+[06Apr2025 18:21:20.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Teleported RealZSs to CagdasWFX]
+[06Apr2025 18:21:26.241] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:roosevelts_stick
+[06Apr2025 18:21:29.336] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:item_chest
+[06Apr2025 18:21:42.876] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:22:01.535] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:sphere_snake
+[06Apr2025 18:22:12.279] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:floor_is_lava
+[06Apr2025 18:22:12.867] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:22:20.297] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:book_of_memes
+[06Apr2025 18:22:21.225] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:fire_fox
+[06Apr2025 18:22:21.505] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:nuke
+[06Apr2025 18:22:23.125] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Fox['Fire Fox'/28020, l='ServerLevel[world]', x=-1790.15, y=-74.00, z=64.64] died: Fire Fox was slain by RealZSs
+[06Apr2025 18:22:36.171] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:22:42.845] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:floor_is_lava
+[06Apr2025 18:22:48.579] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:one_is_lucky
+[06Apr2025 18:22:49.654] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:divine_chestplate
+[06Apr2025 18:22:50.713] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:exp
+[06Apr2025 18:22:59.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Set own game mode to Spectator Mode]
+[06Apr2025 18:23:03.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Spectator Mode]
+[06Apr2025 18:23:03.823] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:23:28.257] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:23:37.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[06Apr2025 18:23:40.716] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:wool
+[06Apr2025 18:23:42.369] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:giga_breaker
+[06Apr2025 18:23:43.480] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:cookie_monster
+[06Apr2025 18:23:47.453] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Cookie Monster'/28525, l='ServerLevel[world]', x=-1805.29, y=-74.00, z=65.06] died: Cookie Monster tried to swim in lava
+[06Apr2025 18:23:57.350] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:24:08.110] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:tnt_throw
+[06Apr2025 18:24:10.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Spectator Mode]
+[06Apr2025 18:24:16.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Survival Mode]
+[06Apr2025 18:24:17.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Spectator Mode]
+[06Apr2025 18:24:19.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Survival Mode]
+[06Apr2025 18:24:21.098] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:24:27.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Set own game mode to Survival Mode]
+[06Apr2025 18:24:33.151] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:item_chest
+[06Apr2025 18:24:34.287] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:surrounded
+[06Apr2025 18:24:35.361] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:sail_away
+[06Apr2025 18:24:45.211] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:ore_pillars
+[06Apr2025 18:24:46.610] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:firework_show
+[06Apr2025 18:24:48.790] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:25:13.689] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:25:27.197] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:ores_galore
+[06Apr2025 18:25:31.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 18:25:31.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 18:25:32.559] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:string
+[06Apr2025 18:25:36.218] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:charged_creeper
+[06Apr2025 18:25:38.458] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Enderman Head'/29177, l='ServerLevel[world]', x=-1834.30, y=-76.00, z=61.36]
+[06Apr2025 18:25:38.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was blown up by Creeper
+[06Apr2025 18:25:38.462] [Server thread/INFO] [gravestone/]: Grave of 'MustafaT80' can't be placed (No space)
+[06Apr2025 18:25:38.463] [Server thread/INFO] [gravestone/]: The death ID of 'MustafaT80' is afeac5d3-6a54-4550-b5bc-4abf74665dd9
+[06Apr2025 18:25:40.126] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[06Apr2025 18:25:40.135] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6925d4d3 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:25:40.135] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@53629103 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:25:40.135] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@6329fb2c (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[06Apr2025 18:25:40.135] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@48c31944 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:25:40.135] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@77c8d8e2 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 18:25:40.135] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2425633e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 18:25:42.931] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:25:48.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Teleported CagdasWFX to RealZSs]
+[06Apr2025 18:25:49.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported MustafaT80 to RealZSs]
+[06Apr2025 18:26:09.879] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:26:16.361] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:no
+[06Apr2025 18:26:18.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Applied effect Night Vision to 3 targets]
+[06Apr2025 18:26:22.457] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:anvil_rain
+[06Apr2025 18:26:24.318] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:spawn_dr_trayaurus
+[06Apr2025 18:26:33.749] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:xp_crystal
+[06Apr2025 18:26:33.976] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:farmer
+[06Apr2025 18:26:37.407] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Dr Trayaurus'/29273, l='ServerLevel[world]', x=-1837.45, y=-76.98, z=62.21] died, message: 'Dr Trayaurus blew up'
+[06Apr2025 18:26:37.408] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Dr Trayaurus'/29273, l='ServerLevel[world]', x=-1837.45, y=-76.98, z=62.21] died: Dr Trayaurus blew up
+[06Apr2025 18:26:38.421] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:26:40.182] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:guardians
+[06Apr2025 18:26:48.230] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:want_to_build_a_snowman
+[06Apr2025 18:26:49.626] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:chat_message
+[06Apr2025 18:26:50.994] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:cursed_head
+[06Apr2025 18:26:52.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was slain by Guardian
+[06Apr2025 18:26:52.676] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:boss_evil_witch
+[06Apr2025 18:26:54.259] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[06Apr2025 18:26:54.269] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6925d4d3 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:26:54.269] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@53629103 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:26:54.269] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@6329fb2c (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[06Apr2025 18:26:54.269] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@48c31944 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:26:54.269] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@77c8d8e2 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 18:26:54.269] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2425633e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 18:27:03.525] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:27:23.207] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Evil Witch'/29451, l='ServerLevel[world]', x=-1837.89, y=-77.60, z=71.80] died: Evil Witch self destructed whilst fighting RealZSs
+[06Apr2025 18:27:28.177] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:27:42.325] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:anvil_rain
+[06Apr2025 18:27:53.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Applied effect Night Vision to 3 targets]
+[06Apr2025 18:27:54.590] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:one_shot
+[06Apr2025 18:27:56.490] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:27:58.676] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:mob_tower
+[06Apr2025 18:27:59.307] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:arrow_trap
+[06Apr2025 18:28:02.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs was killed by magic whilst trying to escape Blaze
+[06Apr2025 18:28:03.614] [Server thread/DEBUG] [projecte/]: Clearing offline data cache in preparation to load online data
+[06Apr2025 18:28:03.623] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6925d4d3 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:28:03.623] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@53629103 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:28:03.623] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@6329fb2c (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[06Apr2025 18:28:03.623] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@48c31944 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:28:03.623] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@77c8d8e2 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 18:28:03.623] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2425633e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 18:28:06.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported RealZSs to CagdasWFX]
+[06Apr2025 18:28:11.155] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1841, y=-78, z=62} BlockPos{x=-1841, y=-79, z=62}
+[06Apr2025 18:28:11.209] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1841, y=-78, z=62} BlockPos{x=-1841, y=-79, z=62}
+[06Apr2025 18:28:12.159] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1844, y=-78, z=62} BlockPos{x=-1845, y=-79, z=61}
+[06Apr2025 18:28:12.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1842, y=-78, z=63} BlockPos{x=-1843, y=-79, z=63}
+[06Apr2025 18:28:12.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1842, y=-78, z=63} BlockPos{x=-1843, y=-79, z=63}
+[06Apr2025 18:28:12.900] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1842, y=-78, z=63} BlockPos{x=-1843, y=-79, z=63}
+[06Apr2025 18:28:12.949] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1842, y=-78, z=64} BlockPos{x=-1843, y=-79, z=63}
+[06Apr2025 18:28:13.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1842, y=-78, z=64} BlockPos{x=-1843, y=-79, z=63}
+[06Apr2025 18:28:21.912] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[06Apr2025 18:28:22.800] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:divine_boots
