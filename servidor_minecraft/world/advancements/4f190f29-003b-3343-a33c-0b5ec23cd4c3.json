@@ -8283,6 +8283,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/divining_rod_1": {
+    "criteria": {
+      "has_covalence_dust": "2025-04-06 19:53:37 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/awning": {
     "criteria": {
       "has_planks": "2025-04-06 17:00:42 +0000"

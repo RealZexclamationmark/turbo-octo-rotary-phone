@@ -4779,3 +4779,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Apr2025 19:44:35.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> ğ
 [06Apr2025 19:44:38.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CagdasWFX> :sob:
 [06Apr2025 19:46:38.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: B3rks has made the advancement [Inner Arts]
+[06Apr2025 19:54:35.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Creative Mode]
+[06Apr2025 19:54:37.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: B3rks has made the advancement [Acquire Hardware]
+[06Apr2025 19:55:13.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
