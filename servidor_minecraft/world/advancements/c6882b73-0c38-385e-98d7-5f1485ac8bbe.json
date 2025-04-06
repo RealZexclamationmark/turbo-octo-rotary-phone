@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/metal_ladder_none": {
+    "criteria": {
+      "has_metal_rod": "2025-04-06 15:53:26 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/blastbrick": {
     "criteria": {
       "has_item": "2025-04-01 04:27:41 +0000"
@@ -1517,6 +1523,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-04 18:41:32 +0000"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-04-06 15:55:02 +0000"
     },
     "done": true
   },
@@ -6796,6 +6808,12 @@
     },
     "done": true
   },
+  "create:crusher_maxed_0000": {
+    "criteria": {
+      "0": "2025-04-06 15:50:45 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_boots": {
     "criteria": {
       "has_item": "2025-04-01 03:53:42 +0000"
@@ -8529,6 +8547,12 @@
       "calc": "2025-04-04 20:32:28 +0000",
       "logic": "2025-04-04 20:08:40 +0000",
       "eng": "2025-04-04 20:08:35 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/strip_curtain": {
+    "criteria": {
+      "has_metal_rod": "2025-04-06 15:53:26 +0000"
     },
     "done": true
   },

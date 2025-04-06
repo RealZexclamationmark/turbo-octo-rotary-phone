@@ -4,10 +4,9 @@
 	god: false
 	nick: ""
 	name: "MustafaT80"
-	last_seen: { dim: "ftbsbc:team/meltons-abridger-smeared", x: 4, y: -1, z: -10, time: 1743805099584L, xRot: 19.851788f, yRot: 61.674835f }
+	last_seen: { dim: "ftbsbc:team/meltons-abridger-smeared", x: 4, y: -1, z: -10, time: 1743954512107L, xRot: 19.851788f, yRot: 61.674835f }
 	recording: 0
 	teleport_history: [
-		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -2, y: -1, z: -6, time: 1743805076779L, xRot: 6.2203107f, yRot: -70.4517f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 3, y: -1, z: -8, time: 1743805081721L, xRot: -10.997255f, yRot: -66.47917f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 1, y: -1, z: -4, time: 1743805083788L, xRot: 28.116014f, yRot: -122.244385f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 7, y: 0, z: -7, time: 1743805087383L, xRot: 16.296812f, yRot: -44.48357f }
@@ -17,6 +16,7 @@
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -1, y: -1, z: -6, time: 1743805096053L, xRot: 13.458412f, yRot: 123.097694f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 5, y: -1, z: -1, time: 1743805096668L, xRot: 7.102431f, yRot: 110.57888f }
 		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: -5, y: -1, z: -4, time: 1743805099470L, xRot: 6.2733426f, yRot: -125.753815f }
+		{ dim: "ftbsbc:team/meltons-abridger-smeared", x: 6, y: -1, z: -5, time: 1743954738505L, xRot: -0.8461749f, yRot: -163.68655f }
 	]
 	homes: { }
 }

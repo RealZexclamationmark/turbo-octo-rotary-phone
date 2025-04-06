@@ -3184,3 +3184,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Apr2025 15:37:36.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> pipez
 [06Apr2025 15:40:10.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set 110 experience levels on CagdasWFX]
 [06Apr2025 15:45:27.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RealZSs moved wrongly!
+[06Apr2025 15:48:31.967] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@753b74a2
+[06Apr2025 15:48:31.981] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MustafaT80[/127.161.88.231:39957] logged in with entity id 349 at (4.699999988079071, -0.3125, -9.550828438900465)
+[06Apr2025 15:48:32.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 joined the game
+[06Apr2025 15:48:32.107] [Server thread/INFO] [Waila/]: Syncing config to MustafaT80 (4f190f29-003b-3343-a33c-0b5ec23cd4c3)
+[06Apr2025 15:48:32.424] [Thread-39/INFO] [chancecubes/]: No custom rewards detected for the current user!
+[06Apr2025 15:50:45.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has reached the goal [Crushing It]
+[06Apr2025 15:51:27.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX was processed by Crushing Wheels
+[06Apr2025 15:51:28.540] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6925d4d3 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 15:51:28.540] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@53629103 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 15:51:28.541] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@6329fb2c (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[06Apr2025 15:51:28.541] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@48c31944 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 15:51:28.541] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@77c8d8e2 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 15:51:28.541] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2425633e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 15:51:48.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 has made the advancement [A Pair of Giants]
+[06Apr2025 15:51:54.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [A Pair of Giants]
+[06Apr2025 15:52:18.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was thrown into Crushing Wheels by CagdasWFX
