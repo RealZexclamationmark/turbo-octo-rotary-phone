@@ -2694,6 +2694,12 @@
     },
     "done": true
   },
+  "botania:main/terrasteel_pickup_lexicon": {
+    "criteria": {
+      "elven_lexicon": "2025-04-06 19:36:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-04-06 18:17:33 +0000"
@@ -3443,6 +3449,12 @@
     },
     "done": true
   },
+  "extendedexchange:recipes/extendedexchange/stone_table_1": {
+    "criteria": {
+      "has_item": "2025-04-06 19:39:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-01 03:46:53 +0000"
@@ -4010,6 +4022,12 @@
   "buddingcrystals:recipes/buddingcrystals/budding_glowstone": {
     "criteria": {
       "has_glowstone": "2025-04-01 02:38:10 +0000"
+    },
+    "done": true
+  },
+  "botania:main/pure_daisy_pickup": {
+    "criteria": {
+      "elven_lexicon": "2025-04-06 19:36:11 +0000"
     },
     "done": true
   },
@@ -5383,6 +5401,12 @@
     },
     "done": true
   },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "elven_lexicon": "2025-04-06 19:36:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2025-04-04 18:38:16 +0000"
@@ -6394,6 +6418,12 @@
     },
     "done": true
   },
+  "botania:main/runic_altar_pickup": {
+    "criteria": {
+      "elven_lexicon": "2025-04-06 19:36:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-01 04:44:18 +0000"
@@ -6717,6 +6747,12 @@
   "mcwpaths:recipes/granite": {
     "criteria": {
       "has_wood": "2025-04-01 03:46:53 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/interdiction_torch": {
+    "criteria": {
+      "has_philo_stone": "2025-04-06 19:39:57 +0000"
     },
     "done": true
   },
@@ -7099,6 +7135,12 @@
     },
     "done": true
   },
+  "projecte:philosophers_stone": {
+    "criteria": {
+      "philosophers_stone": "2025-04-06 19:39:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-01 03:46:53 +0000"
@@ -7174,6 +7216,12 @@
   "tconstruct:recipes/misc/common/glass/vanilla/beacon": {
     "criteria": {
       "has_nether_star": "2025-04-01 04:30:23 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "elven_lexicon": "2025-04-06 19:36:11 +0000"
     },
     "done": true
   },
@@ -7498,6 +7546,12 @@
     },
     "done": true
   },
+  "botania:main/elf_lexicon_pickup": {
+    "criteria": {
+      "lexicon": "2025-04-06 19:36:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-06 18:41:54 +0000"
@@ -7519,6 +7573,12 @@
   "rftoolsbase:recipes/rftoolsbase/manual": {
     "criteria": {
       "book": "2025-04-01 03:36:02 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/transmutation_table": {
+    "criteria": {
+      "has_philo_stone": "2025-04-06 19:39:57 +0000"
     },
     "done": true
   },
@@ -8221,6 +8281,12 @@
   "projecte:recipes/projecte/conversions/dye_bag_cyan": {
     "criteria": {
       "has_alchemical_bag": "2025-04-01 04:17:49 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup_lexicon": {
+    "criteria": {
+      "elven_lexicon": "2025-04-06 19:36:11 +0000"
     },
     "done": true
   },
