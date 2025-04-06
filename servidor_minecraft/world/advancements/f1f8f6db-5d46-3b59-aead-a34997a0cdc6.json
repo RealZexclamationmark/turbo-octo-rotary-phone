@@ -5075,6 +5075,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/conversions/red_matter_block_deconstruct": {
+    "criteria": {
+      "has_red_matter_block": "2025-04-06 20:18:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hanging_sign_minecraft/dark_oak": {
     "criteria": {
       "has_plank": "2025-04-06 18:44:40 +0000"
@@ -6176,6 +6182,12 @@
     },
     "done": true
   },
+  "projecte:red_matter_block": {
+    "criteria": {
+      "rm_block": "2025-04-06 20:18:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2025-04-01 02:27:55 +0000"
@@ -7101,6 +7113,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-04-06 17:58:48 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/mercurial_eye": {
+    "criteria": {
+      "has_matter": "2025-04-06 20:18:49 +0000"
     },
     "done": true
   },

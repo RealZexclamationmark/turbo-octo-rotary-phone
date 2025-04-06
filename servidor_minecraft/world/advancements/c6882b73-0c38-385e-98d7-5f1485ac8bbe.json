@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-06 20:18:46 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/dm_furnace": {
     "criteria": {
       "has_dark_matter": "2025-04-06 19:59:54 +0000"
@@ -9978,6 +9984,7 @@
       "cooked_porkchop": "2025-04-04 22:08:01 +0000",
       "honey_bottle": "2025-04-04 18:22:04 +0000",
       "cooked_mutton": "2025-04-04 22:07:18 +0000",
+      "cooked_beef": "2025-04-06 20:23:57 +0000",
       "apple": "2025-03-31 23:22:01 +0000",
       "potato": "2025-04-04 21:54:02 +0000",
       "cooked_cod": "2025-04-01 04:23:01 +0000",
