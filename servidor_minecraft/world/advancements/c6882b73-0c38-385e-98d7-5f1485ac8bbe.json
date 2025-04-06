@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-04-06 18:13:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-04-04 18:59:58 +0000"
@@ -431,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:12:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_chainmail_leggings": "2025-03-31 23:10:31 +0000"
@@ -731,6 +743,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-04-06 18:12:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-04-01 03:47:47 +0000"
@@ -812,6 +830,12 @@
   "mcwwindows:recipes/warped": {
     "criteria": {
       "has_the_recipe": "2025-03-31 23:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:12:11 +0000"
     },
     "done": true
   },
@@ -2635,6 +2659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:12:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 23:34:28 +0000"
@@ -3088,6 +3118,12 @@
   "ae2:recipes/ae2.main/misc/seeds_certus": {
     "criteria": {
       "has_dusts/certus_quartz": "2025-03-31 23:50:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-04-06 18:13:17 +0000"
     },
     "done": true
   },
@@ -4399,6 +4435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:12:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-04-04 18:53:49 +0000"
@@ -4885,6 +4927,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:12:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
     "criteria": {
       "has_vine": "2025-03-31 23:16:22 +0000"
@@ -5005,6 +5053,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_minecraft/dark_oak": {
+    "criteria": {
+      "has_plank": "2025-04-06 18:12:11 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/justhammers.justhammers_tab/iron_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-03-31 23:41:58 +0000"
@@ -5050,6 +5104,12 @@
   "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
     "criteria": {
       "has_yellow_dye": "2025-04-06 17:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:12:11 +0000"
     },
     "done": true
   },
@@ -5191,6 +5251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:12:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-04-01 04:44:18 +0000"
@@ -5245,6 +5311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:12:11 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-03-31 23:10:55 +0000"
@@ -5284,6 +5356,12 @@
   "xnet:recipes/xnet/netcable_green": {
     "criteria": {
       "nugget": "2025-04-01 04:36:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_minecraft/dark_oak": {
+    "criteria": {
+      "has_plank": "2025-04-06 18:12:11 +0000"
     },
     "done": true
   },
@@ -5554,6 +5632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-04-06 18:13:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2025-03-31 23:39:17 +0000"
@@ -5575,6 +5659,12 @@
   "create:recipes/create.palettes/brass_scaffolding_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-04-04 19:55:33 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-04-06 18:12:11 +0000"
     },
     "done": true
   },
@@ -5836,6 +5926,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:12:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/redstone_link": {
     "criteria": {
       "has_item": "2025-04-04 21:41:46 +0000"
@@ -5905,6 +6001,12 @@
   "laserio:recipes/laserio/card_fluid_nbtclear": {
     "criteria": {
       "has_card_fluid": "2025-04-06 17:14:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_dark_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:12:11 +0000"
     },
     "done": true
   },
@@ -7342,6 +7444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-04-06 18:13:17 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-31 23:34:28 +0000"
@@ -8455,6 +8563,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dark_oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:12:11 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2025-03-31 23:15:11 +0000"
@@ -9296,6 +9410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:12:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-04-01 04:44:18 +0000"
@@ -9644,6 +9764,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/dark_oak_planks": {
+    "criteria": {
+      "has_planks": "2025-04-06 18:12:11 +0000"
+    },
+    "done": true
+  },
   "darkerdepths:recipes/misc/resin": {
     "criteria": {
       "has_amber": "2025-03-31 23:04:56 +0000"
@@ -9653,6 +9779,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-04-04 18:27:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-06 18:12:11 +0000"
     },
     "done": true
   },
@@ -9689,6 +9821,12 @@
   "projecte:recipes/projecte/dm_leggings": {
     "criteria": {
       "has_matter": "2025-04-01 04:40:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-04-06 18:13:17 +0000"
     },
     "done": true
   },

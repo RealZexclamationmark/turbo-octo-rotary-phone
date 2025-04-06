@@ -3952,3 +3952,64 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Apr2025 18:06:25.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Teleported CagdasWFX to MustafaT80]
 [06Apr2025 18:06:26.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported RealZSs to MustafaT80]
 [06Apr2025 18:06:40.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Applied effect Night Vision to 3 targets]
+[06Apr2025 18:08:30.303] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:woodland_mansion
+[06Apr2025 18:10:48.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to CagdasWFX]
+[06Apr2025 18:11:07.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported RealZSs to CagdasWFX]
+[06Apr2025 18:11:10.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to CagdasWFX]
+[06Apr2025 18:11:14.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Set own game mode to Adventure Mode]
+[06Apr2025 18:11:15.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Set own game mode to Survival Mode]
+[06Apr2025 18:11:17.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Set own game mode to Spectator Mode]
+[06Apr2025 18:11:24.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Set own game mode to Survival Mode]
+[06Apr2025 18:11:29.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Teleported CagdasWFX to RealZSs]
+[06Apr2025 18:11:33.626] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:beacon_arena
+[06Apr2025 18:11:34.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RealZSs moved wrongly!
+[06Apr2025 18:12:30.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Creative Mode]
+[06Apr2025 18:12:32.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Survival Mode]
+[06Apr2025 18:12:42.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Creative Mode]
+[06Apr2025 18:12:43.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Survival Mode]
+[06Apr2025 18:12:45.749] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:ore_pillars
+[06Apr2025 18:13:08.225] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:village
+[06Apr2025 18:14:05.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Creative Mode]
+[06Apr2025 18:14:07.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Survival Mode]
+[06Apr2025 18:14:48.261] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:juke_box
+[06Apr2025 18:14:58.776] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:maze
+[06Apr2025 18:15:47.877] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:boss_ravager
+[06Apr2025 18:16:00.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was slain by Piglin
+[06Apr2025 18:16:01.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Teleported CagdasWFX to RealZSs]
+[06Apr2025 18:16:02.011] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6925d4d3 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:16:02.011] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@53629103 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:16:02.011] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@6329fb2c (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[06Apr2025 18:16:02.011] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@48c31944 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:16:02.011] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@77c8d8e2 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 18:16:02.011] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2425633e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 18:16:09.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Teleported CagdasWFX to RealZSs]
+[06Apr2025 18:16:11.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs was slain by Ravager
+[06Apr2025 18:16:13.334] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6925d4d3 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:16:13.334] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@53629103 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:16:13.334] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@6329fb2c (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[06Apr2025 18:16:13.335] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@48c31944 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:16:13.335] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@77c8d8e2 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 18:16:13.335] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2425633e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 18:16:16.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported RealZSs to CagdasWFX]
+[06Apr2025 18:16:23.727] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:explorer
+[06Apr2025 18:16:24.876] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:guardians
+[06Apr2025 18:16:38.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to CagdasWFX]
+[06Apr2025 18:17:08.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was slain by Guardian
+[06Apr2025 18:17:10.115] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6925d4d3 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:17:10.115] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@53629103 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:17:10.115] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@6329fb2c (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[06Apr2025 18:17:10.115] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@48c31944 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:17:10.116] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@77c8d8e2 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 18:17:10.116] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2425633e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 18:17:12.227] [Server thread/INFO] [chancecubes/]: Triggered the reward with the name of: chancecubes:sphere_snake
+[06Apr2025 18:17:49.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to CagdasWFX]
+[06Apr2025 18:17:49.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MustafaT80 was slain by CagdasWFX
+[06Apr2025 18:17:50.846] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@6925d4d3 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:17:50.847] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@53629103 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:17:50.847] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardInfoActionArgument@6329fb2c (class chanceCubes.commands.RewardInfoActionArgument) - will not be sent to client!
+[06Apr2025 18:17:50.847] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize chanceCubes.commands.RewardArgument@48c31944 (class chanceCubes.commands.RewardArgument) - will not be sent to client!
+[06Apr2025 18:17:50.847] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@77c8d8e2 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 18:17:50.847] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2425633e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[06Apr2025 18:17:53.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Teleported MustafaT80 to CagdasWFX]
+[06Apr2025 18:17:54.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Spectator Mode]
+[06Apr2025 18:17:58.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MustafaT80: Set own game mode to Creative Mode]
