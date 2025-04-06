@@ -1,9 +1,9 @@
-[18:07:18] [INFO ] Loaded script startup_scripts:worldgen.js in 0.382 s
-[18:07:18] [INFO ] Loaded script startup_scripts:forgevent.js in 0.011 s
-[18:07:19] [INFO ] Loaded script startup_scripts:block.modification.js in 0.013 s
-[18:07:19] [INFO ] Loaded script startup_scripts:sbd.js in 0.064 s
-[18:07:19] [INFO ] Loaded script startup_scripts:registry.js in 0.02 s
-[18:07:19] [INFO ] Loaded script startup_scripts:sdrp.js in 0.038 s
-[18:07:19] [INFO ] Loaded script startup_scripts:global.js in 0.002 s
-[18:07:19] [INFO ] Loaded script startup_scripts:event_commands.js in 0.015 s
-[18:07:19] [INFO ] Loaded 8/8 KubeJS startup scripts in 1.97 s
+[15:27:44] [INFO ] Loaded script startup_scripts:worldgen.js in 0.322 s
+[15:27:44] [INFO ] Loaded script startup_scripts:forgevent.js in 0.014 s
+[15:27:44] [INFO ] Loaded script startup_scripts:block.modification.js in 0.011 s
+[15:27:44] [INFO ] Loaded script startup_scripts:sbd.js in 0.055 s
+[15:27:44] [INFO ] Loaded script startup_scripts:registry.js in 0.027 s
+[15:27:44] [INFO ] Loaded script startup_scripts:sdrp.js in 0.028 s
+[15:27:44] [INFO ] Loaded script startup_scripts:global.js in 0.002 s
+[15:27:44] [INFO ] Loaded script startup_scripts:event_commands.js in 0.009 s
+[15:27:44] [INFO ] Loaded 8/8 KubeJS startup scripts in 3.307 s
