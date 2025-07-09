@@ -17326,3 +17326,62 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Jul2025 11:49:09.910] [Server thread/INFO] [tac/]: PENDING
 [09Jul2025 11:49:26.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Creative Mode]
 [09Jul2025 11:49:35.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[09Jul2025 11:50:31.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> 227 90 -190
+[09Jul2025 11:50:57.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX was doomed to fall by Zombie
+[09Jul2025 11:50:58.183] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[09Jul2025 11:50:58.184] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[09Jul2025 11:50:58.186] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[09Jul2025 11:50:58.190] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[09Jul2025 11:50:58.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[09Jul2025 11:50:58.297] [Server thread/INFO] [tac/]: PENDING
+[09Jul2025 11:51:08.577] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[09Jul2025 11:51:08.577] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[09Jul2025 11:51:29.037] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of RealZSs: {disabled=true, disconnected=true, uuid=c6882b73-0c38-385e-98d7-5f1485ac8bbe, name=RealZSs, group=null}
+[09Jul2025 11:52:03.143] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 0] Saved.
+[09Jul2025 11:52:03.144] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -1] Saved.
+[09Jul2025 11:52:03.144] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[09Jul2025 11:52:03.144] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[09Jul2025 11:52:03.154] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[09Jul2025 11:52:03.155] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[09Jul2025 11:52:03.156] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[09Jul2025 11:52:03.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 11:52:03.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 11:52:11.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs was slain by Zombie
+[09Jul2025 11:52:11.243] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jul2025 11:52:11.243] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[09Jul2025 11:52:11.243] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 book
+[09Jul2025 11:52:11.243] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[09Jul2025 11:52:11.244] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[09Jul2025 11:52:12.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[09Jul2025 11:52:12.358] [Server thread/INFO] [tac/]: PENDING
+[09Jul2025 11:53:06.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CagdasWFX moved wrongly!
+[09Jul2025 11:53:24.655] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[09Jul2025 11:53:56.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RealZSs moved wrongly!
+[09Jul2025 11:54:02.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new Pink Transporter
+[09Jul2025 11:54:18.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs was slain by Zombie
+[09Jul2025 11:54:21.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[09Jul2025 11:54:21.041] [Server thread/INFO] [tac/]: PENDING
+[09Jul2025 11:54:28.727] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[09Jul2025 11:54:33.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set the time to 1000]
+[09Jul2025 11:56:43.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> 227 90 -190
+[09Jul2025 11:57:03.144] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[09Jul2025 11:57:03.145] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[09Jul2025 11:57:03.146] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[09Jul2025 11:57:03.146] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-92
+[09Jul2025 11:57:03.147] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
+[09Jul2025 11:57:03.148] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 0] Saved.
+[09Jul2025 11:57:03.149] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 0] Saved.
+[09Jul2025 11:57:03.158] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[09Jul2025 11:57:03.159] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[09Jul2025 11:57:03.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 11:57:03.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 11:57:34.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new Crimson Wood Car
+[09Jul2025 11:57:37.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Disme A Dozen]
+[09Jul2025 11:57:42.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs was slain by Infected Police
+[09Jul2025 11:57:43.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[09Jul2025 11:57:43.399] [Server thread/INFO] [tac/]: PENDING
+[09Jul2025 11:57:48.677] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[09Jul2025 11:58:38.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new Purple Transporter
+[09Jul2025 11:59:33.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has reached the goal [Modern Materials]
+[09Jul2025 11:59:33.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Acquire Hardware]
+[09Jul2025 12:00:24.849] [IO-Worker-93/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96

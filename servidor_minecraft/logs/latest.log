@@ -1168,3 +1168,31 @@
 [09Jul2025 11:49:09.910] [Server thread/INFO] [tac/]: PENDING
 [09Jul2025 11:49:26.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Creative Mode]
 [09Jul2025 11:49:35.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[09Jul2025 11:50:31.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> 227 90 -190
+[09Jul2025 11:50:57.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX was doomed to fall by Zombie
+[09Jul2025 11:50:58.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[09Jul2025 11:50:58.297] [Server thread/INFO] [tac/]: PENDING
+[09Jul2025 11:52:11.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs was slain by Zombie
+[09Jul2025 11:52:11.243] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jul2025 11:52:11.243] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[09Jul2025 11:52:11.243] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 book
+[09Jul2025 11:52:11.243] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[09Jul2025 11:52:11.244] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[09Jul2025 11:52:12.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[09Jul2025 11:52:12.358] [Server thread/INFO] [tac/]: PENDING
+[09Jul2025 11:53:06.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CagdasWFX moved wrongly!
+[09Jul2025 11:53:56.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RealZSs moved wrongly!
+[09Jul2025 11:54:02.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new Pink Transporter
+[09Jul2025 11:54:18.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs was slain by Zombie
+[09Jul2025 11:54:21.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[09Jul2025 11:54:21.041] [Server thread/INFO] [tac/]: PENDING
+[09Jul2025 11:54:33.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set the time to 1000]
+[09Jul2025 11:56:43.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> 227 90 -190
+[09Jul2025 11:57:34.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new Crimson Wood Car
+[09Jul2025 11:57:37.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Disme A Dozen]
+[09Jul2025 11:57:42.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs was slain by Infected Police
+[09Jul2025 11:57:43.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[09Jul2025 11:57:43.399] [Server thread/INFO] [tac/]: PENDING
+[09Jul2025 11:58:38.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new Purple Transporter
+[09Jul2025 11:59:33.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has reached the goal [Modern Materials]
+[09Jul2025 11:59:33.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Acquire Hardware]
