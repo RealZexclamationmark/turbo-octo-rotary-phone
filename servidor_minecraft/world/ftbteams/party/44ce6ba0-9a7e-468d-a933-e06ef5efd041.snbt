@@ -1,0 +1,22 @@
+{
+	id: "44ce6ba0-9a7e-468d-a933-e06ef5efd041"
+	type: "party"
+	owner: "c6882b73-0c38-385e-98d7-5f1485ac8bbe"
+	ranks: {
+		c6882b73-0c38-385e-98d7-5f1485ac8bbe: "owner"
+		f1f8f6db-5d46-3b59-aead-a34997a0cdc6: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "RealZSs's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59E6FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752089374225L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"RealZSs\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "c6882b73-0c38-385e-98d7-5f1485ac8bbe", date: 1752089374235L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"CagdasWFX\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752089378736L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"CagdasWFX\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}
