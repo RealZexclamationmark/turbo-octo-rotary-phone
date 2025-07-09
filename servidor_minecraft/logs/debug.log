@@ -17231,3 +17231,38 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Jul2025 18:54:24.358] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2753 in deceasedcraft:abyss
 [09Jul2025 18:54:24.358] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2753 in minecraft:the_nether
 [09Jul2025 18:54:24.398] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2753 in minecraft:overworld
+[09Jul2025 18:55:32.610] [IO-Worker-84/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[09Jul2025 18:55:32.638] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[09Jul2025 18:55:34.598] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[09Jul2025 18:55:34.598] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[09Jul2025 18:55:42.212] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[09Jul2025 18:55:42.213] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[09Jul2025 18:55:42.214] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[09Jul2025 18:55:42.224] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[09Jul2025 18:55:42.225] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-92
+[09Jul2025 18:55:42.226] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
+[09Jul2025 18:55:42.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 18:55:42.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 18:55:54.289] [Worker-Main20/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[1, -2]
+[09Jul2025 18:56:22.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Close Quarters]
+[09Jul2025 18:58:50.497] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[09Jul2025 18:58:54.798] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[09Jul2025 18:58:58.102] [IO-Worker-91/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[09Jul2025 19:00:42.211] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[09Jul2025 19:00:42.212] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[09Jul2025 19:00:42.212] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96
+[09Jul2025 19:00:42.212] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -2] Saved.
+[09Jul2025 19:00:42.213] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-97
+[09Jul2025 19:00:42.225] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
+[09Jul2025 19:00:42.225] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[09Jul2025 19:00:42.226] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
+[09Jul2025 19:00:42.227] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[09Jul2025 19:00:42.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 19:00:42.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 19:02:14.698] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[09Jul2025 19:02:53.360] [IO-Worker-101/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[09Jul2025 19:02:53.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new Oak Wood Car
+[09Jul2025 19:03:34.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new Yellow Transporter
+[09Jul2025 19:04:18.312] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[09Jul2025 19:04:21.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has completed the challenge [I'm not sugar coating it]
+[09Jul2025 19:04:24.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has completed the challenge [Yo mama so fat, she can summon zombies]
