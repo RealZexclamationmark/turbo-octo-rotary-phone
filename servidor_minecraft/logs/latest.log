@@ -1314,3 +1314,31 @@ java.lang.NullPointerException: Cannot invoke "shadows.click.block.AutoClickerTi
 [09Jul2025 21:23:57.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
 [09Jul2025 21:24:27.408] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [09Jul2025 21:24:29.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Spectator Mode]
+[09Jul2025 21:31:39.754] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CagdasWFX lost connection: Disconnected
+[09Jul2025 21:31:39.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX left the game
+[09Jul2025 21:31:39.755] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f1f8f6db-5d46-3b59-aead-a34997a0cdc6
+[09Jul2025 21:31:39.756] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CagdasWFX
+[09Jul2025 21:31:40.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RealZSs lost connection: Disconnected
+[09Jul2025 21:31:40.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs left the game
+[09Jul2025 21:31:40.903] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for c6882b73-0c38-385e-98d7-5f1485ac8bbe
+[09Jul2025 21:31:40.903] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 287753, 261804
+[09Jul2025 21:31:40.904] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RealZSs
+[09Jul2025 21:31:52.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[09Jul2025 21:31:52.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Jul2025 21:31:52.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Jul2025 21:31:52.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Jul2025 21:31:52.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Jul2025 21:31:52.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Jul2025 21:31:52.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[09Jul2025 21:31:52.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deceasedcraft:abyss
+[09Jul2025 21:31:52.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Jul2025 21:31:52.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Jul2025 21:31:52.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Jul2025 21:31:52.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[09Jul2025 21:31:52.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (abyss): All chunks are saved
+[09Jul2025 21:31:52.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Jul2025 21:31:52.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Jul2025 21:31:52.555] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[09Jul2025 21:31:52.565] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[09Jul2025 21:31:52.567] [Server thread/INFO] [configured/]: Unloading server configs...
+[09Jul2025 21:31:52.567] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
