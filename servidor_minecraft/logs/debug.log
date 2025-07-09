@@ -17740,3 +17740,62 @@ java.lang.NullPointerException: Cannot invoke "shadows.click.block.AutoClickerTi
 [09Jul2025 20:44:25.075] [Worker-Main10/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[0, 2]
 [09Jul2025 20:45:35.148] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
 [09Jul2025 20:45:35.148] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[09Jul2025 20:45:42.214] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 1] Saved.
+[09Jul2025 20:45:42.214] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 0] Saved.
+[09Jul2025 20:45:42.214] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 2] Saved.
+[09Jul2025 20:45:42.215] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-291
+[09Jul2025 20:45:42.217] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[09Jul2025 20:45:42.218] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 0] Saved.
+[09Jul2025 20:45:42.218] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 2] Saved.
+[09Jul2025 20:45:42.218] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 1] Saved.
+[09Jul2025 20:45:42.224] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-292
+[09Jul2025 20:45:42.226] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-293
+[09Jul2025 20:45:42.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 20:45:42.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 20:45:51.158] [Worker-Main17/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[1, 3]
+[09Jul2025 20:45:55.569] [Worker-Main9/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[0, 3]
+[09Jul2025 20:47:04.786] [Worker-Main10/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[0, 4]
+[09Jul2025 20:47:07.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Creative Mode]
+[09Jul2025 20:47:08.775] [Worker-Main4/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[1, 4]
+[09Jul2025 20:47:14.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[09Jul2025 20:47:27.929] [IO-Worker-285/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-294
+[09Jul2025 20:48:29.564] [IO-Worker-292/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-295
+[09Jul2025 20:48:29.565] [IO-Worker-285/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-296
+[09Jul2025 20:48:55.348] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[09Jul2025 20:50:09.310] [IO-Worker-296/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-297
+[09Jul2025 20:50:16.850] [IO-Worker-296/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-298
+[09Jul2025 20:50:27.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Spectator Mode]
+[09Jul2025 20:50:28.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[09Jul2025 20:50:42.211] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-299
+[09Jul2025 20:50:42.212] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 3] Saved.
+[09Jul2025 20:50:42.212] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 2] Saved.
+[09Jul2025 20:50:42.212] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 4] Saved.
+[09Jul2025 20:50:42.213] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-300
+[09Jul2025 20:50:42.214] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[09Jul2025 20:50:42.214] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 2] Saved.
+[09Jul2025 20:50:42.214] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 4] Saved.
+[09Jul2025 20:50:42.215] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 3] Saved.
+[09Jul2025 20:50:42.222] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-301
+[09Jul2025 20:50:42.223] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-302
+[09Jul2025 20:50:42.224] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-303
+[09Jul2025 20:50:42.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 20:50:42.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 20:50:48.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Mine? Mine? Mine?]
+[09Jul2025 20:52:15.248] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[09Jul2025 20:52:24.364] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of RealZSs: {disabled=true, disconnected=true, uuid=c6882b73-0c38-385e-98d7-5f1485ac8bbe, name=RealZSs, group=null}
+[09Jul2025 20:52:37.153] [IO-Worker-297/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-304
+[09Jul2025 20:53:30.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Keep Going]
+[09Jul2025 20:55:35.198] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[09Jul2025 20:55:35.198] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[09Jul2025 20:55:42.210] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-305
+[09Jul2025 20:55:42.210] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-306
+[09Jul2025 20:55:42.210] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-307
+[09Jul2025 20:55:42.212] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-308
+[09Jul2025 20:55:42.212] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 4] Saved.
+[09Jul2025 20:55:42.213] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 3] Saved.
+[09Jul2025 20:55:42.219] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-309
+[09Jul2025 20:55:42.220] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-310
+[09Jul2025 20:55:42.221] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-311
+[09Jul2025 20:55:42.221] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-312
+[09Jul2025 20:55:42.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 20:55:42.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

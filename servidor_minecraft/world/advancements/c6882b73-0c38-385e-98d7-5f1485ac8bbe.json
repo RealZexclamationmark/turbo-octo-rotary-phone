@@ -408,6 +408,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-07-09 20:50:48 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:root": {
     "criteria": {
       "controller_in_inventory": "2025-07-09 11:37:11 +0000"
@@ -447,12 +453,17 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-07-09 18:44:02 +0000",
+      "scrubland": "2025-07-09 20:47:36 +0000",
       "jade_cliffs": "2025-07-09 20:39:37 +0000",
+      "clover_patch": "2025-07-09 20:42:34 +0000",
       "orchard": "2025-07-09 11:44:06 +0000",
+      "mediterranean_forest": "2025-07-09 20:47:12 +0000",
+      "redwood_forest": "2025-07-09 20:42:05 +0000",
       "dune_beach": "2025-07-09 11:22:16 +0000",
       "pasture": "2025-07-09 11:22:28 +0000",
       "lavender_field": "2025-07-09 18:46:27 +0000",
-      "prairie": "2025-07-09 11:23:16 +0000"
+      "prairie": "2025-07-09 11:23:16 +0000",
+      "grassland": "2025-07-09 20:42:39 +0000"
     },
     "done": false
   },
@@ -464,7 +475,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2025-07-09 11:22:56 +0000"
+      "minecraft:deep_ocean": "2025-07-09 20:44:01 +0000",
+      "minecraft:beach": "2025-07-09 20:43:46 +0000",
+      "minecraft:river": "2025-07-09 11:22:56 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-09 20:45:09 +0000",
+      "minecraft:ocean": "2025-07-09 20:43:49 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-09 20:44:21 +0000"
     },
     "done": false
   },

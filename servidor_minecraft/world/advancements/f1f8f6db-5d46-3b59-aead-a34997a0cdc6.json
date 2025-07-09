@@ -54,6 +54,12 @@
     },
     "done": true
   },
+  "ag_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement": "2025-07-09 20:53:30 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/thermolith": {
     "criteria": {
       "has_recipe": "2025-07-09 11:22:21 +0000"
@@ -442,12 +448,17 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-07-09 11:47:50 +0000",
+      "scrubland": "2025-07-09 20:47:34 +0000",
       "jade_cliffs": "2025-07-09 20:39:31 +0000",
+      "clover_patch": "2025-07-09 20:42:34 +0000",
       "orchard": "2025-07-09 11:35:41 +0000",
+      "mediterranean_forest": "2025-07-09 20:47:15 +0000",
+      "redwood_forest": "2025-07-09 20:42:04 +0000",
       "dune_beach": "2025-07-09 11:22:21 +0000",
       "pasture": "2025-07-09 11:22:43 +0000",
       "lavender_field": "2025-07-09 11:47:53 +0000",
-      "prairie": "2025-07-09 11:22:57 +0000"
+      "prairie": "2025-07-09 11:22:57 +0000",
+      "grassland": "2025-07-09 20:42:39 +0000"
     },
     "done": false
   },
@@ -459,10 +470,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-07-09 20:44:03 +0000",
       "minecraft:sunflower_plains": "2025-07-09 11:30:14 +0000",
       "minecraft:beach": "2025-07-09 11:32:10 +0000",
       "minecraft:river": "2025-07-09 11:22:53 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-09 20:45:21 +0000",
       "minecraft:ocean": "2025-07-09 11:34:27 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-09 20:44:24 +0000",
       "minecraft:flower_forest": "2025-07-09 11:30:46 +0000"
     },
     "done": false
