@@ -17422,3 +17422,169 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Jul2025 12:07:03.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jul2025 12:07:03.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Jul2025 12:07:48.727] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[09Jul2025 12:11:08.677] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[09Jul2025 12:11:08.677] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[09Jul2025 12:11:54.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Sweet Dreams]
+[09Jul2025 12:11:59.240] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2093 in minecraft:the_nether
+[09Jul2025 12:11:59.240] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2093 in minecraft:the_end
+[09Jul2025 12:11:59.241] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2093 in deceasedcraft:abyss
+[09Jul2025 12:11:59.241] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2093 in lostcities:lostcity
+[09Jul2025 12:11:59.277] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2093 in minecraft:overworld
+[09Jul2025 12:12:03.142] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[09Jul2025 12:12:03.142] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[09Jul2025 12:12:03.143] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[09Jul2025 12:12:03.143] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[09Jul2025 12:12:03.150] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[09Jul2025 12:12:03.150] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[09Jul2025 12:12:03.151] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[09Jul2025 12:12:03.151] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[09Jul2025 12:12:03.152] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[09Jul2025 12:12:03.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 12:12:03.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 12:14:24.293] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[09Jul2025 12:14:24.293] [IO-Worker-112/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[09Jul2025 12:14:24.293] [IO-Worker-121/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[09Jul2025 12:14:28.827] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[09Jul2025 12:15:52.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new Blue Transporter
+[09Jul2025 12:16:10.908] [IO-Worker-121/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-124
+[09Jul2025 12:17:03.145] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -1] Saved.
+[09Jul2025 12:17:03.145] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
+[09Jul2025 12:17:03.154] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-126
+[09Jul2025 12:17:03.155] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-127
+[09Jul2025 12:17:03.155] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-128
+[09Jul2025 12:17:03.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 12:17:03.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 12:17:35.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RealZSs lost connection: Disconnected
+[09Jul2025 12:17:35.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs left the game
+[09Jul2025 12:17:35.097] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for c6882b73-0c38-385e-98d7-5f1485ac8bbe
+[09Jul2025 12:17:35.101] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RealZSs
+[09Jul2025 12:17:35.101] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of RealZSs
+[09Jul2025 12:17:48.777] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[09Jul2025 12:18:26.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[09Jul2025 12:18:26.632] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[09Jul2025 12:18:26.633] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: f1f8f6db-5d46-3b59-aead-a34997a0cdc6
+[09Jul2025 12:18:26.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Jul2025 12:18:26.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Jul2025 12:18:26.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CagdasWFX lost connection: Server closed
+[09Jul2025 12:18:26.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX left the game
+[09Jul2025 12:18:26.647] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f1f8f6db-5d46-3b59-aead-a34997a0cdc6
+[09Jul2025 12:18:26.649] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of CagdasWFX
+[09Jul2025 12:18:26.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Jul2025 12:18:27.224] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=606, y=210, z=79}
+[09Jul2025 12:18:27.224] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=606, y=211, z=79}
+[09Jul2025 12:18:27.225] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=606, y=211, z=79}
+[09Jul2025 12:18:27.225] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=606, y=211, z=79}
+[09Jul2025 12:18:27.225] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=210, z=79}
+[09Jul2025 12:18:27.225] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=210, z=79}
+[09Jul2025 12:18:27.225] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=210, z=79}
+[09Jul2025 12:18:27.226] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=607, y=211, z=79}
+[09Jul2025 12:18:27.227] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=210, z=79}
+[09Jul2025 12:18:27.227] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=210, z=79}
+[09Jul2025 12:18:27.227] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=210, z=79}
+[09Jul2025 12:18:27.227] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=212, z=79}
+[09Jul2025 12:18:27.227] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=212, z=79}
+[09Jul2025 12:18:27.227] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=212, z=79}
+[09Jul2025 12:18:27.227] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=606, y=211, z=79}
+[09Jul2025 12:18:27.228] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=606, y=211, z=79}
+[09Jul2025 12:18:27.228] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=606, y=211, z=79}
+[09Jul2025 12:18:27.228] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=607, y=212, z=79}
+[09Jul2025 12:18:27.228] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=211, z=79}
+[09Jul2025 12:18:27.228] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=211, z=79}
+[09Jul2025 12:18:27.228] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=211, z=79}
+[09Jul2025 12:18:27.228] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=606, y=212, z=79}
+[09Jul2025 12:18:27.229] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=606, y=212, z=79}
+[09Jul2025 12:18:27.229] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=606, y=212, z=79}
+[09Jul2025 12:18:27.431] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=607, y=211, z=80}
+[09Jul2025 12:18:27.431] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=212, z=80}
+[09Jul2025 12:18:27.431] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=212, z=80}
+[09Jul2025 12:18:27.431] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=212, z=80}
+[09Jul2025 12:18:27.431] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=211, z=79}
+[09Jul2025 12:18:27.431] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=211, z=79}
+[09Jul2025 12:18:27.432] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=211, z=79}
+[09Jul2025 12:18:27.432] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=211, z=81}
+[09Jul2025 12:18:27.432] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=211, z=81}
+[09Jul2025 12:18:27.432] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=211, z=81}
+[09Jul2025 12:18:27.432] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=607, y=212, z=80}
+[09Jul2025 12:18:27.432] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=211, z=80}
+[09Jul2025 12:18:27.432] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=211, z=80}
+[09Jul2025 12:18:27.432] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=211, z=80}
+[09Jul2025 12:18:27.432] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=213, z=80}
+[09Jul2025 12:18:27.432] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=213, z=80}
+[09Jul2025 12:18:27.433] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=213, z=80}
+[09Jul2025 12:18:27.433] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=212, z=79}
+[09Jul2025 12:18:27.433] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=212, z=79}
+[09Jul2025 12:18:27.433] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=212, z=79}
+[09Jul2025 12:18:27.433] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=607, y=213, z=80}
+[09Jul2025 12:18:27.433] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=212, z=80}
+[09Jul2025 12:18:27.433] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=212, z=80}
+[09Jul2025 12:18:27.433] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=212, z=80}
+[09Jul2025 12:18:27.433] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=607, y=210, z=95}
+[09Jul2025 12:18:27.434] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=210, z=94}
+[09Jul2025 12:18:27.434] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=210, z=94}
+[09Jul2025 12:18:27.434] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=210, z=94}
+[09Jul2025 12:18:27.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Jul2025 12:18:27.652] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 0] Saved.
+[09Jul2025 12:18:27.653] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -1] Saved.
+[09Jul2025 12:18:30.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Jul2025 12:18:30.138] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-129
+[09Jul2025 12:18:30.138] [IO-Worker-128/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-130
+[09Jul2025 12:18:30.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Jul2025 12:18:30.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deceasedcraft:abyss
+[09Jul2025 12:18:30.140] [IO-Worker-124/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-132
+[09Jul2025 12:18:30.140] [IO-Worker-127/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-131
+[09Jul2025 12:18:30.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[09Jul2025 12:18:30.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 12:18:30.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 12:18:30.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Jul2025 12:18:30.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Jul2025 12:18:30.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Jul2025 12:18:30.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (abyss): All chunks are saved
+[09Jul2025 12:18:30.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[09Jul2025 12:18:30.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Jul2025 12:18:30.208] [Server thread/DEBUG] [mixin/]: Mixing common.access.entity.AccessFakePlayerFactory from crafttweaker.forge.mixins.json into net.minecraftforge.common.util.FakePlayerFactory
+[09Jul2025 12:18:30.208] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getFakePlayers()Ljava/util/Map; to crafttweaker$getFakePlayers_$md$b4bbd9$0 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[09Jul2025 12:18:30.208] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getMINECRAFT()Lcom/mojang/authlib/GameProfile; to crafttweaker$getMINECRAFT_$md$b4bbd9$1 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[09Jul2025 12:18:30.210] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[09Jul2025 12:18:30.210] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[09Jul2025 12:18:30.238] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[09Jul2025 12:18:30.238] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[09Jul2025 12:18:30.238] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[09Jul2025 12:18:30.238] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[09Jul2025 12:18:30.238] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for null
+[09Jul2025 12:18:30.238] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for null
+[09Jul2025 12:18:30.239] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for lostcities:lostcity
+[09Jul2025 12:18:30.239] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for lostcities:lostcity
+[09Jul2025 12:18:30.239] [Worker-Main3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main3 shutdown
+[09Jul2025 12:18:30.239] [Worker-Main12/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main12 shutdown
+[09Jul2025 12:18:30.239] [Worker-Main7/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main7 shutdown
+[09Jul2025 12:18:30.240] [Worker-Main16/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main16 shutdown
+[09Jul2025 12:18:30.240] [Worker-Main11/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main11 shutdown
+[09Jul2025 12:18:30.240] [Worker-Main10/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main10 shutdown
+[09Jul2025 12:18:30.240] [Worker-Main24/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main24 shutdown
+[09Jul2025 12:18:30.240] [Worker-Main22/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main22 shutdown
+[09Jul2025 12:18:30.240] [Worker-Main19/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main19 shutdown
+[09Jul2025 12:18:30.240] [Worker-Main18/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main18 shutdown
+[09Jul2025 12:18:30.240] [Worker-Main17/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main17 shutdown
+[09Jul2025 12:18:30.240] [Worker-Main2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main2 shutdown
+[09Jul2025 12:18:30.240] [Worker-Main13/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main13 shutdown
+[09Jul2025 12:18:30.240] [Worker-Main14/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main14 shutdown
+[09Jul2025 12:18:30.240] [Worker-Main5/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main5 shutdown
+[09Jul2025 12:18:30.240] [Worker-Main15/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main15 shutdown
+[09Jul2025 12:18:30.240] [Worker-Main23/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main23 shutdown
+[09Jul2025 12:18:30.240] [Worker-Main4/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main4 shutdown
+[09Jul2025 12:18:30.240] [Worker-Main20/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main20 shutdown
+[09Jul2025 12:18:30.239] [Worker-Main21/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main21 shutdown
+[09Jul2025 12:18:30.240] [Worker-Main6/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main6 shutdown
+[09Jul2025 12:18:30.240] [Worker-Main8/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main8 shutdown
+[09Jul2025 12:18:30.241] [Worker-Main9/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main9 shutdown
+[09Jul2025 12:18:30.242] [Server thread/DEBUG] [immersivepetroleum/]: [ReservoirIslands]: Clearing Cache...
+[09Jul2025 12:18:30.242] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[09Jul2025 12:18:30.242] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[09Jul2025 12:18:30.242] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[09Jul2025 12:18:30.243] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[09Jul2025 12:18:30.251] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[09Jul2025 12:18:30.252] [Server thread/INFO] [configured/]: Unloading server configs...
+[09Jul2025 12:18:30.253] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
+[09Jul2025 12:18:30.253] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[09Jul2025 12:18:30.254] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[09Jul2025 12:18:30.254] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
