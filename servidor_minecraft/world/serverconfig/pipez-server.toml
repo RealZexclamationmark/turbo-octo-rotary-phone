@@ -5,19 +5,19 @@
 		#The speed at which items are transferred
 		#A value of 1 means every tick
 		#Range: > 1
-		no_upgrade = 20
+		no_upgrade = 15
 		#The speed at which items are transferred
 		#A value of 1 means every tick
 		#Range: > 1
-		basic = 15
+		basic = 10
 		#The speed at which items are transferred
 		#A value of 1 means every tick
 		#Range: > 1
-		improved = 10
+		improved = 5
 		#The speed at which items are transferred
 		#A value of 1 means every tick
 		#Range: > 1
-		advanced = 5
+		advanced = 3
 		#The speed at which items are transferred
 		#A value of 1 means every tick
 		#Range: > 1
@@ -64,16 +64,16 @@
 	[energy_pipe.amount]
 		#The amount of FE transferred each tick
 		#Range: > 1
-		no_upgrade = 256
+		no_upgrade = 8192
 		#The amount of FE transferred each tick
 		#Range: > 1
-		basic = 1024
+		basic = 16384
 		#The amount of FE transferred each tick
 		#Range: > 1
-		improved = 8192
+		improved = 32768
 		#The amount of FE transferred each tick
 		#Range: > 1
-		advanced = 32768
+		advanced = 65536
 		#The amount of FE transferred each tick
 		#Range: > 1
 		ultimate = 131072

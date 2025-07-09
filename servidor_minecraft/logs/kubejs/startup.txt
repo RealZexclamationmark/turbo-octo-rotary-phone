@@ -1,9 +1,8 @@
-[15:27:44] [INFO ] Loaded script startup_scripts:worldgen.js in 0.322 s
-[15:27:44] [INFO ] Loaded script startup_scripts:forgevent.js in 0.014 s
-[15:27:44] [INFO ] Loaded script startup_scripts:block.modification.js in 0.011 s
-[15:27:44] [INFO ] Loaded script startup_scripts:sbd.js in 0.055 s
-[15:27:44] [INFO ] Loaded script startup_scripts:registry.js in 0.027 s
-[15:27:44] [INFO ] Loaded script startup_scripts:sdrp.js in 0.028 s
-[15:27:44] [INFO ] Loaded script startup_scripts:global.js in 0.002 s
-[15:27:44] [INFO ] Loaded script startup_scripts:event_commands.js in 0.009 s
-[15:27:44] [INFO ] Loaded 8/8 KubeJS startup scripts in 3.307 s
+[10:05:57] [INFO ] Loaded script startup_scripts:ore_removal.js in 0.13 s
+[10:05:57] [INFO ] Loaded mutation_sickness_check.js
+[10:05:57] [INFO ] Loaded script startup_scripts:mutation_ignore.js in 0.013 s
+[10:05:57] [INFO ] Hello, World! (You will only see this line once in console, during startup)
+[10:05:57] [INFO ] Loaded script startup_scripts:script.js in 0.002 s
+[10:05:57] [INFO ] Loaded script startup_scripts:abyss_portal.js in 0.007 s
+[10:05:57] [INFO ] Loaded 4/4 KubeJS startup scripts in 0.954 s
+[10:05:57] [WARN ] Class filter is disabled!

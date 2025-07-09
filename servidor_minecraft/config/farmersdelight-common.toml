@@ -13,11 +13,24 @@
 	#How much of a bonus (in percentage) should each level of Fortune grant to Cutting Board chances? Set it to 0.0 to disable this.
 	#Range: 0.0 ~ 1.0
 	cuttingBoardFortuneBonus = 0.1
+	#Should players be able to reel back rope, bottom to top, when sneak-using with an empty hand on them?
+	enableRopeReeling = true
 	#A list of dye colors that, when used as the background of a Canvas Sign, should default to white text when placed.
 	#Dyes: ["white", "orange", "magenta", "light_blue", "yellow", "lime", "pink", "gray", "light_gray", "cyan", "purple", "blue", "brown", "green", "red", "black"]
 	canvasSignDarkBackgroundList = ["gray", "purple", "blue", "brown", "green", "red", "black"]
-	#Should players be able to reel back rope, bottom to top, when sneak-using with an empty hand on them?
-	enableRopeReeling = true
+
+#Farming
+[farming]
+	#Which rope should Tomato Vines leave behind when mined by hand?
+	defaultTomatoVineRope = "farmersdelight:rope"
+	#Should tomato vines be able to climb any rope tagged as farmersdelight:ropes?
+	#Beware: this will convert these blocks into the block specified in defaultTomatoVineRope.
+	enableTomatoVineClimbingTaggedRopes = true
+
+#Recipe book
+[recipe_book]
+	#Should the Cooking Pot have a Recipe Book available on its interface?
+	enableRecipeBookCookingPot = true
 
 #Vanilla item overrides
 [overrides]
@@ -113,17 +126,4 @@
 		#Chance of generating clusters. Smaller value = more frequent.
 		#Range: > 0
 		chance = 15
-
-#Farming
-[farming]
-	#Which rope should Tomato Vines leave behind when mined by hand?
-	defaultTomatoVineRope = "farmersdelight:rope"
-	#Should tomato vines be able to climb any rope tagged as farmersdelight:ropes?
-	#Beware: this will convert these blocks into the block specified in defaultTomatoVineRope.
-	enableTomatoVineClimbingTaggedRopes = true
-
-#Recipe book
-[recipe_book]
-	#Should the Cooking Pot have a Recipe Book available on its interface?
-	enableRecipeBookCookingPot = true
 
