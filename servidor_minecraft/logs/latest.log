@@ -1176,3 +1176,14 @@ java.lang.NullPointerException: Cannot invoke "shadows.click.block.AutoClickerTi
 [09Jul2025 20:14:57.197] [Server thread/INFO] [tac/]: PENDING
 [09Jul2025 20:16:51.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Teleported CagdasWFX to RealZSs]
 [09Jul2025 20:21:05.754] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[09Jul2025 20:26:15.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Suit Up]
+[09Jul2025 20:27:51.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new Blue Transporter
+[09Jul2025 20:28:06.268] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[09Jul2025 20:28:06.268] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2025-07-09_11-22-17.zip"
+[09Jul2025 20:28:37.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new Birch Wood Car
+[09Jul2025 20:29:08.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [The green bar grows.]
+[09Jul2025 20:30:55.654] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[09Jul2025 20:32:57.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs was slain by Zombie
+[09Jul2025 20:32:58.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[09Jul2025 20:32:58.968] [Server thread/INFO] [tac/]: PENDING
+[09Jul2025 20:33:30.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Keep Going]
