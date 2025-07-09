@@ -17432,3 +17432,38 @@ java.lang.NullPointerException: Cannot invoke "shadows.click.block.AutoClickerTi
 [09Jul2025 19:33:27.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Almost.]
 [09Jul2025 19:33:27.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [They're out there...]
 [09Jul2025 19:34:40.666] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[09Jul2025 19:35:34.798] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[09Jul2025 19:35:34.798] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[09Jul2025 19:35:42.218] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-160
+[09Jul2025 19:35:42.220] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-161
+[09Jul2025 19:35:42.222] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-162
+[09Jul2025 19:35:42.237] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-163
+[09Jul2025 19:35:42.239] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-164
+[09Jul2025 19:35:42.241] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-165
+[09Jul2025 19:35:42.242] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-166
+[09Jul2025 19:35:42.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 19:35:42.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 19:36:37.679] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[09Jul2025 19:36:55.112] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[09Jul2025 19:38:22.311] [IO-Worker-162/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-167
+[09Jul2025 19:38:39.757] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[09Jul2025 19:38:47.306] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[09Jul2025 19:38:54.998] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[09Jul2025 19:39:26.620] [IO-Worker-162/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-168
+[09Jul2025 19:39:55.121] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[09Jul2025 19:40:14.367] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[09Jul2025 19:40:42.213] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-169
+[09Jul2025 19:40:42.214] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-170
+[09Jul2025 19:40:42.214] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-171
+[09Jul2025 19:40:42.215] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-172
+[09Jul2025 19:40:42.224] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-173
+[09Jul2025 19:40:42.225] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-174
+[09Jul2025 19:40:42.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 19:40:42.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 19:41:28.972] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[09Jul2025 19:41:52.310] [IO-Worker-172/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-175
+[09Jul2025 19:42:14.898] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[09Jul2025 19:44:07.969] [IO-Worker-175/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-176
+[09Jul2025 19:44:45.961] [IO-Worker-172/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-177
+[09Jul2025 19:44:47.213] [IO-Worker-172/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-179
+[09Jul2025 19:44:47.213] [IO-Worker-177/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-178

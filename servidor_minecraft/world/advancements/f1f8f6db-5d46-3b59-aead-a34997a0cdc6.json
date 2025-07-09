@@ -96,6 +96,12 @@
     },
     "done": true
   },
+  "nameless_trinkets:obtain/broken_magnet": {
+    "criteria": {
+      "broken_magnet": "2025-07-09 19:33:27 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-07-09 11:22:21 +0000"
@@ -289,6 +295,12 @@
     },
     "done": true
   },
+  "crossbowverhaul:recipes/combat/bolt_diamond": {
+    "criteria": {
+      "has_ingot": "2025-07-09 19:31:03 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-07-09 11:22:21 +0000"
@@ -316,6 +328,12 @@
   "crossbowverhaul:recipes/combat/crossbow_netherite": {
     "criteria": {
       "has_crossbow": "2025-07-09 11:22:21 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/root": {
+    "criteria": {
+      "obtain": "2025-07-09 19:33:27 +0000"
     },
     "done": true
   },
@@ -638,6 +656,12 @@
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-07-09 18:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-09 19:31:03 +0000"
     },
     "done": true
   },
