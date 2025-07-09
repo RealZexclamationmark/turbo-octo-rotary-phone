@@ -156,6 +156,12 @@
     },
     "done": true
   },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy": "2025-07-09 19:04:24 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-07-09 11:22:16 +0000"
@@ -530,6 +536,12 @@
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-07-09 11:22:16 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat": "2025-07-09 19:04:21 +0000"
     },
     "done": true
   },

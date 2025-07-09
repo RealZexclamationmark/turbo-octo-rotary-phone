@@ -17266,3 +17266,38 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Jul2025 19:04:18.312] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
 [09Jul2025 19:04:21.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has completed the challenge [I'm not sugar coating it]
 [09Jul2025 19:04:24.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has completed the challenge [Yo mama so fat, she can summon zombies]
+[09Jul2025 19:04:48.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new Purple Transporter
+[09Jul2025 19:05:34.648] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[09Jul2025 19:05:34.648] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[09Jul2025 19:05:42.214] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[09Jul2025 19:05:42.216] [IO-Worker-101/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[09Jul2025 19:05:42.225] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[09Jul2025 19:05:42.225] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[09Jul2025 19:05:42.226] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[09Jul2025 19:05:42.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 19:05:42.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 19:07:55.708] [IO-Worker-104/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[09Jul2025 19:08:54.848] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[09Jul2025 19:09:01.765] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[09Jul2025 19:09:01.765] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[09Jul2025 19:10:34.561] [IO-Worker-111/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[09Jul2025 19:10:42.213] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[09Jul2025 19:10:42.214] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[09Jul2025 19:10:42.225] [IO-Worker-104/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[09Jul2025 19:10:42.225] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[09Jul2025 19:10:42.225] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[09Jul2025 19:10:42.226] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[09Jul2025 19:10:42.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 19:10:42.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 19:12:14.748] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[09Jul2025 19:12:19.418] [IO-Worker-115/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[09Jul2025 19:13:30.756] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1073 in minecraft:the_end
+[09Jul2025 19:13:30.757] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1073 in lostcities:lostcity
+[09Jul2025 19:13:30.757] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1073 in deceasedcraft:abyss
+[09Jul2025 19:13:30.758] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1073 in minecraft:the_nether
+[09Jul2025 19:13:30.798] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1073 in minecraft:overworld
+[09Jul2025 19:13:52.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Enabled friendly fire for team [a]]
+[09Jul2025 19:14:00.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX was slain by RealZSs
+[09Jul2025 19:14:01.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[09Jul2025 19:14:01.616] [Server thread/INFO] [tac/]: PENDING
+[09Jul2025 19:14:03.167] [IO-Worker-119/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
