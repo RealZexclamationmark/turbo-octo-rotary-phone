@@ -410,9 +410,11 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-07-09 18:44:02 +0000",
       "orchard": "2025-07-09 11:44:06 +0000",
       "dune_beach": "2025-07-09 11:22:16 +0000",
       "pasture": "2025-07-09 11:22:28 +0000",
+      "lavender_field": "2025-07-09 18:46:27 +0000",
       "prairie": "2025-07-09 11:23:16 +0000"
     },
     "done": false

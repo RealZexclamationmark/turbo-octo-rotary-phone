@@ -17190,3 +17190,44 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Jul2025 18:42:26.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> 281 -280
 [09Jul2025 18:42:44.105] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
 [09Jul2025 18:44:07.552] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[09Jul2025 18:45:34.548] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[09Jul2025 18:45:34.548] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[09Jul2025 18:45:38.669] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[09Jul2025 18:45:38.670] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[09Jul2025 18:45:42.214] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 0] Saved.
+[09Jul2025 18:45:42.215] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[09Jul2025 18:45:42.215] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[09Jul2025 18:45:42.216] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -1] Saved.
+[09Jul2025 18:45:42.216] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[09Jul2025 18:45:42.229] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[09Jul2025 18:45:42.230] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[09Jul2025 18:45:42.230] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[09Jul2025 18:45:42.231] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[09Jul2025 18:45:42.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 18:45:42.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 18:45:48.456] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[09Jul2025 18:47:04.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> 281 -280
+[09Jul2025 18:48:50.102] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[09Jul2025 18:48:54.748] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[09Jul2025 18:50:42.210] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[09Jul2025 18:50:42.210] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[09Jul2025 18:50:42.211] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[09Jul2025 18:50:42.211] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[09Jul2025 18:50:42.213] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[09Jul2025 18:50:42.223] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[09Jul2025 18:50:42.224] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[09Jul2025 18:50:42.225] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[09Jul2025 18:50:42.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 18:50:42.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 18:52:01.401] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[09Jul2025 18:52:08.875] [IO-Worker-83/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[09Jul2025 18:52:14.648] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[09Jul2025 18:52:43.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Created team [a]]
+[09Jul2025 18:52:47.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Added 2 members to team [a]]
+[09Jul2025 18:52:54.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Disabled friendly fire for team [a]]
+[09Jul2025 18:53:26.910] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[09Jul2025 18:54:24.357] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2753 in minecraft:the_end
+[09Jul2025 18:54:24.357] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2753 in lostcities:lostcity
+[09Jul2025 18:54:24.358] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2753 in deceasedcraft:abyss
+[09Jul2025 18:54:24.358] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2753 in minecraft:the_nether
+[09Jul2025 18:54:24.398] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2753 in minecraft:overworld
