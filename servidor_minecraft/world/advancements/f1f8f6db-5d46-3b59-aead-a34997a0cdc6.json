@@ -90,6 +90,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-07-09 18:40:32 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-07-09 11:22:21 +0000"
@@ -182,6 +188,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-07-09 18:32:56 +0000",
       "bread": "2025-07-09 11:31:36 +0000"
     },
     "done": false
@@ -401,6 +408,12 @@
     },
     "done": false
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-09 18:35:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2025-07-09 11:30:14 +0000",
@@ -619,6 +632,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-07-09 11:22:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-09 18:40:40 +0000"
     },
     "done": true
   },

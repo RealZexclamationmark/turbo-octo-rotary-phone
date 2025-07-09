@@ -1027,3 +1027,28 @@
 [09Jul2025 18:28:37.387] [Worker-Main31/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=608, y=210, z=95}
 [09Jul2025 18:28:37.388] [Worker-Main31/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=608, y=210, z=95}
 [09Jul2025 18:28:37.388] [Worker-Main31/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=608, y=210, z=95}
+[09Jul2025 18:35:04.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Stone Age]
+[09Jul2025 18:36:03.910] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5c0308c9
+[09Jul2025 18:36:03.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RealZSs[/127.161.249.46:55583] logged in with entity id 48936 at (189.5334364102089, 78.0, -176.3690539903296)
+[09Jul2025 18:36:03.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs joined the game
+[09Jul2025 18:36:03.939] [Server thread/INFO] [tac/]: PENDING
+[09Jul2025 18:36:04.007] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for c6882b73-0c38-385e-98d7-5f1485ac8bbe
+[09Jul2025 18:36:04.538] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RealZSs (17)
+[09Jul2025 18:36:04.538] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RealZSs
+[09Jul2025 18:36:41.967] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5895 in minecraft:the_end
+[09Jul2025 18:36:41.968] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5895 in lostcities:lostcity
+[09Jul2025 18:36:41.970] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5895 in deceasedcraft:abyss
+[09Jul2025 18:36:41.971] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5895 in minecraft:the_nether
+[09Jul2025 18:36:41.998] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5895 in minecraft:overworld
+[09Jul2025 18:39:23.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> 220 -190
+[09Jul2025 18:39:32.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new Purple Transporter
+[09Jul2025 18:40:32.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has reached the goal [Dinner's Served!]
+[09Jul2025 18:40:40.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Getting an Upgrade]
+[09Jul2025 18:40:57.533] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[09Jul2025 18:42:01.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> 281 -280
+[09Jul2025 18:42:23.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> 281 -280
+[09Jul2025 18:42:24.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> 281 -280
+[09Jul2025 18:42:24.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> 281 -280
+[09Jul2025 18:42:25.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> 281 -280
+[09Jul2025 18:42:25.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> 281 -280
+[09Jul2025 18:42:26.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> 281 -280
