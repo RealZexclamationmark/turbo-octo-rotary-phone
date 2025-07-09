@@ -331,6 +331,12 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-07-09 21:01:56 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-07-09 12:02:46 +0000"
@@ -477,7 +483,8 @@
       "minecraft:lukewarm_ocean": "2025-07-09 20:45:21 +0000",
       "minecraft:ocean": "2025-07-09 11:34:27 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-09 20:44:24 +0000",
-      "minecraft:flower_forest": "2025-07-09 11:30:46 +0000"
+      "minecraft:flower_forest": "2025-07-09 11:30:46 +0000",
+      "minecraft:savanna": "2025-07-09 20:56:10 +0000"
     },
     "done": false
   },
