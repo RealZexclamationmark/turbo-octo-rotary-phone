@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "CagdasWFX"
 		"ftbteams:description": ""
-		"ftbteams:color": "#5983FF"
+		"ftbteams:color": "#FF8B59"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}
