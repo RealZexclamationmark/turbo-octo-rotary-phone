@@ -72,6 +72,12 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-07-09 19:58:50 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:root": {
     "criteria": {
       "requirement": "2025-07-09 11:22:21 +0000"
@@ -232,6 +238,12 @@
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2025-07-09 11:22:21 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/craft_duroplast": {
+    "criteria": {
+      "has_item": "2025-07-09 19:57:43 +0000"
     },
     "done": true
   },
@@ -517,6 +529,12 @@
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-07-09 11:22:21 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:upgrading_your_grid": {
+    "criteria": {
+      "crafting_grid_in_inventory": "2025-07-09 19:58:51 +0000"
     },
     "done": true
   },

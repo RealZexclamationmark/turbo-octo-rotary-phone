@@ -17499,3 +17499,36 @@ java.lang.NullPointerException: Cannot invoke "shadows.click.block.AutoClickerTi
 [09Jul2025 19:53:22.874] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:canada1
 [09Jul2025 19:53:22.901] [Worker-Main20/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:desert1
 [09Jul2025 19:54:39.313] [IO-Worker-188/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-200
+[09Jul2025 19:55:34.898] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[09Jul2025 19:55:34.898] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[09Jul2025 19:55:42.209] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -2] Saved.
+[09Jul2025 19:55:42.209] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-201
+[09Jul2025 19:55:42.209] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-202
+[09Jul2025 19:55:42.211] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-203
+[09Jul2025 19:55:42.218] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-204
+[09Jul2025 19:55:42.219] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-205
+[09Jul2025 19:55:42.220] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-206
+[09Jul2025 19:55:42.220] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-207
+[09Jul2025 19:55:42.221] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-208
+[09Jul2025 19:55:42.221] [IO-Worker-191/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-209
+[09Jul2025 19:55:42.221] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-210
+[09Jul2025 19:55:42.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 19:55:42.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 19:57:43.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has reached the goal [Modern Materials]
+[09Jul2025 19:58:41.952] [IO-Worker-191/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-211
+[09Jul2025 19:58:51.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Upgrading your Grid]
+[09Jul2025 19:58:55.098] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[09Jul2025 19:58:55.557] [IO-Worker-211/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-212
+[09Jul2025 20:00:42.209] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-213
+[09Jul2025 20:00:42.210] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-214
+[09Jul2025 20:00:42.210] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-215
+[09Jul2025 20:00:42.216] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-216
+[09Jul2025 20:00:42.216] [IO-Worker-214/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-217
+[09Jul2025 20:00:42.217] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-218
+[09Jul2025 20:00:42.217] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-219
+[09Jul2025 20:00:42.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 20:00:42.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 20:01:53.675] [IO-Worker-219/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-220
+[09Jul2025 20:02:14.998] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[09Jul2025 20:02:37.417] [IO-Worker-220/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-221
+[09Jul2025 20:03:39.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Penteconter]

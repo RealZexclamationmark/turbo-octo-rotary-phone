@@ -1161,3 +1161,6 @@ java.lang.NullPointerException: Cannot invoke "shadows.click.block.AutoClickerTi
 [09Jul2025 19:39:55.121] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [09Jul2025 19:40:14.367] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [09Jul2025 19:41:28.972] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[09Jul2025 19:57:43.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has reached the goal [Modern Materials]
+[09Jul2025 19:58:51.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Upgrading your Grid]
+[09Jul2025 20:03:39.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Penteconter]
