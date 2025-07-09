@@ -17217,3 +17217,59 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Jul2025 11:30:12.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs was slain by Zombie
 [09Jul2025 11:30:14.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [09Jul2025 11:30:14.090] [Server thread/INFO] [tac/]: PENDING
+[09Jul2025 11:30:28.878] [Server thread/DEBUG] [mixin/]: Mixing allocations.do_nothing.VillagerGoalPackagesMixin from saturn.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[09Jul2025 11:30:28.883] [Server thread/DEBUG] [mixin/]: Mixing WorkAtComposterAccess from kiwi.mixins.json into net.minecraft.world.entity.ai.behavior.WorkAtComposter
+[09Jul2025 11:30:28.883] [Server thread/DEBUG] [mixin/]: kiwi.mixins.json:WorkAtComposterAccess: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[09Jul2025 11:30:28.883] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method getCOMPOSTABLE_ITEMS()Ljava/util/List; to getCOMPOSTABLE_ITEMS_$md$b4bbd9$0 in kiwi.mixins.json:WorkAtComposterAccess
+[09Jul2025 11:30:28.883] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method setCOMPOSTABLE_ITEMS(Ljava/util/List;)V to setCOMPOSTABLE_ITEMS_$md$b4bbd9$1 in kiwi.mixins.json:WorkAtComposterAccess
+[09Jul2025 11:30:28.901] [Server thread/DEBUG] [mixin/]: Mixing compat116plus.VillagerBreedTaskMixin from pehkui.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
+[09Jul2025 11:30:28.901] [Server thread/DEBUG] [mixin/]: pehkui.mixins.json:compat116plus.VillagerBreedTaskMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[09Jul2025 11:30:28.905] [Server thread/DEBUG] [mixin/]: Mixing ai.poi.tasks.LocateHidingPlaceMixin from canary.mixins.json into net.minecraft.world.entity.ai.behavior.LocateHidingPlace
+[09Jul2025 11:30:30.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Creative Mode]
+[09Jul2025 11:31:08.477] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[09Jul2025 11:31:08.477] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[09Jul2025 11:31:51.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[09Jul2025 11:32:03.151] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -2] Saved.
+[09Jul2025 11:32:03.152] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[09Jul2025 11:32:03.153] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -2] Saved.
+[09Jul2025 11:32:03.153] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -1] Saved.
+[09Jul2025 11:32:03.154] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[09Jul2025 11:32:03.155] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[09Jul2025 11:32:03.155] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[09Jul2025 11:32:03.172] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[09Jul2025 11:32:03.173] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[09Jul2025 11:32:03.174] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[09Jul2025 11:32:03.174] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[09Jul2025 11:32:03.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 11:32:03.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 11:32:37.687] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$1d877547874f4bc79235130f6679e155 (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
+[09Jul2025 11:32:48.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Disme A Dozen]
+[09Jul2025 11:33:17.292] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[09Jul2025 11:34:19.144] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[09Jul2025 11:34:19.144] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[09Jul2025 11:34:28.627] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[09Jul2025 11:34:41.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Amateur Archaeologist]
+[09Jul2025 11:35:53.511] [Worker-Main16/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[1, -1]
+[09Jul2025 11:36:43.362] [Worker-Main19/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[1, 0]
+[09Jul2025 11:36:47.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RealZSs> 227 90 -190
+[09Jul2025 11:37:03.142] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 0] Saved.
+[09Jul2025 11:37:03.143] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[09Jul2025 11:37:03.144] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[09Jul2025 11:37:03.145] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -1] Saved.
+[09Jul2025 11:37:03.145] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[09Jul2025 11:37:03.145] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[09Jul2025 11:37:03.145] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[09Jul2025 11:37:03.146] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -1] Saved.
+[09Jul2025 11:37:03.147] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[09Jul2025 11:37:03.147] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 0] Saved.
+[09Jul2025 11:37:03.147] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[09Jul2025 11:37:03.157] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[09Jul2025 11:37:03.158] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[09Jul2025 11:37:03.158] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[09Jul2025 11:37:03.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 11:37:03.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 11:37:11.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Refined Storage]
+[09Jul2025 11:37:20.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new Cyan SUV
+[09Jul2025 11:37:48.577] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[09Jul2025 11:38:39.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Close Quarters]
+[09Jul2025 11:39:22.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Sweet Dreams]
