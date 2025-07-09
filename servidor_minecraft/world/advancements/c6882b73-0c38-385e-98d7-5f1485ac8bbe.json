@@ -54,6 +54,12 @@
     },
     "done": true
   },
+  "ag_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement": "2025-07-09 20:33:30 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/thermolith": {
     "criteria": {
       "has_recipe": "2025-07-09 11:22:16 +0000"
@@ -441,6 +447,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-07-09 18:44:02 +0000",
+      "jade_cliffs": "2025-07-09 20:39:37 +0000",
       "orchard": "2025-07-09 11:44:06 +0000",
       "dune_beach": "2025-07-09 11:22:16 +0000",
       "pasture": "2025-07-09 11:22:28 +0000",
@@ -614,7 +621,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:husk": "2025-07-09 12:14:08 +0000",
-      "minecraft:zombie": "2025-07-09 11:29:21 +0000"
+      "minecraft:zombie": "2025-07-09 11:29:21 +0000",
+      "minecraft:zombie_villager": "2025-07-09 20:37:51 +0000"
     },
     "done": false
   },

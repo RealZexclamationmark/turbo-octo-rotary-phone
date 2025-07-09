@@ -1187,3 +1187,76 @@ java.lang.NullPointerException: Cannot invoke "shadows.click.block.AutoClickerTi
 [09Jul2025 20:32:58.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [09Jul2025 20:32:58.968] [Server thread/INFO] [tac/]: PENDING
 [09Jul2025 20:33:30.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Keep Going]
+[09Jul2025 20:38:07.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs died from dehydration while fighting The Moonflower
+[09Jul2025 20:38:07.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Killed RealZSs]
+[09Jul2025 20:38:08.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[09Jul2025 20:38:08.622] [Server thread/INFO] [tac/]: PENDING
+[09Jul2025 20:38:10.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported RealZSs to CagdasWFX]
+[09Jul2025 20:39:49.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Disabled friendly fire for team [a]]
+[09Jul2025 20:41:47.854] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=605, y=204, z=239}
+[09Jul2025 20:41:47.855] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=606, y=204, z=239}
+[09Jul2025 20:41:47.855] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=606, y=204, z=239}
+[09Jul2025 20:41:47.855] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=606, y=204, z=239}
+[09Jul2025 20:41:47.855] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=607, y=204, z=239}
+[09Jul2025 20:41:47.855] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=606, y=204, z=239}
+[09Jul2025 20:41:47.855] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=606, y=204, z=239}
+[09Jul2025 20:41:47.856] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=606, y=204, z=239}
+[09Jul2025 20:41:47.886] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=607, y=205, z=224}
+[09Jul2025 20:41:47.887] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=206, z=224}
+[09Jul2025 20:41:47.887] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=206, z=224}
+[09Jul2025 20:41:47.887] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=206, z=224}
+[09Jul2025 20:41:47.887] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=606, y=205, z=224}
+[09Jul2025 20:41:47.887] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=606, y=205, z=224}
+[09Jul2025 20:41:47.887] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=606, y=205, z=224}
+[09Jul2025 20:41:47.887] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=607, y=206, z=224}
+[09Jul2025 20:41:47.887] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=205, z=224}
+[09Jul2025 20:41:47.887] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=205, z=224}
+[09Jul2025 20:41:47.888] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=205, z=224}
+[09Jul2025 20:41:47.888] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=207, z=224}
+[09Jul2025 20:41:47.888] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=207, z=224}
+[09Jul2025 20:41:47.888] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=207, z=224}
+[09Jul2025 20:42:21.835] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=607, y=205, z=224}
+[09Jul2025 20:42:21.836] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=206, z=224}
+[09Jul2025 20:42:21.836] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=206, z=224}
+[09Jul2025 20:42:21.836] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=206, z=224}
+[09Jul2025 20:42:21.836] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=205, z=223}
+[09Jul2025 20:42:21.836] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=205, z=223}
+[09Jul2025 20:42:21.836] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=205, z=223}
+[09Jul2025 20:42:21.836] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=205, z=225}
+[09Jul2025 20:42:21.836] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=205, z=225}
+[09Jul2025 20:42:21.836] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=205, z=225}
+[09Jul2025 20:42:21.836] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=607, y=206, z=224}
+[09Jul2025 20:42:21.837] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=205, z=224}
+[09Jul2025 20:42:21.837] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=205, z=224}
+[09Jul2025 20:42:21.837] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=205, z=224}
+[09Jul2025 20:42:21.837] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=207, z=224}
+[09Jul2025 20:42:21.837] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=207, z=224}
+[09Jul2025 20:42:21.837] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=207, z=224}
+[09Jul2025 20:42:21.837] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=206, z=223}
+[09Jul2025 20:42:21.837] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=206, z=223}
+[09Jul2025 20:42:21.838] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=206, z=223}
+[09Jul2025 20:42:21.838] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=607, y=207, z=224}
+[09Jul2025 20:42:21.838] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=206, z=224}
+[09Jul2025 20:42:21.838] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=206, z=224}
+[09Jul2025 20:42:21.838] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=206, z=224}
+[09Jul2025 20:42:21.838] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=607, y=204, z=239}
+[09Jul2025 20:42:21.838] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=204, z=238}
+[09Jul2025 20:42:21.838] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=204, z=238}
+[09Jul2025 20:42:21.839] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=204, z=238}
+[09Jul2025 20:42:21.839] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=204, z=240}
+[09Jul2025 20:42:21.839] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=204, z=240}
+[09Jul2025 20:42:21.839] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=204, z=240}
+[09Jul2025 20:42:21.866] [Worker-Main12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=607, y=204, z=241}
+[09Jul2025 20:42:21.866] [Worker-Main12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=205, z=241}
+[09Jul2025 20:42:21.866] [Worker-Main12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=205, z=241}
+[09Jul2025 20:42:21.866] [Worker-Main12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=205, z=241}
+[09Jul2025 20:42:21.866] [Worker-Main12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=204, z=240}
+[09Jul2025 20:42:21.866] [Worker-Main12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=204, z=240}
+[09Jul2025 20:42:21.866] [Worker-Main12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=607, y=204, z=240}
+[09Jul2025 20:42:21.867] [Worker-Main12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=609, y=204, z=239}
+[09Jul2025 20:42:21.867] [Worker-Main12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=608, y=204, z=239}
+[09Jul2025 20:42:21.867] [Worker-Main12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=608, y=204, z=239}
+[09Jul2025 20:42:21.867] [Worker-Main12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=608, y=204, z=239}
+[09Jul2025 20:42:21.867] [Worker-Main12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=609, y=204, z=239}
+[09Jul2025 20:42:21.867] [Worker-Main12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=609, y=204, z=239}
+[09Jul2025 20:42:21.867] [Worker-Main12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=609, y=204, z=239}
