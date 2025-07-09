@@ -23,6 +23,13 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "honey_glazed_ham": "2025-07-09 11:42:50 +0000",
+      "beef_stew": "2025-07-09 11:42:45 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_the_recipe": "2025-07-09 11:22:21 +0000"
@@ -329,6 +336,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-09 11:45:19 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-07-09 11:22:21 +0000"
@@ -426,6 +439,18 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "honey_glazed_ham": "2025-07-09 11:42:47 +0000"
+    },
+    "done": true
+  },
+  "ag_day_counter:firts_day_advancement": {
+    "criteria": {
+      "firts_day_advancement": "2025-07-09 11:42:15 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-07-09 11:22:21 +0000"
@@ -492,6 +517,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-09 11:45:19 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/root": {
     "criteria": {
       "has_planks": "2025-07-09 11:30:55 +0000"
@@ -513,6 +544,12 @@
   "comforts:hammock_lime_from_white": {
     "criteria": {
       "has_the_recipe": "2025-07-09 11:22:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-07-09 11:42:50 +0000"
     },
     "done": true
   },
@@ -570,9 +607,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-07-09 11:42:45 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-07-09 11:22:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-07-09 11:40:24 +0000"
     },
     "done": true
   },
@@ -586,6 +635,12 @@
     "criteria": {
       "has_blazepowder": "2025-07-09 11:22:21 +0000",
       "has_bolt": "2025-07-09 11:22:21 +0000"
+    },
+    "done": true
+  },
+  "crossbowverhaul:recipes/combat/bolt_iron": {
+    "criteria": {
+      "has_ingot": "2025-07-09 11:40:24 +0000"
     },
     "done": true
   },

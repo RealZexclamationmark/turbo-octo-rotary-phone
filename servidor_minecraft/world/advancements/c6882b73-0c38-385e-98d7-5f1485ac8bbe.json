@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "vegetable_soup": "2025-07-09 11:43:45 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_the_recipe": "2025-07-09 11:22:16 +0000"
@@ -281,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-09 11:45:32 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-07-09 11:34:41 +0000"
@@ -359,6 +371,12 @@
     },
     "done": true
   },
+  "refinedstorage:root": {
+    "criteria": {
+      "controller_in_inventory": "2025-07-09 11:37:11 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-07-09 11:22:16 +0000"
@@ -385,11 +403,18 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "orchard": "2025-07-09 11:44:06 +0000",
       "dune_beach": "2025-07-09 11:22:16 +0000",
       "pasture": "2025-07-09 11:22:28 +0000",
       "prairie": "2025-07-09 11:23:16 +0000"
     },
     "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-09 11:45:47 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
@@ -406,6 +431,12 @@
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-07-09 11:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-09 11:39:22 +0000"
     },
     "done": true
   },
@@ -430,6 +461,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-07-09 11:29:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "stuffed_pumpkin": "2025-07-09 11:41:47 +0000"
     },
     "done": true
   },
@@ -523,6 +560,12 @@
     },
     "done": false
   },
+  "pfm:recipes/root": {
+    "criteria": {
+      "has_planks": "2025-07-09 11:45:30 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-07-09 11:22:16 +0000"
@@ -583,6 +626,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-07-09 11:38:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-07-09 11:26:58 +0000"
@@ -595,9 +644,21 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-09 11:46:20 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2025-07-09 11:22:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-07-09 11:43:45 +0000"
     },
     "done": true
   },
