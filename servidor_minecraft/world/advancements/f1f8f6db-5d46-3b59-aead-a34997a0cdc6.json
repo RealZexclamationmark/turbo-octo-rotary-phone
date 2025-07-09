@@ -193,9 +193,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-09 10:25:16 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2025-07-09 10:20:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "honey_glazed_ham": "2025-07-09 10:30:18 +0000"
     },
     "done": true
   },
@@ -241,6 +253,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-09 10:26:57 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2025-07-09 10:20:54 +0000"
@@ -250,6 +268,12 @@
   "comforts:hammock_cyan": {
     "criteria": {
       "has_the_recipe": "2025-07-09 10:20:54 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-07-09 10:28:52 +0000"
     },
     "done": true
   },
@@ -277,6 +301,12 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-07-09 10:28:52 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-07-09 10:20:55 +0000"
@@ -286,6 +316,12 @@
   "comforts:hammock_black_from_white": {
     "criteria": {
       "has_the_recipe": "2025-07-09 10:20:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-07-09 10:27:57 +0000"
     },
     "done": true
   },

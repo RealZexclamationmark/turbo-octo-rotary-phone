@@ -16916,3 +16916,46 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Jul2025 10:26:44.931] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
 [09Jul2025 10:26:57.657] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@1bb03899 for service interface com.blamejared.clumps.platform.IEventHelper
 [09Jul2025 10:26:57.658] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@7d901da5 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[09Jul2025 10:27:39.502] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[09Jul2025 10:27:39.503] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[09Jul2025 10:27:39.510] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[09Jul2025 10:27:39.511] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[09Jul2025 10:27:39.512] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[09Jul2025 10:27:39.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 10:27:39.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 10:27:42.059] [Server thread/DEBUG] [mixin/]: Mixing fastbench.MixinFastBenchUtil from polymorph_integrations.mixins.json into shadows.fastbench.util.FastBenchUtil
+[09Jul2025 10:27:42.059] [Server thread/DEBUG] [mixin/]: polymorph_integrations.mixins.json:fastbench.MixinFastBenchUtil: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[09Jul2025 10:27:52.683] [Server thread/DEBUG] [mixin/]: Mixing allocations.do_nothing.PiglinAiMixin from saturn.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[09Jul2025 10:27:52.683] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from hordes.mixin.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[09Jul2025 10:27:52.684] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[09Jul2025 10:27:57.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Crops of the Wild]
+[09Jul2025 10:28:52.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement ['X' Marks the Spot]
+[09Jul2025 10:29:48.089] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[09Jul2025 10:29:48.643] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[09Jul2025 10:29:48.643] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[09Jul2025 10:29:55.841] [Server thread/DEBUG] [mixin/]: Mixing allocations.do_nothing.VillagerGoalPackagesMixin from saturn.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[09Jul2025 10:29:55.845] [Server thread/DEBUG] [mixin/]: Mixing WorkAtComposterAccess from kiwi.mixins.json into net.minecraft.world.entity.ai.behavior.WorkAtComposter
+[09Jul2025 10:29:55.845] [Server thread/DEBUG] [mixin/]: kiwi.mixins.json:WorkAtComposterAccess: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[09Jul2025 10:29:55.845] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method getCOMPOSTABLE_ITEMS()Ljava/util/List; to getCOMPOSTABLE_ITEMS_$md$750949$0 in kiwi.mixins.json:WorkAtComposterAccess
+[09Jul2025 10:29:55.845] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method setCOMPOSTABLE_ITEMS(Ljava/util/List;)V to setCOMPOSTABLE_ITEMS_$md$750949$1 in kiwi.mixins.json:WorkAtComposterAccess
+[09Jul2025 10:29:55.868] [Server thread/DEBUG] [mixin/]: Mixing compat116plus.VillagerBreedTaskMixin from pehkui.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
+[09Jul2025 10:29:55.868] [Server thread/DEBUG] [mixin/]: pehkui.mixins.json:compat116plus.VillagerBreedTaskMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[09Jul2025 10:29:55.872] [Server thread/DEBUG] [mixin/]: Mixing ai.poi.tasks.LocateHidingPlaceMixin from canary.mixins.json into net.minecraft.world.entity.ai.behavior.LocateHidingPlace
+[09Jul2025 10:30:18.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [A Glorious Feast]
+[09Jul2025 10:31:07.348] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$3f98134b6b9b414a95dd14439b991d17 (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
+[09Jul2025 10:31:28.948] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[09Jul2025 10:31:28.952] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[09Jul2025 10:32:39.500] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[09Jul2025 10:32:39.503] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[09Jul2025 10:32:39.512] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[09Jul2025 10:32:39.513] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[09Jul2025 10:32:39.515] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[09Jul2025 10:32:39.515] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[09Jul2025 10:32:39.517] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[09Jul2025 10:32:39.518] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[09Jul2025 10:32:39.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 10:32:39.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 10:33:08.089] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[09Jul2025 10:36:23.456] [IO-Worker-89/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[09Jul2025 10:36:27.989] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[09Jul2025 10:36:28.039] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
