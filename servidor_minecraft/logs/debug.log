@@ -18625,3 +18625,71 @@ java.lang.NullPointerException: Cannot invoke "shadows.click.block.AutoClickerTi
 [09Jul2025 21:15:42.238] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-353
 [09Jul2025 21:15:42.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jul2025 21:15:42.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 21:16:29.373] [Worker-Main14/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-1, 8]
+[09Jul2025 21:16:32.134] [Worker-Main8/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[0, 8]
+[09Jul2025 21:16:47.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new Oak Wood Car
+[09Jul2025 21:17:14.099] [Server thread/DEBUG] [mixin/]: Mixing allocations.do_nothing.AxolotlAiMixin from saturn.mixins.json into net.minecraft.world.entity.animal.axolotl.AxolotlAi
+[09Jul2025 21:17:46.986] [Worker-Main20/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-1, 9]
+[09Jul2025 21:17:47.313] [Worker-Main23/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[0, 9]
+[09Jul2025 21:17:50.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs was killed by magic
+[09Jul2025 21:17:56.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[09Jul2025 21:17:56.859] [Server thread/INFO] [tac/]: PENDING
+[09Jul2025 21:18:01.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported RealZSs to CagdasWFX]
+[09Jul2025 21:18:27.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Spectator Mode]
+[09Jul2025 21:18:29.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[09Jul2025 21:18:30.546] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of RealZSs: {disabled=false, disconnected=true, uuid=c6882b73-0c38-385e-98d7-5f1485ac8bbe, name=RealZSs, group=null}
+[09Jul2025 21:18:30.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Spectator Mode]
+[09Jul2025 21:18:32.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[09Jul2025 21:18:32.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Spectator Mode]
+[09Jul2025 21:18:33.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[09Jul2025 21:18:33.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Spectator Mode]
+[09Jul2025 21:18:36.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Creative Mode]
+[09Jul2025 21:18:55.498] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[09Jul2025 21:18:59.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new White Sportscar
+[09Jul2025 21:19:23.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Teleported RealZSs to CagdasWFX]
+[09Jul2025 21:19:24.149] [IO-Worker-348/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-354
+[09Jul2025 21:19:26.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[09Jul2025 21:20:42.210] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-355
+[09Jul2025 21:20:42.210] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-356
+[09Jul2025 21:20:42.211] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[09Jul2025 21:20:42.211] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 9] Saved.
+[09Jul2025 21:20:42.211] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-357
+[09Jul2025 21:20:42.212] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 8] Saved.
+[09Jul2025 21:20:42.212] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-358
+[09Jul2025 21:20:42.213] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 7] Saved.
+[09Jul2025 21:20:42.213] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 6] Saved.
+[09Jul2025 21:20:42.215] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 6] Saved.
+[09Jul2025 21:20:42.215] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 8] Saved.
+[09Jul2025 21:20:42.215] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 7] Saved.
+[09Jul2025 21:20:42.215] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 9] Saved.
+[09Jul2025 21:20:42.222] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-359
+[09Jul2025 21:20:42.223] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-360
+[09Jul2025 21:20:42.224] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-361
+[09Jul2025 21:20:42.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 21:20:42.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 21:20:43.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Spectator Mode]
+[09Jul2025 21:21:05.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[09Jul2025 21:21:10.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Spectator Mode]
+[09Jul2025 21:22:15.398] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[09Jul2025 21:22:20.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[09Jul2025 21:22:30.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Spectator Mode]
+[09Jul2025 21:22:47.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[09Jul2025 21:23:04.059] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of RealZSs: {disabled=true, disconnected=true, uuid=c6882b73-0c38-385e-98d7-5f1485ac8bbe, name=RealZSs, group=null}
+[09Jul2025 21:23:06.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Spectator Mode]
+[09Jul2025 21:23:57.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Survival Mode]
+[09Jul2025 21:24:27.408] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[09Jul2025 21:24:29.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Set own game mode to Spectator Mode]
+[09Jul2025 21:24:37.074] [IO-Worker-361/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-362
+[09Jul2025 21:24:46.250] [IO-Worker-351/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-363
+[09Jul2025 21:25:35.348] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[09Jul2025 21:25:35.348] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[09Jul2025 21:25:42.211] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-364
+[09Jul2025 21:25:42.213] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 8] Saved.
+[09Jul2025 21:25:42.213] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 9] Saved.
+[09Jul2025 21:25:42.214] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-365
+[09Jul2025 21:25:42.217] [IO-Worker-351/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-366
+[09Jul2025 21:25:42.217] [IO-Worker-351/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-367
+[09Jul2025 21:25:42.220] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-368
+[09Jul2025 21:25:42.221] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-369
+[09Jul2025 21:25:42.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 21:25:42.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
