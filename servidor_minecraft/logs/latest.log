@@ -1124,3 +1124,22 @@
 [09Jul2025 10:07:37.538] [Server thread/WARN] [ModernFix/]: Dedicated server took 125.182 seconds to load
 [09Jul2025 10:07:37.547] [Server thread/INFO] [readyplayerfun/]: Pausing server onWorldTick at 0, 0
 [09Jul2025 10:07:38.494] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Found Pupfish chunk at -1729 ~ 896 after 12 tries
+[09Jul2025 10:20:02.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] e
+[09Jul2025 10:20:04.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] omg
+[09Jul2025 10:20:53.886] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@737a30b
+[09Jul2025 10:20:53.913] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CagdasWFX[/127.152.115.75:46829] logged in with entity id 210 at (64.5, 64.0, -159.5)
+[09Jul2025 10:20:54.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX joined the game
+[09Jul2025 10:20:54.140] [Server thread/INFO] [tac/]: PENDING
+[09Jul2025 10:20:54.373] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f1f8f6db-5d46-3b59-aead-a34997a0cdc6
+[09Jul2025 10:20:54.574] [Server thread/INFO] [readyplayerfun/]: Unpausing server: onPlayerLogin, 0:13:17 at 0, 0
+[09Jul2025 10:20:54.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Inhospitable]
+[09Jul2025 10:20:54.918] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CagdasWFX (17)
+[09Jul2025 10:20:54.920] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CagdasWFX
+[09Jul2025 10:20:55.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [First Day]
+[09Jul2025 10:20:56.362] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[09Jul2025 10:21:11.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] cado gotunu
+[09Jul2025 10:21:55.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[09Jul2025 10:21:56.264] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3abea0e4
+[09Jul2025 10:21:59.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] vay amk
+[09Jul2025 10:22:30.514] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@479d66c8
+[09Jul2025 10:22:39.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] billurlandı
