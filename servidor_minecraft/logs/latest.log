@@ -1164,3 +1164,13 @@ java.lang.NullPointerException: Cannot invoke "shadows.click.block.AutoClickerTi
 [09Jul2025 19:57:43.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has reached the goal [Modern Materials]
 [09Jul2025 19:58:51.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Upgrading your Grid]
 [09Jul2025 20:03:39.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX has made the advancement [Penteconter]
+[09Jul2025 20:07:13.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CagdasWFX was slain by Zombie
+[09Jul2025 20:07:15.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[09Jul2025 20:07:15.339] [Server thread/INFO] [tac/]: PENDING
+[09Jul2025 20:07:33.360] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[09Jul2025 20:08:39.133] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[09Jul2025 20:14:25.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs has made the advancement [Suit Up]
+[09Jul2025 20:14:52.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RealZSs: Enabled friendly fire for team [a]]
+[09Jul2025 20:14:55.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs was slain by CagdasWFX
+[09Jul2025 20:14:57.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[09Jul2025 20:14:57.197] [Server thread/INFO] [tac/]: PENDING
