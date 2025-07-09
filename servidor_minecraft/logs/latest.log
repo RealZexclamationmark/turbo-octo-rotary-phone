@@ -1174,3 +1174,5 @@ java.lang.NullPointerException: Cannot invoke "shadows.click.block.AutoClickerTi
 [09Jul2025 20:14:55.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs was slain by CagdasWFX
 [09Jul2025 20:14:57.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [09Jul2025 20:14:57.197] [Server thread/INFO] [tac/]: PENDING
+[09Jul2025 20:16:51.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Teleported CagdasWFX to RealZSs]
+[09Jul2025 20:21:05.754] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN

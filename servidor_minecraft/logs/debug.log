@@ -17567,3 +17567,31 @@ java.lang.NullPointerException: Cannot invoke "shadows.click.block.AutoClickerTi
 [09Jul2025 20:14:55.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealZSs was slain by CagdasWFX
 [09Jul2025 20:14:57.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [09Jul2025 20:14:57.197] [Server thread/INFO] [tac/]: PENDING
+[09Jul2025 20:15:34.998] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[09Jul2025 20:15:34.998] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[09Jul2025 20:15:42.214] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-239
+[09Jul2025 20:15:42.215] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-240
+[09Jul2025 20:15:42.216] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-241
+[09Jul2025 20:15:42.216] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-242
+[09Jul2025 20:15:42.223] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-243
+[09Jul2025 20:15:42.236] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-244
+[09Jul2025 20:15:42.236] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-245
+[09Jul2025 20:15:42.237] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-246
+[09Jul2025 20:15:42.238] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-247
+[09Jul2025 20:15:42.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 20:15:42.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 20:16:51.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [CagdasWFX: Teleported CagdasWFX to RealZSs]
+[09Jul2025 20:18:55.198] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[09Jul2025 20:20:42.209] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-248
+[09Jul2025 20:20:42.209] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-249
+[09Jul2025 20:20:42.210] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-250
+[09Jul2025 20:20:42.211] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-251
+[09Jul2025 20:20:42.218] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-252
+[09Jul2025 20:20:42.218] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-253
+[09Jul2025 20:20:42.219] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-254
+[09Jul2025 20:20:42.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 20:20:42.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 20:21:05.754] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[09Jul2025 20:22:15.098] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[09Jul2025 20:22:28.470] [IO-Worker-231/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-255
+[09Jul2025 20:23:18.027] [IO-Worker-241/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-256

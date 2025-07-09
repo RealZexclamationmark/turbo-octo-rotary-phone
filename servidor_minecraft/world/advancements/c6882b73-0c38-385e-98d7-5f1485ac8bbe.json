@@ -414,6 +414,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-07-09 20:14:25 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-07-09 11:22:16 +0000"
